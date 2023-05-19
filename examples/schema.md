@@ -1,0 +1,1 @@
+# Curation of a schema

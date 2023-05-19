@@ -1,5 +1,5 @@
-## DIP-00
+<li>DIP-00</li>
 
-## DIP-01
+<li>DIP-01</li>
 
-## DIP-02
+<li>DIP-02</li>

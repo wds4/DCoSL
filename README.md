@@ -1,6 +1,8 @@
 # DCoSL: Decentralized Curation of Simple Lists
 
-DCoSL strives to be the most simple protocol imaginable for decentralized reputation and web of trust. In the spirit of nostr, dcosl is defined by a series of DIPs: dcosl implementation proposals. The only proposal that is absolutely required is DIP-0. Every proposal after that is optional.
+DCoSL strives to be the most simple protocol imaginable for decentralized reputation and web of trust. In the spirit of nostr, dcosl is defined by a series of DIPs: dcosl implementation proposals. 
+
+The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. For many proposals, specific details of implementation will be provided. DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute` or a `DIP-xx-equivalent`. (Provide example of this.)
 
 # Why do we need this?
 

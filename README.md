@@ -16,7 +16,9 @@ The reason that DCoSL will succeed where previous attempts at webs of trust have
 
 If the contents of a list are not particularly polarizing or controversial (and most of them aren't), then there is a good chance that Alice's WoT and Bob's WoT will come up with the same, or at least very similar, lists. This is known as <i>loose consensus</i>. The power of DCoSL is its ability to generate loose consensus.
 
-## Everythung can be broken down into lists
+## Everything can be broken down into lists
+
+Several categories of lists, with examples, may be considered. See examples in this repo (work in progress).
 
 A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. Imagine if your users no longer had to rely upon the World Wide Web Consortium (W3C) to manage a standard. With DCoSL, your users can farm out curation of any standard in question to their web of trust. Updates can potentially occur 24/7/365, not whenever the committee meets.
 
@@ -25,6 +27,8 @@ A data model (e.g. a verifiable credential), an ontology, a schema or a context 
 Any developer working on any peer to peer platform, protocol, library, or tool. Think of some feature that your users may want to delagate to other users. Any feature can be broken down into a series of simple lists.
 
 The first step, generally, would be to apply DCoSL to just one list. The magic will become evident once additional, carefully chosen lists are added. Milestones can be created, defined by the things that your users can delegate. You may want to expand the simple list into a complex one, following DIPs below. Or you may wish to curate data models
+
+Begin with the desired destination and then work backwars. That means: create a list of lists that together serve some function. Potentially, you will want to pick just one of the lists to offer for initial rollout to your users. Devise a method to curate that list. Provide an interface so that users have the following options: use the default list, curated by you, the team of developers; the user manages the list directly; or the users allows the web of trust to manage the list. Some intermediate states may be considered; for example, the WoT suggests updates to the list, which must then be approved manually, either individually or in aggregate, by the user. Once this is in place, then allow additional lists to be managed by DCoSL.
 
 # Overview of the dcosl implementation proposals
 
@@ -51,6 +55,8 @@ The particulars of the web of trust, the method of curation are not relevant to 
 ## DIPs ?-?: the web of trust
 
 ## DIPs ?-?: the circular economy; the diminishment of the managed repository
+
+Several of the proposed DIPs consist of lists: the list of node types, the list of relationships types, etc. In this series of DIPs, those lists are themselves curated according to the principles of DIP-0 and potentially other DIPs. 
 
 The design decisions outlined above can ultimately themselves be decomposed into simple lists and subjected to decentralized curation. 
 

@@ -2,7 +2,7 @@
 
 - [DIP-01](01.md) The grapevine: explicit, intentional attestations rather than scraped data
 
-- [DIP-02](02.md)
+- [DIP-02](02.md) The grapevine: scores as weighted averages
 
 - [DIP-03](03.md)
 

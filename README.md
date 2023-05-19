@@ -36,7 +36,7 @@ A simple list is exactly what it sounds like. An unordered set of items. Any giv
 
 Any user can sumit a new list. Any user can submit a new item to any list.
 
-Additional structure, such as an ordering to the list, partitioning into subsets, additional properties for list items, etc, are allowed but are not necessary to satisfy this dip. Some of these structures are addressed in later dips.
+Additional structure, such as an ordering to the list, partitioning into subsets, additional properties for list items, etc, are allowed but are not necessary to satisfy this dip. How to add some of these structures to a list (using additional, auxiliary simple lists) are addressed in later dips.
 
 ### Decentralized Curation
 

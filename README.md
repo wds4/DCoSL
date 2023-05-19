@@ -56,11 +56,17 @@ According to this dip, list curation is based upon explicit attestations (EA) ra
 
 DIP-1 is based on the attitude that curation via EA is more trustworthy than SD, and that the superiority of EA will grow as the DCoSL ecosystem grows and matures. Of course, a combination of these two methods may be utilized. This dip details a method to use EA by itself.
 
+## DIP-2: Score calculation
+
 ## DIPs ?-?: grow a simple list into a complex list, and ultimately into a 'concept'
 
 ## DIPs ?-?: relationships between lists: the concept graph
 
 ## DIPs ?-?: data models as graphs, a graph as a small handful of lists
+
+## DIP infinity
+
+Entire libraries, platforms, protocols are subjected to decentralized curation via DCoSL. Repository management by dev teams, standards managed by committees, etc will diminish, because the option of management via WoT will exist.
 
 ## DIPs ?-?: the web of trust
 

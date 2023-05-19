@@ -32,6 +32,8 @@ Begin with the desired destination and then work backwars. That means: create a 
 
 # Overview of the dcosl implementation proposals
 
+# DIPs 0 - ?: Fundamentals
+
 ## DIP-0: the core protocol
 
 ### Simple Lists
@@ -46,11 +48,15 @@ Additional structure, such as an ordering to the list, partitioning into subsets
 
 The particulars of the web of trust, the method of curation are not relevant to this nip. The only requirements are that each user is at the center of his or her own web of trust, and that the [Principle of Relativity for the Web of Trust](https://github.com/wds4/rebooting-the-web-of-trust/blob/master/Principle-of-Relativity-for-WoT.md) must be observed and respected. There is no Universal List. Each and every user maintains his or her own list. Alice's list and Bob's list may or may not be the same.
 
-## DIP-1: Explicit Attestations vs data scraping
+## DIP-1: The grapevine: explicit, intentional attestations rather than scraped data
 
-According to this dip, list curation is based upon explicit attestations (EA) rather than scraped data (SD) obtained using other methods. These are two opposing methods, described and discussed (here). DIP-1 is based on the attitude that curation via EA is more trustworthy than SD, and that the superiority of EA will grow as the DCoSL ecosystem grows and matures. Of course, a combination of these two methods may be utilized. This dip details a method to use EA by itself.
+In DCoSL, the term: `grapevine` is used informally in place of `web of trust` to refer to a web of trust that is built out of intentional attestations rather than scraped data. In addition, as many note, the word `trust` is frequently misleeading and inaccurate for the purpose at hand.
 
-## DIPs 1-?: grow a simple list into a complex list, and ultimately into a 'concept'
+According to this dip, list curation is based upon explicit attestations (EA) rather than scraped data (SD) obtained using other methods. These are two opposing methods for list curation, described and discussed (here). An example of an explicit attestation would be the signed statement: Alice endorses [array of pubkeys ] as sources of trustworthy content. An example of scraped data would be a WoT built upon a following list. 
+
+DIP-1 is based on the attitude that curation via EA is more trustworthy than SD, and that the superiority of EA will grow as the DCoSL ecosystem grows and matures. Of course, a combination of these two methods may be utilized. This dip details a method to use EA by itself.
+
+## DIPs ?-?: grow a simple list into a complex list, and ultimately into a 'concept'
 
 ## DIPs ?-?: relationships between lists: the concept graph
 

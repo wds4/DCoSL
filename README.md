@@ -26,7 +26,9 @@ The DCoSL protocol is designed in the same way. No matter how awesome are any of
 
 # Why has DCoSL not been done before?
 
-DCoSL requires an understanding and appreciation of loose consensus and DIP-infinity and a belief that such things are both possible and desirable. In addition, DCoSL requires a clear starting point and a roadmap. DIP-0 is an easy starting point for any project. DIP-1 is relatively easy to describe but requires considerably more work for the developer to implement. Subsequent DIPs provide the building blocks of a roadmap. Although the benefits of early stage DIPs may be slight, the potential benefits of maturing DCoSL are enormous. But no developer would ever start building these tools and following this roadmap without some assurance that the big picture is a sensible one. Hopefully, this document will be able to convey this roadmap along with its big picture.
+DCoSL requires an understanding and appreciation of several key concepts (below), most notably loose consensus and DIP-infinity (aka circular DCoSL) and a belief that such things are both possible and desirable. It can be challenging to build up or to convey any one of these concepts without the other concepts already in place.
+
+In addition, DCoSL requires a clear starting point and a roadmap. DIP-0 is an easy starting point for any project. DIP-1 is relatively easy to describe but requires considerably more work for the developer to implement. Subsequent DIPs provide the building blocks of a roadmap. Although the benefits of early stage DIPs may be slight, the potential benefits of maturing DCoSL are enormous. But no developer would ever start building these tools and following this roadmap without some assurance that the big picture is a sensible one. Hopefully, this document will be able to convey this roadmap along with its big picture.
 
 In addition to the above, some may have philosophic difficulties with the starting point, DIP-0, analogous to the philosophic difficulties of the number zero of some societies in ages past. So some gotta get past that.
 

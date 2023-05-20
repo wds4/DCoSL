@@ -44,27 +44,33 @@ Begin with the desired destination and then work backwars. That means: create a 
 
 ### DIP-00: each user occupies the center of his or her web of trust (the Principle of Relativity)
 
-## DIP-01: explicit, intentional attestations rather than scraped data (the grapevine)
+use of graphs to represent data structures; use of cryptographic identifiers for nodes (and edges)
+
+### DIP-01: explicit, intentional attestations rather than scraped data (the grapevine)
 
 specifics: two types of ratings: endorse user as curator; endorse item
 
-## DIP-02: use of graphs to represent data structures (the Concept Graph)
+### DIP-02: complex lists
 
-use of cryptographic identifiers for nodes (and edges)
+parent list augmented by auxiliary lists
 
-## DIP-03: the Context tree and inheritance of average scores
+### DIP-03: the Context tree and inheritance of average scores
 
-# DIPs (GIPs?) ?-?: the grapevine
+## DIPs (GIPs?) ?-?: the grapevine
 
 weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
 
 core relationships
 
-# DIPs (CIPs) ?-?: Concept Graph:
+## DIPs (CIPs) ?-?: Concepts
 
-grow a simple list into a complex list, and ultimately into a 'concept'
+basic types of nodes: JSONSchema, wordType, set, superset, instance
+basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf
+the Loki Principle
 
-## DIPs ?-?: relationships between lists: the concept graph
+## DIPs ?-?: relationships between concepts: the concept graph
+
+three basic relationships between concepts
 
 ## DIPs ?-?: data models as graphs, a graph as a small handful of lists
 

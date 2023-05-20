@@ -87,11 +87,15 @@ Begin with the desired destination and then work backwars. That means: create a 
 
 see examples 
 
-# Overview of the dcosl (wdcosl?) implementation proposals
+# Overview of DIPs: DCoSL implementation proposals
 
-The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. For many proposals, specific details of implementation will be provided. DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, DIP-infinity, indicates that the implementation details of all previous DIPs are themselves curated using the DCoSL method. 
+The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. 
 
-## DIPs 00 - 99: Fundamentals
+DIPs are categorized into blocks: fundamentals, the concept graph, and the grapevine.
+
+For many DIPs, specific details of implementation will be provided. However, DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute`, a `DIP-xx-alternative` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, DIP-infinity a.k.a. circular DCoSL, indicates that all implementation details of the DCoSL protocol are themselves curated using the DCoSL protocol.
+
+## DIPs 00 - 99: Fundamentals of DCoSL
 
 The only required DIP is DIP-00.
 
@@ -105,7 +109,7 @@ Specifics: two types of ratings:
 <li>endorse user as curator</li>
 <li>endorse item</li>
 
-Additional starter NIPS (link)
+Additional starter NIPS
 
 ### DIP-02: complex lists
 
@@ -118,8 +122,8 @@ use of graphs to represent data structures; use of cryptographic identifiers for
 
 ### DIP-04: the Context tree and inheritance of average scores
 
+## DIPs 100-199: the concept graph
 
-## DIPs 100-200: Concept Graph
 From simple lists, to complex lists, to concepts, to the concept graph
 
 threads, class threads, class node, class instance; analogy to the class in object-oriented programming
@@ -133,7 +137,7 @@ thread; class thread; class thread rule (principle of Loki)
 
 three basic relationships between concepts
 
-## DIPs 200-300: the grapevine
+## DIPs 200-299: the grapevine
 
 weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
 

@@ -61,7 +61,11 @@ If the contents of a list are not particularly polarizing or controversial (and 
 
 From a practical perspective, the challenge to the developer becomes which lists to curate and in what order to rollout list curation. Further broken down into manageable chunks by breaking the steps up into DIPs. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
 
-## DIP-infinity
+## DIP-infinity (aka circular DCoSL)
+
+## Context tree
+
+## the special utility for graph databases in DCoSL
 
 # How does DCoSL work?
 

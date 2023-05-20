@@ -122,15 +122,21 @@ see examples
 
 The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. For many proposals, specific details of implementation will be provided. DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, DIP-infinity, indicates that the implementation details of all previous DIPs are themselves curated using the DCoSL method. 
 
-## DIPs (WIPs?) 00 - ?: Fundamentals
+## DIPs 00 - 99: Fundamentals
+
+The only required DIP is DIP-00.
 
 ### DIP-00: each user occupies the center of his or her web of trust (the Principle of Relativity)
 
-use of graphs to represent data structures; use of cryptographic identifiers for nodes (and edges)
+### DIP-01: explicit, intentional attestations rather than scraped data
 
-### DIP-01: explicit, intentional attestations rather than scraped data (the grapevine)
+General principle: The 'grapevine' is a web of trust that implements DIP-01. 
 
-specifics: two types of ratings: endorse user as curator; endorse item
+Specifics: two types of ratings: 
+<li>endorse user as curator</li>
+<li>endorse item</li>
+
+Additional starter NIPS (link)
 
 ### DIP-02: complex lists
 
@@ -139,41 +145,36 @@ subsets, subset trees, properties, property trees
 
 ### DIP-03: use of graphs to represent complex lists and other data structures
 
+use of graphs to represent data structures; use of cryptographic identifiers for nodes (and edges)
+
 ### DIP-04: the Context tree and inheritance of average scores
 
-## DIPs (GIPs?) ?-?: the grapevine
 
-weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
-
-core relationships
-
-## DIPs (CIPs) ?-?: Concepts
+## DIPs 100-200: Concept Graph
 From simple lists, to complex lists, to concepts, to the concept graph
 
 threads, class threads, class node, class instance; analogy to the class in object-oriented programming
 
+nodes, edges (relationships)
 basic types of nodes: JSONSchema, wordType, set, superset, instance
 basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf
-the Loki Principle
+the Loki Principle = class thread rule
 
-## DIPs ?-?: relationships between concepts: the concept graph
+thread; class thread; class thread rule (principle of Loki)
 
 three basic relationships between concepts
 
-## DIPs ?-?: data models as graphs, a graph as a small handful of lists
+## DIPs 200-300: the grapevine
 
-nodes, edges
-thread; class thread; class thread rule (principle of Loki)
+weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
 
-## DIP infinity
+core relationships: attestations, ratings, endorsements
 
 Entire libraries, platforms, protocols are subjected to decentralized curation via DCoSL. Repository management by dev teams, standards managed by committees, etc will diminish, because the option of management via WoT will exist.
 
-## DIPs ?-?: the web of trust
-
-## DIPs ?-?: the circular economy; the diminishment of the managed repository
-
 Several of the proposed DIPs consist of lists: the list of node types, the list of relationships types, etc. In this series of DIPs, those lists are themselves curated according to the principles of DIP-0 and potentially other DIPs. 
 
-The design decisions outlined above can ultimately themselves be decomposed into simple lists and subjected to decentralized curation. 
+## DIP infinity, aka Circular DCoSL
+
+The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL`, a phrase that pays homage to the 'circular economy' of bitcoin.
 

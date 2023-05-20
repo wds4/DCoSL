@@ -30,15 +30,20 @@ DCoSL requires an understanding and appreciation of several key concepts (below)
 
 In addition, DCoSL requires a clear starting point and a roadmap. DIP-0 is an easy starting point for any project. DIP-1 is relatively easy to describe but requires considerably more work for the developer to implement. Subsequent DIPs provide the building blocks of a roadmap. Although the benefits of early stage DIPs may be slight, the potential benefits of maturing DCoSL are enormous. But no developer would ever start building these tools and following this roadmap without some assurance that the big picture is a sensible one. Hopefully, this document will be able to convey this roadmap along with its big picture.
 
-In addition to the above, some may have philosophic difficulties with the starting point, DIP-0, analogous to the philosophic difficulties of the number zero of some societies in ages past. So some gotta get past that.
+In addition to the above, some may have philosophic difficulties with the starting point, DIP-0, analogous to the philosophic difficulties of the number zero of some societies in ages past. So some maybe gotta get past that.
 
 # Important concepts
 
 ## Everything can be broken down into simple lists
 
 Consider the following examples of simple lists:
-<li></li>
-<li></li>
+<li>a list of nostr relays</li>
+<li>a list of reliable nostr relays</li>
+<li>a list of subsets of nostr relays: free, paid, with filters, without filters, etc</li>
+<li>a list of relationships between subsets: A is a subset of B, B is a subset of C, etc.</li>
+<li>a list of user profile attributes: display_name, picture_url, about, location, twitterHandle, etc</li>
+<li>a list of javascript data types: string, object, array, boolean, etc.</li>
+<li>a list of lists that could be farmed out to one's web of trust</li>
 
 A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. Imagine if your users no longer had to rely upon the World Wide Web Consortium (W3C) to manage a standard. With DCoSL, your users can farm out curation of any standard in question to their web of trust. Updates can potentially occur 24/7/365, not whenever the committee meets.
 

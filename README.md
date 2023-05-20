@@ -38,17 +38,31 @@ The first step, generally, would be to apply DCoSL to just one list. The magic w
 
 Begin with the desired destination and then work backwars. That means: create a list of lists that together serve some function. Potentially, you will want to pick just one of the lists to offer for initial rollout to your users. Devise a method to curate that list. Provide an interface so that users have the following options: use the default list, curated by you, the team of developers; the user manages the list directly; or the users allows the web of trust to manage the list. Some intermediate states may be considered; for example, the WoT suggests updates to the list, which must then be approved manually, either individually or in aggregate, by the user. Once this is in place, then allow additional lists to be managed by DCoSL.
 
-# Overview of the dcosl implementation proposals
+# Overview of the dcosl (wdcosl?) implementation proposals
 
-# DIPs 0 - ?: Fundamentals
+## DIPs (WIPs?) 00 - ?: Fundamentals
 
-## DIP-0: the core protocol
+### DIP-00: each user occupies the center of his or her web of trust (the Principle of Relativity)
 
-## DIP-1: The grapevine: explicit, intentional attestations rather than scraped data
+## DIP-01: explicit, intentional attestations rather than scraped data (the grapevine)
 
-## DIPs ?-?: the grapevine
+specifics: two types of ratings: endorse user as curator; endorse item
 
-## DIPs ?-?: grow a simple list into a complex list, and ultimately into a 'concept'
+## DIP-02: use of graphs to represent data structures (the Concept Graph)
+
+use of cryptographic identifiers for nodes (and edges)
+
+## DIP-03: the Context tree and inheritance of average scores
+
+# DIPs (GIPs?) ?-?: the grapevine
+
+weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
+
+core relationships
+
+# DIPs (CIPs) ?-?: Concept Graph:
+
+grow a simple list into a complex list, and ultimately into a 'concept'
 
 ## DIPs ?-?: relationships between lists: the concept graph
 

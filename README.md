@@ -103,12 +103,6 @@ The only required DIP is DIP-00.
 
 ### DIP-01: explicit, intentional attestations rather than scraped data
 
-General principle: The 'grapevine' is a web of trust that implements DIP-01. 
-
-Specifics: two types of ratings: 
-<li>endorse user as curator</li>
-<li>endorse item</li>
-
 Additional starter NIPS
 
 ### DIP-02: complex lists

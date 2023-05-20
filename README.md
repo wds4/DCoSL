@@ -58,8 +58,11 @@ specifics: two types of ratings: endorse user as curator; endorse item
 ### DIP-02: complex lists
 
 parent list augmented by auxiliary lists
+subsets, subset trees, properties, property trees
 
-### DIP-03: the Context tree and inheritance of average scores
+### DIP-03: use of graphs to represent complex lists and other data structures
+
+### DIP-04: the Context tree and inheritance of average scores
 
 ## DIPs (GIPs?) ?-?: the grapevine
 

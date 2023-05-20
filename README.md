@@ -51,17 +51,33 @@ Consider the following examples of simple lists:
 
 A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. Imagine if your users no longer had to rely upon the World Wide Web Consortium (W3C) to manage a standard. With DCoSL, your users can farm out curation of any standard in question to their web of trust. Updates can potentially occur 24/7/365, not whenever the committee meets.
 
-## Loose Consensus 
+From a practical perspective, the challenge to the developer becomes which list(s) to curate and in what order to rollout list curation. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
 
-One of the most important concepts to understand when picking which lists to farm out. Alice's WoT and Bob's WoT, though they are not identical, are very likely to have significant overlap. For any given list, although there is no guarantee, there is a good chance that Alice and Bob will end up using the exact same (or at least almost the same) list! This is a vitally important attribute, one that I call loose consensus. You'll want to think deeply about loose consensus before incorporating decentralized list curation to your app.
+## Loose Consensus 
 
 If the contents of a list are not particularly polarizing or controversial (and most of them aren't), then there is a good chance that Alice's WoT and Bob's WoT will come up with the same, or at least very similar, lists. This is known as <i>loose consensus</i>. The power of DCoSL is its ability to generate loose consensus.
 
-From a practical perspective, the challenge to the developer becomes which lists to curate and in what order to rollout list curation. Further broken down into manageable chunks by breaking the steps up into DIPs. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
+Alice's WoT and Bob's WoT, though they are not identical, are very likely to have significant overlap. For any given list, although there is no guarantee, there is a good chance that Alice and Bob will end up using the exact same (or at least almost the same) list! This is a vitally important attribute, one that I call loose consensus. You'll want to think deeply about loose consensus before incorporating decentralized list curation to your app.
 
 ## DIP-infinity (aka circular DCoSL)
 
-## Context tree
+The DCoSL protocol itself can be expressed as a bunch of lists, and those lists can be managed via DCoSL. When the entire protocol is managed in this decentralized fashion, this is called DIP-infinity, or circular DCoSL (because DCoSL is being used to define DCoSL).
+
+## Context trees and inheritance of trust scores
+
+Trust is contextual. Who manages the list of contexts? Your WoT, via DCoSL.
+
+Context can be coarse grained (Alice trusts Bob to evaluate products classified as electronics) or fine grained (Alice trusts Bob to evaluate products classified as smartphones, or iPhones, or maybe the iPhone 13). So some contexts are subsets of others. A list of contexts, plus a list of context relationships (iPhones is a subcategory of smartphones) is a context tree.
+
+Context trees are important for calculation of trust scores using inheritance. Suppose Alice wants to know whether Bob can be trusted to rate iPhone 13. Her web of trust indicates Bob is trusted on the generic topic of electronics, but no one has commented whether he can be trusted in the more specific contexts. In this case, his calculated trust score in the context of electronics would be 'inherited' from the generic context, electronics, to all of its subcategories. If users later add ratings regarding Bob's trustworthiness in the more specific context of iPhones, then the more specific (coarse grained) attestations override the more generic (fine grained) attestations.
+
+In this way, a curated context tree can grow gradually over time from immature with few details to more mature with lots of details without anything breaking. And the system functions, regardless whether the amount of knowledge that Alice's WoT is able to feed to her regarding Bob is sparse (few attestations) or not (many attestations).
+
+## Confidence (certainty) of trust scores
+
+Every trust score is accompanied by a number indicating the confidence in that score. Alice may think Bob is as smart as Einstein; she may be certain of that because she has known him a long time or because lots of her friends have told her so, or she may base this evaluation off of one brief encounter, so is not certain of it. When inherited trust scores are overridden by fine grained (more specific) attestations, the confidence of each score is an integral part of that calculation.
+
+Also: a user's contextual influence is a combination of contextual trust score (higher trust means more influence) as well as confidence in that score (higher confidence also means more influence).
 
 ## the special utility for graphs (and graph databases) in DCoSL
 

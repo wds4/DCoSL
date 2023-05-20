@@ -3,7 +3,7 @@
 
 DCoSL is a simple, flexible protocol to guide construction of the decentralized web, decentralized reputation and web of trust. It is based on the premise that the decentralized curation of a simple list is the <i>atomic unit</i> and the <i>defining feature</i> of the decentralized web. Many attempts at web of trust have been tried, but have failed to gain traction. DCoSL strives to turn this difficult problem into a tractable one by breaking it down into bite size steps, by allowing your web of trust to curate one simple list at a time, and to curate only those lists that need it. By choosing lists carefully, due to WoT overlap, networks of users will rapidly and easily generate consensus or near-consensus on items on any given list, something called <i>loose consensus</i>.
 
-In the spirit of nostr, dcosl is defined by a series of DIPs: dcosl implementation proposals. The first is mandadory, the rest are optional, and can be rolled out incrementally. In the final implementation, management of DCoSL has itself been handed over to your web of trust.
+In the spirit of nostr, dcosl is defined by a series of DIPs: dcosl implementation proposals. The first is mandadory, the rest are optional, and can be rolled out incrementally. In the end, management of DCoSL has itself been handed over to your web of trust (DIP-infinity).
 
 # Why do we need DCoSL?
 

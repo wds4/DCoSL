@@ -1,13 +1,15 @@
 # DCoSL: Decentralized Curation of Simple Lists
-(alternate name: WeCoSL - Web-enabled Curation of Simple Lists; WIPs instead of DIPs)
+(alternate name: WeCoSL - Web-enabled Curation of Simple Lists; GCoSL, GdCoSL - Grapevine-directed Curation of Simple Lists; WIPs or GIPs instead of DIPs)
 
-DCoSL is a simple, flexible protocol for the decentralized web, decentralized reputation and web of trust.
-
-# Basic idea
+DCoSL is a simple, flexible protocol to guide construction of the decentralized web, decentralized reputation and web of trust.
 
 In the spirit of nostr, dcosl is defined by a series of DIPs: dcosl implementation proposals. 
 
-A simple list is an unordered set of elements, referred to here as `items`. An item is either an item on the list or it is not. Everything can be broken down into lists: a list of nostr relays, a list of trusted lightning nodes, a list of properties for a user profile (name, display_name, picture_url, etc). The basic premise of DCoSL is that the ability for a user to delegate curation of a simple list to the web of trust (DIP-0) is the <i>atomic unit</i> and the <i>defining feature</i> of the decentralized web.
+# Basic idea
+
+The basic premise of DCoSL is that the ability for a user to delegate curation of a simple list to the web of trust (DIP-0) is the <i>atomic unit</i> and the <i>defining feature</i> of the decentralized web.
+
+A simple list is an unordered set of elements, referred to here as `items`. An item is either an item on the list or it is not. Everything can be broken down into lists: a list of nostr relays, a list of trusted lightning nodes, a list of properties for a user profile (name, display_name, picture_url, etc). 
 
 Many attempts at web of trust have been tried, but have failed to gain traction. DCoSL strives to turn this into a tractable problem by breaking it down into bite size steps, by allowing your web of trust to curate one simple list at a time. From a practical perspective, the challenge to the developer becomes which lists to curate and in what order to rollout list curation. Further broken down into manageable chunks by breaking the steps up into DIPs. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
 
@@ -76,6 +78,9 @@ the Loki Principle
 three basic relationships between concepts
 
 ## DIPs ?-?: data models as graphs, a graph as a small handful of lists
+
+nodes, edges
+thread; class thread; class thread rule (principle of Loki)
 
 ## DIP infinity
 

@@ -5,9 +5,45 @@ DCoSL is a simple, flexible protocol to guide construction of the decentralized 
 
 In the spirit of nostr, dcosl is defined by a series of DIPs: dcosl implementation proposals. The first is mandadory, the rest are optional, and can be rolled out incrementally. In the final implementation, management of DCoSL has itself been handed over to your web of trust.
 
-# Why do we need this?
+# Why do we need DCoSL?
 
 Consider all of the awesome things we can do on the internet today that we could not do just a few short decades ago. All the highly sophisticated ways that two human beings, on opposite sides of the planet, can find each other like needles in a haystack, connect and interact, peer to peer. We have data curation (google search), eCommerce (Amazon, eBay), social media (Twitter, Facebook, Instgram), and more. Unfortunately, despite their peer to peer nature, these interactions are routed through increasingly large, centralized, powerful entities -- public and private -- that gain and more power and control over individuals and society at large. The goal of the decentralized web is to render these centralizing entities unnecessary. To provide the tools to reproduce these p2p interactions, and more. We will know we have succeeded when we no longer rely so heavily on platforms like those mentioned.
+
+# Why will DCoSL succeed where others have failed?
+
+People have been trying to build webs of trust going back at least as far as 1991 when Phil Zimmerman released Pretty Good Privacy. Unfortunately, none have seemed to gain the sort of traction that was initially expected and desired. 
+
+DCoSL strives to draw lessons from the success of Bitcoin and nostr, each of which achieved goals that appeared by many to be unachievable. Neither Bitcoin nor nostr were the product of some shiny new technology. Each uses tools that had been laying around for quite some time. Simplicity of the starting point. The bitcoin consensus rules have no extraneous details. The nostr core protocol is as stripped down as can be. I think lightning is cool; but the consensus rules, to their credit, do not obligate the use of lightning. You may think kademlia is cool, or some DID is cool, and you may be right. But nostr, to its credit, does not obligate the developer or the user to commit to these or to much else. Most NIPs are optional. 
+
+The DCoSL protocol is designed in the same way. No matter how awesome are any of the DIPs beyoind DIP-0, they are optional. In many cases, for many DIPs, there may be multiple alternative ways to achieve the same goal. DCoSL does not require interacting users to implement the same DIPs, or to implement them in the same way. This is part of loose consensus: on any given list, consensus is highly likely to happen, but if it doesn't happen or if it's not perfect, that's OK.
+
+# Why has DCoSL not been done before?
+
+DCoSL requires an understanding and appreciation of loose consensus and DIP-infinity and a belief that such things are both possible and desirable. In addition, DCoSL requires a clear starting point and a roadmap. DIP-0 is an easy starting point for any project. DIP-1 is relatively easy to describe but requires considerably more work for the developer to implement. Subsequent NIPs provide the building blocks of a roadmap. Although the benefits of early stage NIPs may be slight, the potential benefits of maturing DCoSL are enormous.
+
+In addition to the above, some may have philosophic difficulties with the starting point, DIP-0, analogous to the philosophic difficulties of the number zero of some societies in ages past. Gotta get past that.
+
+# Important concepts
+
+## Everything can be broken down into simple lists
+
+Consider the following examples of simple lists:
+<li></li>
+<li></li>
+
+A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. Imagine if your users no longer had to rely upon the World Wide Web Consortium (W3C) to manage a standard. With DCoSL, your users can farm out curation of any standard in question to their web of trust. Updates can potentially occur 24/7/365, not whenever the committee meets.
+
+Several categories of lists, with examples, may be considered. See examples in this repo (work in progress).
+
+## Loose Consensus 
+
+One of the most important concepts to understand when picking which lists to farm out. Alice's WoT and Bob's WoT, though they are not identical, are very likely to have significant overlap. For any given list, although there is no guarantee, there is a good chance that Alice and Bob will end up using the exact same (or at least almost the same) list! This is a vitally important attribute, one that I call loose consensus. You'll want to think deeply about loose consensus before incorporating decentralized list curation to your app.
+
+If the contents of a list are not particularly polarizing or controversial (and most of them aren't), then there is a good chance that Alice's WoT and Bob's WoT will come up with the same, or at least very similar, lists. This is known as <i>loose consensus</i>. The power of DCoSL is its ability to generate loose consensus.
+
+From a practical perspective, the challenge to the developer becomes which lists to curate and in what order to rollout list curation. Further broken down into manageable chunks by breaking the steps up into DIPs. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
+
+## DIP-infinity
 
 # How does DCoSL work?
 
@@ -20,20 +56,6 @@ The basic premise of DCoSL is that the ability for a user to delegate curation o
 The reason that DCoSL will succeed where previous attempts at webs of trust have fallen short is that DCoSL offers a strategy to take a complex, overwhelming problem and break it down into small steps. How? As developers, you can provide your users with the ability to delegate list curation to their webs of trust in bite sized chunks: <i>one list at a time</i> (or perhaps a small handful of lists at a time).
 
 DCoSL relies heavily on graphs. Why? Because a graph can be specified in full using two simple lists: one list for nodes, and one list for edges. A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. 
-
-## Loose Consensus 
-
-One of the most important concepts to understand when picking which lists to farm out. Alice's WoT and Bob's WoT, though they are not identical, are very likely to have significant overlap. For any given list, although there is no guarantee, there is a good chance that Alice and Bob will end up using the exact same (or at least almost the same) list! This is a vitally important attribute, one that I call loose consensus. You'll want to think deeply about loose consensus before incorporating decentralized list curation to your app.
-
-If the contents of a list are not particularly polarizing or controversial (and most of them aren't), then there is a good chance that Alice's WoT and Bob's WoT will come up with the same, or at least very similar, lists. This is known as <i>loose consensus</i>. The power of DCoSL is its ability to generate loose consensus.
-
-From a practical perspective, the challenge to the developer becomes which lists to curate and in what order to rollout list curation. Further broken down into manageable chunks by breaking the steps up into DIPs. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
-
-## Everything can be broken down into lists
-
-Several categories of lists, with examples, may be considered. See examples in this repo (work in progress).
-
-A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. Imagine if your users no longer had to rely upon the World Wide Web Consortium (W3C) to manage a standard. With DCoSL, your users can farm out curation of any standard in question to their web of trust. Updates can potentially occur 24/7/365, not whenever the committee meets.
 
 # Who should implement this? How to get started?
 
@@ -75,6 +97,9 @@ weighted averages; contextual influence; each attestation is accompanied by conf
 core relationships
 
 ## DIPs (CIPs) ?-?: Concepts
+From simple lists, to complex lists, to concepts, to the concept graph
+
+threads, class threads, class node, class instance; analogy to the class in object-oriented programming
 
 basic types of nodes: JSONSchema, wordType, set, superset, instance
 basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf

@@ -22,6 +22,14 @@ Also: a user's contextual influence is a combination of contextual trust score (
 
 ## DIPs 200-299: the Grapevine
 
+weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
+
+core relationships: attestations, ratings, endorsements
+
+Entire libraries, platforms, protocols are subjected to decentralized curation via DCoSL. Repository management by dev teams, standards managed by committees, etc will diminish, because the option of management via WoT will exist.
+
+Several of the proposed DIPs consist of lists: the list of node types, the list of relationships types, etc. In this series of DIPs, those lists are themselves curated according to the principles of DIP-0 and potentially other DIPs. 
+
 - [DIP-200](200.md) first grapevine DIP
 
 - [DIP-201](201.md): the Context tree and inheritance of average scores

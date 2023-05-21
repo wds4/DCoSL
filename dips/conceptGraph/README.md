@@ -27,6 +27,16 @@ Consider a graph, with nodes and edges. The following terms will be defined:
 
 `class thread`: a specialized thread, with a `class node` at the start and a `class instance` at the end
 
+`class node`:
+
+`class instance`:
+
+`class thread rule`: the requirement that any class instance must be formatted according to rules specified by the class node. For example: if the class node User specifies properties: display_name and picture_url, then any class instance node must have those properties; otherwise the class thread rule is violated.
+
+`class property tree`: 
+
+A concept is defined as a collection of nodes and edges, formed from a single class node, taking all class threads emanating from that node (all nodes and edges contained within those threads). (Is property tree added to the definition of the concept?)
+
 ## DIPS 100-199: the Concept Graph
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.

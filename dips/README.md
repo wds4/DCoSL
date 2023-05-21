@@ -8,17 +8,17 @@ For many DIPs, specific details of implementation will be provided. However, DCo
 
 - [DIP-01](01.md) explicit, intentional attestations are preferred over scraped data
 
-- [DIP-02](02.md) The grapevine: scores as weighted averages
+- [DIP-02](02.md) 
 
-- [DIP-03](03.md) The grapevine: transitivity
+- [DIP-03](03.md) 
 
-- [DIP-04](04.md) The grapevine: default scores
+- [DIP-04](04.md) 
 
-- [DIP-05](05.md) The grapevine: context trees and score inheritance
+- [DIP-05](05.md)
 
-- [DIP-06](06.md) The grapevine: confidence and certainty
+- [DIP-06](06.md) 
 
-- [DIP-07](07.md) The grapevine: mapping influence to certainty
+- [DIP-07](07.md) 
 
 - [DIP-08](08.md)
 

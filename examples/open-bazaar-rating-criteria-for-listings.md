@@ -72,12 +72,14 @@ Example category relationship:
 }
 ```
 
-Vendors assign any given listing to one or more categories, using the context cryptographic identifier.
+Lists 1 and 2 are each farmed out to user communities using standard DCoSL methods.
+
+With list 1 having been curated, vendors assign any given listing to one or more categories, using the cryptographic identifier for each category.
 
 A unique list of rating criteria can now be associated to each category, and this list can be curated using the DCoSL method. For example: 
 
 The category `smartphones` could have rating criteria: `battery life` and `durability`. 
 
-Rating criteria are inherited down the context tree. For example, the criteria for the category of smatphones would be inherited by the subcategory of iPhones.
+Rating criteria are inherited down the category tree. For example, the criteria for the category of smatphones would be inherited by the subcategory of iPhones.
 
 

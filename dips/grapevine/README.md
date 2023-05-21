@@ -21,3 +21,5 @@ Also: a user's contextual influence is a combination of contextual trust score (
 # DIPs 200-299: the Grapevine
 
 - [DIP-200](200.md) first grapevine DIP
+
+- [DIP-201](201.md): the Context tree and inheritance of average scores

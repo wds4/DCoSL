@@ -89,9 +89,9 @@ see examples
 
 # Protocol specification 
 
-DIPs (DCoSL implementation proposals) are categorized into three blocks: fundamentals, the concept graph, and the grapevine.
+DIPs (DCoSL implementation proposals) are categorized into three blocks: the core protocol, the concept graph, and the grapevine.
 
-## DIPs 00 - 99: Fundamentals of DCoSL
+## DIPs 00 - 99: [DCoSL Core Protocol](https://github.com/wds4/DCoSL/tree/main/dips)
 
 The only required DIP is DIP-00.
 

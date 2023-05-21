@@ -107,28 +107,9 @@ There is no universal list; each user it at the center of his or her web of trus
 
 ## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
 
-From simple lists, to complex lists, to concepts, to the concept graph
-
-threads, class threads, class node, class instance; analogy to the class in object-oriented programming
-
-nodes, edges (relationships)
-basic types of nodes: JSONSchema, wordType, set, superset, instance
-basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf
-the Loki Principle = class thread rule
-
-thread; class thread; class thread rule (principle of Loki)
-
-three basic relationships between concepts
+There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
 ## [the grapevine: DIPs 200-299](https://github.com/wds4/DCoSL/tree/main/dips/grapevine)
-
-weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
-
-core relationships: attestations, ratings, endorsements
-
-Entire libraries, platforms, protocols are subjected to decentralized curation via DCoSL. Repository management by dev teams, standards managed by committees, etc will diminish, because the option of management via WoT will exist.
-
-Several of the proposed DIPs consist of lists: the list of node types, the list of relationships types, etc. In this series of DIPs, those lists are themselves curated according to the principles of DIP-0 and potentially other DIPs. 
 
 ## DIP infinity, aka Circular DCoSL
 

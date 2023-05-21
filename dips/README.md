@@ -1,3 +1,9 @@
+# Core Protocol
+
+The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. 
+
+For many DIPs, specific details of implementation will be provided. However, DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute`, a `DIP-xx-alternative` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, DIP-infinity a.k.a. circular DCoSL, indicates that all implementation details of the DCoSL protocol are themselves curated using the DCoSL protocol.
+
 - [DIP-00](00.md) DCoSL: the principle of relativity for the decentralized web
 
 - [DIP-01](01.md) The grapevine: explicit, intentional attestations rather than scraped data

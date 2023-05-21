@@ -39,6 +39,10 @@ Consider a graph, with nodes and edges. The following terms will be defined:
 
 A concept is defined as a collection of nodes and edges, formed from a single class node, taking all class threads emanating from that node (all nodes and edges contained within those threads). (Is property tree added to the definition of the concept?)
 
+## important prerequisite
+
+- [DIP-03](../03.md): Representation of a graph using simple lists.
+
 ## DIPS 100-199: the Concept Graph
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
@@ -46,20 +50,22 @@ There will be a natural progression from simple lists, to complex lists, to conc
 threads, class threads, class node, class instance; analogy to the class in object-oriented programming
 
 nodes, edges (relationships)
+
 basic types of nodes: JSONSchema, wordType, set, superset, instance
+
 basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf
+
 the Loki Principle = class thread rule
 
 thread; class thread; class thread rule (principle of Loki)
 
 three basic relationships between concepts
 
-- [DIP-100](100.md): basic use of graphs
-
 use of graphs to represent complex lists and other data structures
+
 use of graphs to represent data structures; use of cryptographic identifiers for nodes (and edges)
 
-- [DIP-101](101.md): complex lists
+- [DIP-100](100.md): simple list
 
-parent list augmented by auxiliary lists
-subsets, subset trees, properties, property trees
+- [DIP-101](101.md): complex list: simple list with added structure
+

@@ -4,6 +4,8 @@
 
 ### the special utility for graphs (and graph databases) in DCoSL
 
+It would be difficult to overstate the importance of graphs in DCoSL. A graph is a collection of nodes and edges. In DCoSL, a node generally is a file (often formatted using JSON), referenced by a crytographic identifier (DIP02), with edges relationships between the data. Crowdsourcing of complex things like data models, schemas, etc are easiest to understand in terms of a graph. Web of trust is best visualized using a graph.
+
 A graph is a collection of nodes and edges, with each edge being a connection between two nodes. A graph can therefore be specified in full using no more than <i>two simple lists</i>, each one of which can be managed using DCoSL! (May want to have a thid list for types of edges, and perhaps a fourth list for types of nodes. But in many cases those lists would be managed by the developer, leaving only two lists to be curated by the WoT.)
 
 Graphs have the attractive quality that they can be combined using basic set operators: union, intersection, etc. So if my WoT approves of Graph A as well as Graph B, then Alice can combine Graphs A and B into Graph C through the union operation. Example: Graph A is Verifiable Credential backbone curated by users who specialize in Verifiable Credentials, and Graph B is an auxiliary Verifiable Credential for nurse practitioners, curated by users who are nurse practitioners, but which assumes the VC backbone to be curated separately.

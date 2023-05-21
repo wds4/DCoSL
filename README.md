@@ -105,6 +105,8 @@ Each user is at the center of his or her web of trust, and each user's lists are
 
 - [DIP-01](dips/01.md): explicit, intentional attestations rather than scraped data
 
+- [DIP-02](dips/02.md): Use cryptographic identifiers for lists and list items.
+
 ## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.

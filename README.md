@@ -91,28 +91,17 @@ see examples
 
 DIPs (DCoSL implementation proposals) are categorized into three blocks: the core protocol, the concept graph, and the grapevine.
 
-## DIPs 00 - 99: [DCoSL Core Protocol](https://github.com/wds4/DCoSL/tree/main/dips)
+## [DCoSL Core Protocol: DIPs 00 - 99](https://github.com/wds4/DCoSL/tree/main/dips)
 
-The only required DIP is DIP-00.
+The most important DIPs are DIP-00 and DIP-01. The only required DIP is DIP-00.
 
-### DIP-00: each user occupies the center of his or her web of trust (the Principle of Relativity)
+### DIP-00: Each list is in the eye of the beholder.
+
+There is no universal list; each user it at the center of his or her web of trust, and each user's lists are curated independently.
 
 ### DIP-01: explicit, intentional attestations rather than scraped data
 
-Additional starter NIPS
-
-### DIP-02: complex lists
-
-parent list augmented by auxiliary lists
-subsets, subset trees, properties, property trees
-
-### DIP-03: use of graphs to represent complex lists and other data structures
-
-use of graphs to represent data structures; use of cryptographic identifiers for nodes (and edges)
-
-### DIP-04: the Context tree and inheritance of average scores
-
-## DIPs 100-199: the concept graph
+## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
 
 From simple lists, to complex lists, to concepts, to the concept graph
 
@@ -127,7 +116,7 @@ thread; class thread; class thread rule (principle of Loki)
 
 three basic relationships between concepts
 
-## DIPs 200-299: the grapevine
+## [the grapevine: DIPs 200-299](https://github.com/wds4/DCoSL/tree/main/dips/grapevine)
 
 weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
 

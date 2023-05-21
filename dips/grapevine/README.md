@@ -35,8 +35,13 @@ Several of the proposed DIPs consist of lists: the list of node types, the list 
 - [DIP-201](201.md): 
 
 The grapevine: scores as weighted averages
+
 The grapevine: transitivity
+
 The grapevine: default scores
+
 The grapevine: context trees and score inheritance of average scores
+
 The grapevine: confidence and certainty
+
 The grapevine: mapping influence to certainty

@@ -87,13 +87,9 @@ Begin with the desired destination and then work backwars. That means: create a 
 
 see examples 
 
-# Overview of DIPs: DCoSL implementation proposals
+# Protocol specification 
 
-The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. 
-
-DIPs are categorized into blocks: fundamentals, the concept graph, and the grapevine.
-
-For many DIPs, specific details of implementation will be provided. However, DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute`, a `DIP-xx-alternative` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, DIP-infinity a.k.a. circular DCoSL, indicates that all implementation details of the DCoSL protocol are themselves curated using the DCoSL protocol.
+DIPs (DCoSL implementation proposals) are categorized into three blocks: fundamentals, the concept graph, and the grapevine.
 
 ## DIPs 00 - 99: Fundamentals of DCoSL
 

@@ -21,6 +21,12 @@ Each of the above types of graphs can be specified by the developer, can be mana
 
 DCoSL borrows the notion of a class from javascript and (most) other object oriented programming languages.
 
+Consider a graph, with nodes and edges. The following terms will be defined:
+
+`thread`: any contiguous sequence of edges. Must contain at least one edge.
+
+`class thread`: a specialized thread, with a `class node` at the start and a `class instance` at the end
+
 ## DIPS 100-199: the Concept Graph
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.

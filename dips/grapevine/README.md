@@ -30,6 +30,13 @@ Entire libraries, platforms, protocols are subjected to decentralized curation v
 
 Several of the proposed DIPs consist of lists: the list of node types, the list of relationships types, etc. In this series of DIPs, those lists are themselves curated according to the principles of DIP-0 and potentially other DIPs. 
 
-- [DIP-200](200.md) first grapevine DIP
+- [DIP-200](200.md) 
 
-- [DIP-201](201.md): the Context tree and inheritance of average scores
+- [DIP-201](201.md): 
+
+The grapevine: scores as weighted averages
+The grapevine: transitivity
+The grapevine: default scores
+The grapevine: context trees and score inheritance of average scores
+The grapevine: confidence and certainty
+The grapevine: mapping influence to certainty

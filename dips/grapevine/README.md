@@ -1,8 +1,10 @@
-# The Grapevine: important concepts
+# The Grapevine
 
-`The grapevine` is the term used for a web of trust that follows DIP-01.
+## important concepts
 
-## Context trees and inheritance of trust scores
+`The grapevine` is the term used for a web of trust that follows [DIP-01](../01.md).
+
+### Context trees and inheritance of trust scores
 
 Trust is contextual. Who manages the list of contexts? Your WoT, via DCoSL.
 
@@ -12,13 +14,13 @@ Context trees are important for calculation of trust scores using inheritance. S
 
 In this way, a curated context tree can grow gradually over time from immature with few details to more mature with lots of details without anything breaking. And the system functions, regardless whether the amount of knowledge that Alice's WoT is able to feed to her regarding Bob is sparse (few attestations) or not (many attestations).
 
-## Confidence (certainty) of trust scores
+### Confidence (certainty) of trust scores
 
 Every trust score is accompanied by a number indicating the confidence in that score. Alice may think Bob is as smart as Einstein; she may be certain of that because she has known him a long time or because lots of her friends have told her so, or she may base this evaluation off of one brief encounter, so is not certain of it. When inherited trust scores are overridden by fine grained (more specific) attestations, the confidence of each score is an integral part of that calculation.
 
 Also: a user's contextual influence is a combination of contextual trust score (higher trust means more influence) as well as confidence in that score (higher confidence also means more influence).
 
-# DIPs 200-299: the Grapevine
+## DIPs 200-299: the Grapevine
 
 - [DIP-200](200.md) first grapevine DIP
 

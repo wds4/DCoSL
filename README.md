@@ -8,6 +8,8 @@ Just about anything can be expressed in terms of lists: a list of trusted lightn
 
 With DCoSL, developers build tools to allow users to farm out various decisions, whether large or small, to communities of users. By choosing a list or lists carefully, a magical thing can emerge called `loose consensus`: under the right circumstances, especially for lists that are not controversial, Alice's WoT and Bob's WoT, though they may not be identical, could very easily have significant overlap, and could very easily end up farming out the curation of said list(s) to the same small group of trusted list curators. Although not enforced or guaranteed (hence the term: 'loose'), for a large category of lists, Alice and Bob will end up using the exact same (or at least almost the same) list! Shared lists, shared protocols, shared data structures, shared language; these obviate the need for any centralized entity to build and maintain a platform.
 
+The term `crowdsourcing` will be used to refer to curation of one or a group of simple lists where a high degree of loose consensus is expected. Schemas, data models, verifiable credentials, standards can be crowdsourced.
+
 In the spirit of nostr, DCoSL is defined by a series of DIPs: DCoSL implementation proposals. Like nostr, a small handful of core DIPs go a long way. Most of the rest can be rolled out incrementally. Likewise, lists can be farmed out incrementally, allowing more and more design decisions to be placed under the control of user communities. In the long run, <i>even the management of the DCoSL protocol itself can be farmed out using the DCoSL protocol</i>, a state called `NIP-infinity` or `circular DCoSL` (this name paying homage to the notion of the 'circular economy').
 
 # Why do we need DCoSL?
@@ -65,7 +67,7 @@ Alice's WoT and Bob's WoT, though they are not identical, are very likely to hav
 
 In some cases, a particularly controversial or politicized list may generate loose consensus that segregates by community.
 
-The term `crowdsource` will be used to refer to curation of one or of a collection of simple lists using DCoSL protocol where a high degree of loose consensus is expected, at least within a given community. Schemas, verifiable credentials, etc can be said to be 'crowdsourced' via the DCoSL protocol, in each case through curation of a small handful of simple lists.
+The term `crowdsource` will be used to refer to curation of one or of a collection of simple lists using DCoSL protocol where a high degree of loose consensus is expected, at least within a given community. Schemas, verifiable credentials, etc can be said to be 'crowdsourced' via the DCoSL protocol, in each case through curation of a small handful of simple lists. One of the major challenges to the developer will be to write code that doesn't break when Alice and Bob maintain lists that do not match. Crowdsourcing one or a small handful of lists at a time should mitigate this difficulty
 
 ## DIP-infinity (aka circular DCoSL)
 

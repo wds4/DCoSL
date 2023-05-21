@@ -115,6 +115,8 @@ Each user is at the center of his or her web of trust, and each user's lists are
 
 - [DIP-03](dips/03.md): Representation of a graph using a small handful of simple lists.
 
+It would be difficult to overstate the importance of graphs in DCoSL. A graph is a collection of nodes and edges. In DCoSL, a node generally is a file (often formatted using JSON), referenced by a crytographic identifier (DIP02), with edges relationships between the data. Crowdsourcing of complex things like data models, schemas, etc are easiest to understand in terms of a graph. Web of trust is best visualized using a graph.
+
 ## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.

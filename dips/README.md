@@ -4,13 +4,13 @@ The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal
 
 For many DIPs, specific details of implementation will be provided. However, DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute`, a `DIP-xx-alternative` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, DIP-infinity a.k.a. circular DCoSL, indicates that all implementation details of the DCoSL protocol are themselves curated using the DCoSL protocol.
 
-- [DIP-00](00.md) There is no universal, preferred or 'correct' list.
+- [DIP-00](00.md) Lists are curated independently by each user. There is no universal, preferred or 'correct' list.
 
-- [DIP-01](01.md) explicit, intentional attestations are preferred over scraped data
+- [DIP-01](01.md) Rely on explicit attestations rather than scraped data.
 
-- [DIP-02](02.md) 
+- [DIP-02](02.md) Use cryptographic identifiers for lists and list items.
 
-- [DIP-03](03.md) 
+- [DIP-03](03.md) Representation of a graph using simple lists.
 
 - [DIP-04](04.md) 
 
@@ -25,3 +25,5 @@ For many DIPs, specific details of implementation will be provided. However, DCo
 - [DIP-09](09.md)
 
 - [DIP-10](10.md)
+
+- [DIP-infinity](infinity.md) All DIPs are managed by the community using the DCoSL method.

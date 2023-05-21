@@ -1,6 +1,6 @@
 # DCoSL: Decentralized Curation of Simple Lists
 
-DCoSL is a simple, flexible protocol to guide construction of a decentralized web, using decentralized reputation and web of trust. Its design is inspired by the [nostr protocol](https://github.com/nostr-protocol/nostr), and couples well with nostr, but can in principle be used in conjunction with any peer to peer platform, protocol or tool.
+DCoSL is a flexible protocol to guide the step-by-step construction of a decentralized web, using decentralized reputation and web of trust. Its design is inspired by the [nostr protocol](https://github.com/nostr-protocol/nostr), and couples well with nostr, but can in principle be used in conjunction with any peer to peer platform, protocol or tool.
 
 The DCoSL protocol is based on the premise that the curation of a `simple list` by one's web of trust should be considered not only the atomic unit of the decentralized web, but also its defining feature. DCoSL strives to turn a difficult and perhaps seemingly overwhelming challenge -- creation of a web of trust that lots of people actually use -- into a tractable one by breaking it down into bite size steps: one list at a time, and one DIP (DCoSL implementation proposal) at a time.
 

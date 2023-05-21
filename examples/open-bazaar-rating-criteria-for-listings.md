@@ -1,4 +1,6 @@
-# Open Bazaar Rating System
+# Open Bazaar Rating Criteria for Listings
+
+Background: The [OpenBazaar](https://github.com/OpenBazaar) rating system for listings, as enacted in OB 2.0, enables purchasers of a product to provide 5-star ratings of the product listing along 5 criteria: quality, delivery speed, customer service, description, overall. Phase 1 of this document outlines how DCoSL may be used to farm out the management of this list of criteria to the community. Phase 2 of this document outlines how DCoSL can be used to crowdsource a category tree for listings. Ratings criteria can then be crowdsourced uniquely for each listing category. For example: the rating criterion: `battery life` can be associated to the category of `smartphones`, with `acting`, `directing` and `screenwriting` associated with the category of `movies`. 
 
 ## Phase 1
 
@@ -6,13 +8,13 @@ Curation of the list of criteria for product ratings
 
 DIPS: 00, 01
 
-The [OpenBazaar](https://github.com/OpenBazaar) rating system enables purchasers of a product to provide 5-star ratings of the product listing along 5 criteria. The function of this phase is to allow users to farm out management of this list of criteria to their web of trust. More significantly, it lays the groundwork for subsequent phases (below).
+ The function of this phase is to allow users to farm out management of this list of criteria to their web of trust. More significantly, it lays the groundwork for subsequent phases (below).
 
 ### number of simple lists: 1
 
 List 1: product listing criteria
 
-Default list: overall, quality, delivery speed, customer service, description
+Default list: quality, delivery speed, customer service, description, overall
 
 Phase 1A: DIP-00
 

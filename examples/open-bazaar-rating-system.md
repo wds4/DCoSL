@@ -1,7 +1,5 @@
 # Open Bazaar Rating System
 
-DIP-0, ...
-
 ## Phase 1
 
 Curation of the list of criteria for product ratings
@@ -32,7 +30,26 @@ Observers will have the ability to monitor implemented criteria and assess the e
 
 ## Phase 2
 
-Management of a context tree for products
+Management of a category tree for products
+
+Examples: 
+```
+{
+  listingCatetoryData: {
+    name: 'electronics',
+    IPNS: 'abc123',
+  }
+}
+```
+
+```
+{
+  listingCatetoryData: {
+    name: 'smartphones',
+    IPNS: 'bcd234',
+  }
+}
+```
 
 ### number of simple lists: 2
 
@@ -45,11 +62,16 @@ Sample item for list 2:
 ```
 {
   listingCatetoryRelationshipData: {
-    categoryA: 'abc123',
+    categoryA: 'bcd234',
     relationship: 'isASubcategoryOf',
-    categoryB: 'bcd234',
+    categoryB: 'abc123',
+    IPNS: 'xyz890',
   }
 }
 ```
+
+Vendors assign any given listing to one or more categories, using the context cryptographic identifier.
+
+A unique list of rating criteria can now be associated to each category, and this list can be curated using the DCoSL method. For example: 
 
 

@@ -99,11 +99,11 @@ DIPs (DCoSL implementation proposals) are categorized into three blocks: the cor
 
 The most important DIPs are DIP-00 and DIP-01. The only required DIP is DIP-00.
 
-- [DIP-00](nips/00.md): Each list is in the eye of the beholder.
+- [DIP-00](dips/00.md): Each list is in the eye of the beholder.
 
 There is no universal list; each user it at the center of his or her web of trust, and each user's lists are curated independently.
 
-- [DIP-01](nips/01.md): explicit, intentional attestations rather than scraped data
+- [DIP-01](dips/01.md): explicit, intentional attestations rather than scraped data
 
 ## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
 

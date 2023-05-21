@@ -63,6 +63,10 @@ If the contents of a list are not particularly polarizing or controversial (and 
 
 Alice's WoT and Bob's WoT, though they are not identical, are very likely to have significant overlap. For any given list, although there is no guarantee, there is a good chance that Alice and Bob will end up using the exact same (or at least almost the same) list! This is a vitally important attribute, one that I call loose consensus. You'll want to think deeply about loose consensus before incorporating decentralized list curation to your app.
 
+In some cases, a particularly controversial or politicized list may generate loose consensus that segregates by community.
+
+The term `crowdsource` will be used to refer to curation of one or of a collection of simple lists using DCoSL protocol where a high degree of loose consensus is expected, at least within a given community. Schemas, verifiable credentials, etc can be said to be 'crowdsourced' via the DCoSL protocol, in each case through curation of a small handful of simple lists.
+
 ## DIP-infinity (aka circular DCoSL)
 
 The DCoSL protocol itself can be expressed as a bunch of lists, and those lists can be managed via DCoSL. When the entire protocol is managed in this decentralized fashion, this is called DIP-infinity, or circular DCoSL (because DCoSL is being used to define DCoSL).

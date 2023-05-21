@@ -87,7 +87,7 @@ The first step, generally, would be to apply DCoSL to just one list. You, the de
 
 The magic will become evident once additional, carefully chosen lists are added. Milestones can be created, defined by the things that your users can delegate. You may want to expand the simple list into a complex one, following DIPs below. Or you may wish to curate data models
 
-Begin with the desired destination and then work backwars. That means: create a list of lists that together serve some function. Potentially, you will want to pick just one of the lists to offer for initial rollout to your users. Devise a method to curate that list. Provide an interface so that users have the following options: use the default list, curated by you, the team of developers; the user manages the list directly; or the users allows the web of trust to manage the list. Some intermediate states may be considered; for example, the WoT suggests updates to the list, which must then be approved manually, either individually or in aggregate, by the user. Once this is in place, then allow additional lists to be managed by DCoSL.
+Begin with the desired destination and then work backwards. That means: create a list of lists that together serve some function. Potentially, you will want to pick just one of the lists to offer for initial rollout to your users. Devise a method to curate that list. Provide an interface so that users have the following options: use the default list, curated by you, the team of developers; the user manages the list directly; or the users allows the web of trust to manage the list. Some intermediate states may be considered; for example, the WoT suggests updates to the list, which must then be approved manually, either individually or in aggregate, by the user. Once this is in place, then allow additional lists to be managed by DCoSL.
 
 see examples 
 
@@ -99,9 +99,9 @@ DIPs (DCoSL implementation proposals) are categorized into three blocks: the cor
 
 The most important DIPs are DIP-00 and DIP-01. The only required DIP is DIP-00.
 
-- [DIP-00](dips/00.md): Each list is in the eye of the beholder.
+- [DIP-00](dips/00.md): there is no preferred or 'correct' list. 
 
-There is no universal list; each user it at the center of his or her web of trust, and each user's lists are curated independently.
+Each user is at the center of his or her web of trust, and each user's lists are curated independently.
 
 - [DIP-01](dips/01.md): explicit, intentional attestations rather than scraped data
 
@@ -110,6 +110,8 @@ There is no universal list; each user it at the center of his or her web of trus
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
 ## [the grapevine: DIPs 200-299](https://github.com/wds4/DCoSL/tree/main/dips/grapevine)
+
+Describes the calculation of context-based user influence
 
 ## DIP infinity, aka Circular DCoSL
 

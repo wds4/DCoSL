@@ -1,4 +1,4 @@
-# Core Protocol
+# the DCoSL Core Protocol
 
 The only proposal that is absolutely required for DCoSL is DIP-0. Every proposal after that is optional. 
 

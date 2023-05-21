@@ -18,7 +18,7 @@ Default list: overall, quality, delivery speed, customer service, description
 
 Phase 1A: DIP-00
 
-Users will manage their own list of criteria, which will be publicly accessible. Each criterion will have only one text field. Will be like a hashtag. These lists will be scraped, so Alice can generate a curated list of 
+Users will manage their own list of criteria, which will be publicly accessible. Each criterion will have only one text field which is used as the unique identifier (the hashtag method). These lists will be scraped, so Alice can generate a locally curated list of criteria used by others in the network.
 
 Phase 1B: DIP-02
 
@@ -36,9 +36,11 @@ Management of a context tree for products
 
 ### number of simple lists: 2
 
-a simple list of listing categories
+List 1: a simple list of listing categories
 
-a simple list of category relationships of the form: category A is a subcategory of category B. Categories will be identified using cryptographic identifiers (as opposed to the hashtag method).
+List 2: a simple list of category relationships of the form: category A is a subcategory of category B. Categories will be identified using cryptographic identifiers (as opposed to the hashtag method).
+
+Sample item for list 2:
 
 ```
 {

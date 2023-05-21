@@ -101,7 +101,7 @@ DIPs (DCoSL implementation proposals) are categorized into three blocks: the cor
 
 ## [DCoSL Core Protocol: DIPs 00 - 99](https://github.com/wds4/DCoSL/tree/main/dips)
 
-The most important DIPs are DIP-00 and DIP-01. The only required DIP is DIP-00.
+A selection of important DIPs is below. DIP-00 should be straightforward to implement in many cases.
 
 - [DIP-00](dips/00.md): there is no preferred or 'correct' list. 
 
@@ -110,6 +110,8 @@ Each user is at the center of his or her web of trust, and each user's lists are
 - [DIP-01](dips/01.md): explicit, intentional attestations rather than scraped data
 
 - [DIP-02](dips/02.md): Use cryptographic identifiers for lists and list items.
+
+- [DIP-03](dips/03.md): Representation of a graph using a small handful of simple lists.
 
 ## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
 

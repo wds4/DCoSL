@@ -17,4 +17,12 @@ Each of the above types of graphs can be specified by the developer, can be mana
 
 # DIPS
 
-- [DIP-100](100.md) basic use of graphs
+- [DIP-100](100.md): basic use of graphs
+
+use of graphs to represent complex lists and other data structures
+use of graphs to represent data structures; use of cryptographic identifiers for nodes (and edges)
+
+- [DIP-101](101.md): complex lists
+
+parent list augmented by auxiliary lists
+subsets, subset trees, properties, property trees

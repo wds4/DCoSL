@@ -1,6 +1,8 @@
-# The Concept Graph: Important Concepts
+# The Concept Graph
 
-## the special utility for graphs (and graph databases) in DCoSL
+## Important Concepts
+
+### the special utility for graphs (and graph databases) in DCoSL
 
 A graph is a collection of nodes and edges, with each edge being a connection between two nodes. A graph can therefore be specified in full using no more than <i>two simple lists</li>, each one of which can be managed using DCoSL! (May want to have a thid list for types of edges, and perhaps a fourth list for types of nodes. But in many cases those lists would be managed by the developer, leaving only two lists to be curated by the WoT.)
 
@@ -15,7 +17,13 @@ In the DIPs that follow, several specialized graphs will be defined, each with s
 
 Each of the above types of graphs can be specified by the developer, can be managed by hand by the individual user, or can be farmed out to one's web of trust.
 
-# DIPS
+### Classes
+
+DCoSL borrows the notion of a class from javascript and (most) other object oriented programming languages.
+
+## DIPS 100-199: the Concept Graph
+
+There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
 - [DIP-100](100.md): basic use of graphs
 

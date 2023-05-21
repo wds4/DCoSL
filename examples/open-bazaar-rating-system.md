@@ -32,7 +32,11 @@ Observers will have the ability to monitor implemented criteria and assess the e
 
 Management of a category tree for products
 
-Examples: 
+### number of simple lists: 2
+
+List 1: a simple list of listing categories
+
+Examples of categories:
 ```
 {
   listingCatetoryData: {
@@ -51,13 +55,9 @@ Examples:
 }
 ```
 
-### number of simple lists: 2
-
-List 1: a simple list of listing categories
-
 List 2: a simple list of category relationships of the form: category A is a subcategory of category B. Categories will be identified using cryptographic identifiers (as opposed to the hashtag method).
 
-Sample item for list 2:
+Example category relationship:
 
 ```
 {
@@ -73,5 +73,9 @@ Sample item for list 2:
 Vendors assign any given listing to one or more categories, using the context cryptographic identifier.
 
 A unique list of rating criteria can now be associated to each category, and this list can be curated using the DCoSL method. For example: 
+
+The category `smartphones` could have rating criteria: `battery life` and `durability`. 
+
+Rating criteria are inherited down the context tree. For example, the criteria for the category of smatphones would be inherited by the subcategory of iPhones.
 
 

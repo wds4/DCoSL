@@ -22,7 +22,7 @@ Users will manage their own list of criteria, which will be publicly accessible.
 
 Phase 1B: DIP-02
 
-Each criterion will have three fields: a cryptographic identifier, a name, and an optional description. Criteria will be published to the OB network, similar to the way listings are published. Any user can author criteria and can scrape them from the network, and can manage a local list of actively used and endorsed criteria. 
+Each criterion will have three fields: a cryptographic identifier, a name, and an optional description. Criteria will be published to the OB network, similar to the way listings are published. Any user can author criteria and can scrape them from the network, and can manage a local list of actively used and endorsed criteria. OB is built on top of an IPFS network, so either IPFS or IPNS can be used as the cryptographic identifier. IPNS might be useful to allow the author to update the description field. IPFS would be useful if it is desired for such changes to be impossible after publication.
 
 Phase 1C: DIP-01
 

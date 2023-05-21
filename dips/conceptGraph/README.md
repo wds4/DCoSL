@@ -25,6 +25,17 @@ DCoSL borrows the notion of a class from javascript and (most) other object orie
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
+threads, class threads, class node, class instance; analogy to the class in object-oriented programming
+
+nodes, edges (relationships)
+basic types of nodes: JSONSchema, wordType, set, superset, instance
+basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf
+the Loki Principle = class thread rule
+
+thread; class thread; class thread rule (principle of Loki)
+
+three basic relationships between concepts
+
 - [DIP-100](100.md): basic use of graphs
 
 use of graphs to represent complex lists and other data structures

@@ -26,4 +26,4 @@ For many DIPs, specific details of implementation will be provided. However, DCo
 
 - [DIP-10](10.md)
 
-- [DIP-infinity](infinity.md) All DIPs are managed by the community using the DCoSL method.
+- [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.

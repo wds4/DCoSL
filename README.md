@@ -105,11 +105,11 @@ DIPs (DCoSL implementation proposals) are categorized into three blocks: the cor
 
 A selection of important DIPs is below. DIP-00 should be straightforward to implement in many cases. DIP-01 (without any additional DIPs) can be implemented without too much difficulty, although the rationale for doing so may not become apparent until many subsequent DIPs are also implemented. See [Pretty Good Apps](https://github.com/wds4/pretty-good) (specifically, the Curated Lists app) for an example of DIP-01 in conjunction with (long list of other DIPs). However, implementing just one or a few DIPs at a time is generally recommended from a developer perspective, with each DIP (possibly a small handful) being its own individual milestone. Easier to coordinate a team with clearly defined milestones.
 
-- [DIP-00](dips/00.md): there is no preferred or 'correct' list. 
+- [DIP-00](dips/00.md): Lists are curated independently by each user. There is no universal, preferred or 'correct' list.
 
 Each user is at the center of his or her web of trust, and each user's lists are curated independently.
 
-- [DIP-01](dips/01.md): explicit, intentional attestations rather than scraped data
+- [DIP-01](dips/01.md): Rely on explicit attestations rather than scraped data.
 
 - [DIP-02](dips/02.md): Use cryptographic identifiers for lists and list items.
 

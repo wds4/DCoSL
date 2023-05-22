@@ -8,7 +8,7 @@ See the list of [important concepts](importantConcepts.md).
 
 # UNDER CONSTRUCTION
 
-## USER INFLUENCE
+## calculation and usage of USER INFLUENCE
 
 - [DIP-200](200.md): general format of a user 'trust' rating
 

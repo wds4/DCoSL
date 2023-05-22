@@ -18,9 +18,11 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-103](103.md): concept graph
 
+- [DIP-104](104.md): implementation as a graph database
+
 # NOT YET ADDED:
 
-- [DIP-104](104.md): class
+- [DIP-10*](10*.md): class
 
 analogy to the class in object-oriented programming
 

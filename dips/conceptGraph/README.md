@@ -14,25 +14,19 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-101](101.md): complex list: a simple list with added structure
 
+- [DIP-102](102.md): concept
+
+- [DIP-103](103.md): concept graph
+
+three basic relationships between concepts
+
 # NOT YET ADDED:
 
-- [DIP-102](102.md): class
+- [DIP-104](104.md): class
 
 analogy to the class in object-oriented programming
 
 threads, class threads, class node, class instance, class thread rule
-
-- [DIP-103](103.md): concept
-
-basic types of nodes in a concept: JSONSchema, wordType, set, superset, instance
-
-basic types of relationships: subsetOf, JSONSchemaFor, specificInstanceOf
-
-the Loki Principle = class thread rule
-
-- [DIP-104](104.md): concept graph
-
-three basic relationships between concepts
 
 - [DIP-105](105.md): use of graphs to represent complex lists and other data structures
 

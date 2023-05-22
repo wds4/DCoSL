@@ -22,6 +22,8 @@ Also: a user's contextual influence is a combination of contextual trust score (
 
 ## DIPs 200-299: the Grapevine
 
+# UNDER CONSTRUCTION
+
 weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
 
 core relationships: attestations, ratings, endorsements

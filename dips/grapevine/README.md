@@ -1,6 +1,6 @@
 # The Grapevine
 
-See the list of [important concepts](importantConcepts.md)
+See the list of [important concepts](importantConcepts.md).
 
 `The grapevine` is the term used for a web of trust that follows [DIP-01](../01.md).
 

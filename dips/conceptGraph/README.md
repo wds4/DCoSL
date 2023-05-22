@@ -18,8 +18,6 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-103](103.md): concept graph
 
-three basic relationships between concepts
-
 # NOT YET ADDED:
 
 - [DIP-104](104.md): class

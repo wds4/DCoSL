@@ -8,26 +8,22 @@ See the list of [important concepts](importantConcepts.md).
 
 # UNDER CONSTRUCTION
 
-weighted averages; contextual influence; each attestation is accompanied by confidence; each calculated score is accompanied by input, which is sum of weights
+## USER INFLUENCE
 
-core relationships: attestations, ratings, endorsements
+- [DIP-200](200.md): general format of a user 'trust' rating
 
-Entire libraries, platforms, protocols are subjected to decentralized curation via DCoSL. Repository management by dev teams, standards managed by committees, etc will diminish, because the option of management via WoT will exist.
+- [DIP-200](200.md): Use user influence as the weight when calculating weighted averages
 
-Several of the proposed DIPs consist of lists: the list of node types, the list of relationships types, etc. In this series of DIPs, those lists are themselves curated according to the principles of DIP-0 and potentially other DIPs. 
+- [DIP-201](201.md): influence is product of trust score and certainty
 
-- [DIP-200](200.md) 
+- [DIP-202](202.md): inheritance of influence scores down a context tree
 
-- [DIP-201](201.md): 
+- [DIP-203](203.md): adjustable default user influence
 
-The grapevine: scores as weighted averages
+- [DIP-203](203.md): allow users to include confidence rating to a trust rating
 
-The grapevine: transitivity
+- [DIP-203](203.md): calculation of certainty from input
 
-The grapevine: default scores
+- [DIP-203](203.md): transitivity 
 
-The grapevine: context trees and score inheritance of average scores
-
-The grapevine: confidence and certainty
-
-The grapevine: mapping influence to certainty
+- [DIP-203](203.md): attenuation factor 

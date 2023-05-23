@@ -6,6 +6,8 @@ See the list of [important concepts](importantConcepts.md).
 
 ## DIPs 200-299: the Grapevine
 
+- [DIP-200](200.md): publication of an attestation over nostr
+
 # UNDER CONSTRUCTION
 
 ## calculation and usage of USER INFLUENCE
@@ -28,4 +30,4 @@ See the list of [important concepts](importantConcepts.md).
 
 - [DIP-20*](20*.md): attenuation factor 
 
-- [DIP-20*](20*.md): publication of an attestation over nostr
+

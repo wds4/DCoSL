@@ -35,7 +35,10 @@ Consider reorganizing as follows:
 - 100 words and wordTypes
 - 101 new wordType: jsonSchema
 - 102 new wordType: lists
-- 103 new wordType: relationships, relationshipTypes
+- 103 new wordType: relationships, relationshipTypes; subsetOf, specificInstance
+- 104 new wordTypes: set, superset
+- 104 graph database, thread, class thread: jsonSchema-wordType-superset-set-instance
+- 105 
 
 # NOT YET ADDED:
 

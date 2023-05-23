@@ -1,5 +1,11 @@
 # DCoSL: Decentralized Curation of Simple Lists
 
+## Preamble
+
+DCoSL is a work in progress. I am basically starting with a vision for the desired end-state of a completely decentralized web ( ["DIP-infinity"](dips/infinity.md) ) and working backwards from there to where we are now. As of 23 May 2023 I have the outline of a complete path, and am working on filling in the details as much as possible. I am also very close to drawing a path from the current state of nostr (e.g. [NIP-51](https://github.com/nostr-protocol/nips/blob/master/51.md): lists) to the starting point of the path to DCoSL () . Once the path from nostr to DCoSL is complete, other onboarding pathways (not necessarily nostr) ought to be possible as well.
+
+## Intro
+
 DCoSL is a flexible protocol to guide the step-by-step construction of a decentralized web, with an emphasis on decentralized reputation and web of trust. Its design is inspired by the [nostr protocol](https://github.com/nostr-protocol/nostr). The protocol that follows is written to sit atop of nostr but could also be implemented in a nostr-independent fashion with minimal changes to the protocol as currently specified.
 
 The DCoSL protocol is based on the premise that the curation of a [simple list](glossary/simpleList.md) by one's web of trust should be considered not only the atomic unit of the decentralized web, but also its defining feature. DCoSL strives to turn a difficult and perhaps seemingly overwhelming challenge -- creation of a web of trust that lots of people actually use -- into a tractable one by breaking it down into bite size steps: one list at a time, and one DIP (DCoSL implementation proposal) at a time.

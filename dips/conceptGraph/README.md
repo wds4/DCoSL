@@ -33,7 +33,9 @@ Currently a word is defined and specified in DIP-104; ought to move this to its 
 
 Consider reorganizing as follows:
 - 100 words and wordTypes
-- 101 
+- 101 new wordType: jsonSchema
+- 102 new wordType: lists
+- 103 new wordType: relationships, relationshipTypes
 
 # NOT YET ADDED:
 

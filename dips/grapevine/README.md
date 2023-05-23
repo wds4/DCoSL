@@ -8,11 +8,11 @@ See the list of [important concepts](importantConcepts.md).
 
 - [DIP-200](200.md): publication of an attestation over nostr
 
+- [DIP-201](201.md): general format of a user 'trust' rating
+
 # UNDER CONSTRUCTION
 
 ## calculation and usage of USER INFLUENCE
-
-- [DIP-20*](20*.md): general format of a user 'trust' rating
 
 - [DIP-20*](20*.md): Use user influence as the weight when calculating weighted averages
 

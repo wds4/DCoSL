@@ -20,6 +20,8 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-104](104.md): implementation as a graph database
 
+- [DIP-105](105.md): publication of a word over nostr
+
 # NOT YET ADDED:
 
 - [DIP-10*](10*.md): class
@@ -28,19 +30,19 @@ analogy to the class in object-oriented programming
 
 threads, class threads, class node, class instance, class thread rule
 
-- [DIP-105](105.md): use of graphs to represent complex lists and other data structures
+- [DIP-10*](10*.md): use of graphs to represent complex lists and other data structures
 
-- [DIP-105](105.md): graphical representation of a concept
+- [DIP-10*](10*.md): graphical representation of a concept
 
-- [DIP-106](106.md): graphical representation of a property tree
+- [DIP-10*](10*.md): graphical representation of a property tree
 
-- [DIP-107](107.md): graphical representation of a context tree
+- [DIP-10*](10*.md): graphical representation of a context tree
 
-- [DIP-108](108.md): graphical representation of schemas
+- [DIP-10*](10*.md): graphical representation of schemas
 
-- [DIP-109](109.md): graphical representation of JSON-LD
+- [DIP-10*](10*.md): graphical representation of JSON-LD
 
-- [DIP-110](110.md): graphical representation of data model
+- [DIP-10*](10*.md): graphical representation of data model
 
 
 

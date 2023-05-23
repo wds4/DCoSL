@@ -32,13 +32,13 @@ Currently a word is defined and specified in DIP-104; ought to move this to its 
 23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo
 
 Consider reorganizing as follows:
-- 100 words and wordTypes
-- 101 new wordType: jsonSchema
-- 102 new wordType: lists
-- 103 new wordType: relationships, relationshipTypes; subsetOf, specificInstance
-- 104 new wordTypes: set, superset
-- 104 graph database, thread, class thread: jsonSchema-wordType-superset-set-instance
-- 105 
+- 900 words and wordTypes
+- 901 new wordType: jsonSchema (later: classDefinition or classSpecification)
+- 902 new wordType: list
+- 903 new wordType: relationship, relationshipType; subsetOf, specificInstance
+- 904 new wordTypes: set, superset
+- 905 abstraction: graph database, thread, class, class thread: classDefinition as generalization of (jsonSchema, classNode as generalization of wordType -superset-set-instance
+- 906 
 
 # NOT YET ADDED:
 

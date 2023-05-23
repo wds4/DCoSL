@@ -25,6 +25,8 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 # construction
 
+maybe move word, wordType to DIP-100? then define lists (simple and complex) & list items, endorsements, etc as derivates of the notion of a word?
+
 Currently a word is defined and specified in DIP-104; ought to move this to its own NIP and perhaps reorder some of them (move `publication of a word over nostr` to a later DIP, after `structure of a word`)
 
 23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo

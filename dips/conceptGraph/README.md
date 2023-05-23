@@ -18,21 +18,23 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-103](103.md): concept graph
 
-- [DIP-104](104.md): implementation as a graph database
+- [DIP-104](104.md): words and wordTypes 
 
 - [DIP-105](105.md): publication of a word over nostr
 
+- [DIP-106](106.md): JSONSchemas
+- 
 # construction
-
-- [DIP-106](106.md): words and wordTypes
 
 Currently a word is defined and specified in DIP-104; ought to move this to its own NIP and perhaps reorder some of them (move `publication of a word over nostr` to a later DIP, after `structure of a word`)
 
-- [DIP-107](107.md): JSONSchemas
+23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo
 
 - [DIP-108](108.md): class threads
 
 # NOT YET ADDED:
+
+- [DIP-10*](10*.md): implementation as a graph database
 
 - [DIP-10*](10*.md): class
 

@@ -7,5 +7,6 @@ Each OOP language has its own conception of a `class` (usually going by the name
 
 In DCoSL, the notion of a `concept` can be thought of as an abstration of the notion in OOP of a class. (See definitions of class thread, class node, class instance; concept = class node + all class threads emanating from it, and all the nodes and edges traversed by such threads; where to summarize this?)
 
-Classes as definedfor various OOP languages:
+Classes as defined for various OOP languages:
 - [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- ... more to add

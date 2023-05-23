@@ -44,8 +44,8 @@ Consider reorganizing as follows:
 - 908 concept graph
 
 publish in grapevine:
-- 907 new wordTypes: attestation, endorsement, rating (place under grapevine?)
-- 908 publication of an attestation, endorsement, rating over nostr (place under grapevine?)
+- 200 new wordTypes: attestation, endorsement, rating (place under grapevine?)
+- 201 publication of an attestation, endorsement, rating over nostr (place under grapevine?)
 
 # NOT YET ADDED:
 

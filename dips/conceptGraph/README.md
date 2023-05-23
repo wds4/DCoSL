@@ -31,6 +31,9 @@ Currently a word is defined and specified in DIP-104; ought to move this to its 
 
 23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo
 
+Consider reorganizing as follows:
+- 100 words and wordTypes
+- 101 
 
 # NOT YET ADDED:
 

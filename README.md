@@ -6,7 +6,7 @@ DCoSL is a work in progress. I am basically starting with a vision for the desir
 
 ## Intro
 
-DCoSL is a flexible protocol to guide the step-by-step construction of a decentralized web, with an emphasis on decentralized reputation and web of trust. Its design is inspired by the [nostr protocol](https://github.com/nostr-protocol/nostr). The protocol that follows is written to sit atop of nostr but could also be implemented in a nostr-independent fashion with minimal changes to the protocol as currently specified.
+DCoSL is a flexible protocol to guide the step-by-step construction of a decentralized web, with an emphasis on decentralized reputation and web of trust. Its design is inspired by the [nostr protocol](https://github.com/nostr-protocol/nostr). The protocol that follows is written to sit atop of nostr but could also be implemented in a nostr-independent fashion with minimal changes to the DCoSL protocol as currently specified.
 
 The DCoSL protocol is based on the premise that the curation of a [simple list](glossary/simpleList.md) by one's web of trust should be considered not only the atomic unit of the decentralized web, but also its defining feature. DCoSL strives to turn a difficult and perhaps seemingly overwhelming challenge -- creation of a web of trust that lots of people actually use -- into a tractable one by breaking it down into bite size steps: one list at a time, and one DIP (DCoSL implementation proposal) at a time.
 

@@ -22,6 +22,12 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-105](105.md): publication of a word over nostr
 
+# construction
+
+- [DIP-106](106.md): structure of a word
+
+Currently a word is defined and specified in DIP-105; ought to move this to its own NIP
+
 # NOT YET ADDED:
 
 - [DIP-10*](10*.md): class

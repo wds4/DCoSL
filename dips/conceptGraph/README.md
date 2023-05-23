@@ -26,7 +26,7 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-106](106.md): structure of a word
 
-Currently a word is defined and specified in DIP-105; ought to move this to its own NIP
+Currently a word is defined and specified in DIP-104; ought to move this to its own NIP and perhaps reorder some of them (move `publication of a word over nostr` to a later DIP, after `structure of a word`)
 
 # NOT YET ADDED:
 

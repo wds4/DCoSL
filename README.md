@@ -79,30 +79,6 @@ The term `crowdsource` will be used to refer to curation of one or of a collecti
 
 The DCoSL protocol itself can be expressed as a bunch of lists, and those lists can be managed via DCoSL. When the entire protocol is managed in this decentralized fashion, this is called DIP-infinity, or circular DCoSL (because DCoSL is being used to define DCoSL).
 
-# How does DCoSL work?
-
-(may delete this section; mostly redundant)
-
-The basic idea of DCoSL is to provide tools to allow users to farm out decisions, major and minor, to their webs of trust, thereby decreasing reliance on dev teams, standards committees, etc. This is handled through curation of simple lists: an unordered set of elements, referred to here as `items`. Examples of simple lists: a list of nostr relays, a list of trusted lightning nodes, a list of properties for a user profile (name, display_name, picture_url, etc).
-
-The basic premise of DCoSL is that the ability for a user to delegate curation of a simple list to the web of trust (DIP-0) should be considered the <i>defining feature</i> of the decentralized web. If a platform does not satisfy NIP-0, it is not part of the decentralized web. If it does satisfy NIP-0, then it should be considered as part of the decentralized web, even if only one single list qualifies.
-
-The reason that DCoSL will succeed where previous attempts at webs of trust have fallen short is that DCoSL offers a strategy to take a complex, overwhelming problem and break it down into small steps. How? As developers, you can provide your users with the ability to delegate list curation to their webs of trust in bite sized chunks: <i>one list at a time</i> (or perhaps a small handful of lists at a time).
-
-DCoSL relies heavily on graphs. Why? Because a graph can be specified in full using two simple lists: one list for nodes, and one list for edges. A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. 
-
-# Who should implement this? How to get started?
-
-Any developer working on any peer to peer platform, protocol, library, or tool. Think of some feature that your users may want to delagate to other users. Any feature can be broken down into a series of simple lists.
-
-The first step, generally, would be to apply DCoSL to just one list. You, the developer, will create a default list, your own best guess as to what items should be on that list. Often, this may be a list that you, the developer, agoinze over, because you know that different users may have different ideas about what itms; belong on the list. So you give each user these options: use the default list; manage the list manually; or farm the list out to the WoT, using DIP-0 and perhaps other DIPs. If you are using DIP-0 by itself, you will write a bespoke method for list curation, typically using scraped data, e.g. a list of nostr relays scraped from the following list. Perhaps you agonize whether to expand one, two, three hops out? This decision can be farmed out to your user communities, using ideas from the DCoSL protocol.
-
-The magic will become evident once additional, carefully chosen lists are added. Milestones can be created, defined by the things that your users can delegate. You may want to expand the simple list into a complex one, following DIPs below. Or you may wish to curate data models
-
-Begin with the desired destination and then work backwards. That means: create a list of lists that together serve some function. Potentially, you will want to pick just one of the lists to offer for initial rollout to your users. Devise a method to curate that list. Provide an interface so that users have the following options: use the default list, curated by you, the team of developers; the user manages the list directly; or the users allows the web of trust to manage the list. Some intermediate states may be considered; for example, the WoT suggests updates to the list, which must then be approved manually, either individually or in aggregate, by the user. Once this is in place, then allow additional lists to be managed by DCoSL.
-
-see examples 
-
 # Protocol specification 
 
 DIPs (DCoSL implementation proposals) are categorized into three blocks: the core protocol, the concept graph, and the grapevine.

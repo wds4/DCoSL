@@ -9,4 +9,39 @@ Additional features include:
 
 The ability to partition into subsets could be subsumed into the definition / specification of the list. Alternatively, partitioning into subsets could be managed independently of the list definition or specification.
 
+Example of a complex list for widgets, followed by an item on the list of widgets. Note that the list specification defines `color` as an additional property.
+
+```json
+{
+  "wordData": {
+    "wordTypes": ["list"],
+  },
+  "listData": {
+    "name": {
+      "singular": "widget",
+      "plural": "widgets",
+    },
+    "description": "lorem ipsum",
+    "properties": {
+      "color": {
+        "type": "string"
+      }
+    }
+  }
+}
+```
+
+```json
+{
+  "wordData": {
+    "wordTypes": ["widget"],
+  },
+  "widgetData": {
+    "name": "my awesome widget",
+    "description": "lorem ipsum",
+    "color": "blue",
+  }
+}
+```
+
 

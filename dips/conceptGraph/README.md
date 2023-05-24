@@ -1,5 +1,7 @@
 # The Concept Graph
 
+The notion of a concept graph will be build up step by step through a series of DIPs. Summary of the logic: (work in progress)
+
 See a list of [important concepts](importantConcepts.md).
 
 ## prerequisites

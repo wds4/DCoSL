@@ -34,7 +34,8 @@ Currently a word is defined and specified in DIP-104; ought to move this to its 
 23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo
 
 Consider reorganizing as follows:
-- 900 words and wordTypes
+- 900 words
+- 900b wordTypes
 - 901 new wordType: jsonSchema (later: classDefinition or classSpecification)
 - 902 new wordType: list
 - 903 new wordType: relationship, relationshipType; subsetOf, specificInstance

@@ -43,6 +43,13 @@ Consider reorganizing as follows:
 - 907 concept
 - 908 concept graph
 
+- 909 new wordType: property
+- 910 new wordType: schema (change to graph?)
+- 911 new wordType: concept
+- 912 new wordType: conceptGraph
+
+- 9** where to find latest conceptGraph
+
 publish in grapevine:
 - 200 new wordTypes: attestation, endorsement, rating (place under grapevine?)
 - 201 publication of an attestation, endorsement, rating over nostr (place under grapevine?)

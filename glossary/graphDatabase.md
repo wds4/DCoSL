@@ -10,12 +10,12 @@ To search for all [class threads](classThread.md) within a concept graph, use th
 ```
 MATCH p = (a)-[r1]->(b)-[r2]->(c)-[r3 *0..5]-(d)-[r4]->(e)
 
-WHERE a.wordTypes.includes('JSONSchema')
+WHERE a.wordTypes.includes('jsonSchema')
 AND b.wordType = 'wordType'
 AND c.wordType = 'superset'
 AND d.wordType = 'set'
 
-AND r1.type = 'isTheJSONSchemaFor'
+AND r1.type = 'isTheJsonSchemaFor'
 AND r3.type = 'subsetOf'
 AND r4.type = 'specificInstanceOf'
 RETURN nodes(p)

@@ -20,11 +20,11 @@ Each user is at the center of his or her web of trust, and each user's lists are
 
 The special role of graphs in the DCoSL protocol is discussed in [concept graph](dips/conceptGraph/README.md).
 
-## [the concept graph: DIPs 100-199](https://github.com/wds4/DCoSL/tree/main/dips/conceptGraph)
+## [the concept graph: DIPs 100-199](conceptGraph)
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
-## [the grapevine: DIPs 200-299](https://github.com/wds4/DCoSL/tree/main/dips/grapevine)
+## [the grapevine: DIPs 200-299](grapevine)
 
 Describes the calculation of context-based user influence
 

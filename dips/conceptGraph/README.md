@@ -34,23 +34,23 @@ Currently a word is defined and specified in DIP-104; ought to move this to its 
 23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo
 
 Consider reorganizing as follows:
-- 900 words
-- 900b wordTypes
-- 901 new wordType: jsonSchema (later: classDefinition or classSpecification)
-- 902 new wordType: list
-- 903 new wordType:
-- 903b new wordType: relationshipType; subsetOf, specificInstance
-- 904 new wordType: set
-- 904b new wordType: superset
-- 905 publication of a word over nostr
-- 906 class thread
-- 907 new wordType: concept
-- 908 new wordType: graph (formerly called: schema)
-- 909 new wordType: concept graph
-- 910 new wordType: property
+- 100 900 words
+- 101 905 simple publication of a word over nostr
+- 102 900b wordTypes
+- 103 903 new wordType: relationship
+- 104 903b new wordType: relationshipType
+- 105 908 new wordType: graph (formerly called: schema)
+- 106 902 new wordType: list
+- 107 901 new wordType: jsonSchema
+- 108 904 new wordType: set
+- 109 904b new wordType: superset
+- 110 906 class thread
+- 111 907 new wordType: concept
+- 112 909 new wordType: concept graph
+- 113 910 new wordType: property
 
 drafts not yet made
-
+- how a user can publish a graph
 - 9** where to find latest conceptGraph
 
 publish in grapevine:

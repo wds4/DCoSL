@@ -7,7 +7,7 @@ As per (DIP-100?), a word of wordType = foo:
 - should have a top-level property: `fooData`
 - The array, `wordData.wordTypes` should include the element: `foo`
 
-As per (DIPs), there are a handful of basic word types essential for construction of a [concept](concept.md):
+As per (list DIPs), there are a handful of basic word types essential for construction of a [concept](concept.md):
 | word type | top level property |
 | ----- | ----- |
 | word | wordData |

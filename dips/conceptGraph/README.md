@@ -26,11 +26,11 @@ There will be a natural progression from simple lists, to complex lists, to conc
 - [DIP-111](111.md): concepts
 - [DIP-112](112.md): concept graphs
 - [DIP-113](113.md): properties
+- [DIP-114](114.md): graph types
 
 # under construction
 
 drafts not yet made
-- 900: graph types
 - 901: context tree
 
 - how a user can publish a graph

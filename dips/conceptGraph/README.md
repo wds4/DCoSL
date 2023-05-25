@@ -38,7 +38,8 @@ Consider reorganizing as follows:
 - 900b wordTypes
 - 901 new wordType: jsonSchema (later: classDefinition or classSpecification)
 - 902 new wordType: list
-- 903 new wordType: relationship, relationshipType; subsetOf, specificInstance
+- 903 new wordType:
+- 903b new wordType: relationshipType; subsetOf, specificInstance
 - 904 new wordTypes: set, superset
 - 905 publication of a word over nostr
 

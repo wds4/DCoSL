@@ -81,7 +81,9 @@ The term `crowdsource` will be used to refer to curation of one or of a collecti
 
 ## DIP-infinity (aka circular DCoSL)
 
-The DCoSL protocol itself can be expressed as a bunch of lists, and those lists can be managed via DCoSL. When the entire protocol is managed in this decentralized fashion, this is called DIP-infinity, or circular DCoSL (because DCoSL is being used to define DCoSL).
+The DCoSL protocol itself can be expressed as a bunch of lists, and those lists can be managed via DCoSL. Example: the DIPs that establish the [concept graph](dips/conceptGraph) give rise to a list of [word types]() and a list of [relationship types]() which form the core of a concept. Each of these lists can be curated using the DCoSL protocol.
+
+When the entire protocol is managed in this decentralized fashion, this is called DIP-infinity, or circular DCoSL (because DCoSL is being used to define DCoSL). Once DIP-infinity is reached, there will be no need to rely upon standards committees or repository maintainers.
 
 # Protocol specification 
 

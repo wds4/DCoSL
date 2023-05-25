@@ -31,6 +31,7 @@ There will be a natural progression from simple lists, to complex lists, to conc
 # under construction
 
 drafts not yet made
+- declaration of a new concept
 - 901: context tree
 - how a user can publish a graph
 - public archives for a dictionary?

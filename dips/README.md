@@ -26,13 +26,13 @@ The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL
 
 | word type | top level property | DIP | definition |
 | ----- | ----- | ----- | ----- |
-| word | wordData | [DIP-100](dips/conceptGraph/100.md) | any node which represents an object |
-| wordType | wordTypeData | [DIP-102](dips/conceptGraph/102.md) | |
-| jsonSchema | jsonSchemaData | [DIP-107](dips/conceptGraph/107.md) | |
-| superset | supersetData | [DIP-109](dips/conceptGraph/109.md) | |
-| set | setData | [DIP-108](dips/conceptGraph/108.md) | |
-| concept | conceptData | [DIP-111](dips/conceptGraph/111.md) | |
-| graph | graphData | [DIP-105](dips/conceptGraph/105.md) | |
+| word | wordData | [DIP-100](conceptGraph/100.md) | any node which represents an object |
+| wordType | wordTypeData | [DIP-102](conceptGraph/102.md) | |
+| jsonSchema | jsonSchemaData | [DIP-107](conceptGraph/107.md) | |
+| superset | supersetData | [DIP-109](conceptGraph/109.md) | |
+| set | setData | [DIP-108](conceptGraph/108.md) | |
+| concept | conceptData | [DIP-111](conceptGraph/111.md) | |
+| graph | graphData | [DIP-105](conceptGraph/105.md) | |
 
 # Relationship types
 

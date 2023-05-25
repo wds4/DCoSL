@@ -89,5 +89,5 @@ See [DIPs](dips)
 
 # Notes
 
-Considering changing DCoSL to WeCoSL: Web-enabled Curation of Simple Lists, changing DIPs to WIPs, and changing my profile pic to Devo.
+Considering changing DCoSL to WeCoSL: Web-enabled Curation of Simple Lists, changing DIPs to WIPs, and changing my profile pic to Devo ;-)
 

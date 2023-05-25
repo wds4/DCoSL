@@ -18,4 +18,4 @@ As per (list DIPs), there are a handful of basic word types essential for constr
 
 As per DIP (???), a word of word type = `wordType` is a required node in a [class thread](classThread.md).
 
-DIP-??? outlines several methods for specification of a new word type.
+As per DIP-???, each concept gives rise to a unique word type, and the most formal (explicit) method for specification of a new word type is to create a new [concept](concept.md). DIP-??? lists several additional (implicit, less formal) methods for specification of a new word type.

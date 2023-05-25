@@ -10,11 +10,11 @@ As per (DIP-100?), a word of wordType = foo:
 As per (list DIPs), there are a handful of basic word types essential for construction of a [concept](concept.md):
 | word type | top level property |
 | ----- | ----- |
-| word | wordData |
-| jsonSchema | jsonSchemaData |
+| [word](word.md) | wordData |
+| [jsonSchema](jsonSchema.md) | jsonSchemaData |
 | wordType | wordTypeData |
-| superset | supersetData |
-| set | setData |
+| [superset](superset.md) | supersetData |
+| [set](set.md) | setData |
 
 As per DIP (???), a word of word type = `wordType` is a required node in a [class thread](classThread.md).
 

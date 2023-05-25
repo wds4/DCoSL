@@ -59,17 +59,6 @@ publish in grapevine:
 
 # NOT YET ADDED:
 
-- [DIP-10*](10*.md): JSONSchemas
-
-- [DIP-10*](10*.md): implementation as a graph database
-
-- [DIP-10*](10*.md): class
-
-- [DIP-10*](10*.md): class threads
-
-analogy to the class in object-oriented programming
-
-threads, class threads, class node, class instance, class thread rule
 
 - [DIP-10*](10*.md): use of graphs to represent complex lists and other data structures
 

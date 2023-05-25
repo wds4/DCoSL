@@ -22,5 +22,21 @@ Describes the calculation of context-based user influence
 
 The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL`, a phrase that pays homage to the 'circular economy' of bitcoin.
 
+# Word types
 
+| word type | top level property | definition |
+| ----- | ----- | ----- |
+| word | wordData | any node which represents an object |
+| wordType | wordTypeData | |
+| jsonSchema | jsonSchemaData | |
+| superset | supersetData | |
+| set | setData | |
+| concept | conceptData | |
+| graph | graphData | |
+
+# Relationship types
+
+| relationship type | nodeFrom | nodeTo |
+| ----- | ----- | ----- |
+| subsetOf | set | set |
 

@@ -47,12 +47,9 @@ Consider reorganizing as follows:
 - 907 new wordType: concept
 - 908 new wordType: graph (formerly called: schema)
 - 909 new wordType: concept graph
+- 910 new wordType: property
 
 drafts not yet made
-
-- 910 new wordType: property
-- 911 new wordType: concept
-- 912 new wordType: conceptGraph
 
 - 9** where to find latest conceptGraph
 

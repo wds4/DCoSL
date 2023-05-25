@@ -5,4 +5,4 @@ A `class node` is defined as a [node](node.md) within a [concept graph](conceptG
 
 [DIP-107](../dips/conceptGraph/107.md) provides specification for a [JSON schema](jsonSchema.md) as a particular example of a category of `class nodes`. DCoSL is designed to be flexible, and alternatives to JSON schemas could certainly be utilized as class nodes.
 
-According to the (class thread rule?), a class node is connected to a class instance using a specialized path called a [class thread](classThread.md). The requirement that the class node obeys the formatting rules of the class node is called the (need a name for this?).
+According to the ("class thread rule" ?), a class node is connected to a class instance using a specialized path called a [class thread](classThread.md). The requirement that the class node obeys the formatting rules of the class node is called the (need a name for this?).

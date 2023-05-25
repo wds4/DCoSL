@@ -43,10 +43,12 @@ Consider reorganizing as follows:
 - 904 new wordType: set
 - 904b new wordType: superset
 - 905 publication of a word over nostr
+- 906 class thread
+- 907 new wordType: concept
+- 908 new wordType: graph (formerly called: schema)
 
-- 906 abstraction: graph database, thread, class, class thread: classDefinition as generalization of (jsonSchema, classNode as generalization of wordType -superset-set-instance
-- 907 concept
-- 908 concept graph
+drafts not yet made
+- 90* concept graph
 
 - 909 new wordType: property
 - 910 new wordType: schema (change to graph?)

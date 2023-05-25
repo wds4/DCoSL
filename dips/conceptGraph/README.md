@@ -32,12 +32,11 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 drafts not yet made
 - 901: context tree
-
 - how a user can publish a graph
 - public archives for a dictionary?
 - graph types: generic type, 
 - 90*: publish or pin a list of words (graph, concept graph, dictionary?)
-- 90*: conventions for cryptographic identifiers (wordData vs metaData)
+- 90*: conventions for cryptographic identifiers (wordData vs metaData, mutable vs immutable, IPNS name vs ... ?)
 - 90*: graphical representation of a concept
 - 90*: graphical representation of a property tree
 - 90*: graphical representation of schemas

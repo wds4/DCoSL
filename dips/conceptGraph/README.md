@@ -12,20 +12,20 @@ See a list of [important concepts](importantConcepts.md).
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
-- [DIP-100](100.md): 
-- [DIP-101](101.md): 
-- [DIP-102](102.md): 
-- [DIP-103](103.md): 
-- [DIP-104](104.md): 
-- [DIP-105](105.md): 
-- [DIP-106](106.md): 
-- [DIP-107](107.md): 
-- [DIP-108](108.md): 
-- [DIP-109](109.md): 
-- [DIP-110](110.md): 
-- [DIP-111](111.md): 
-- [DIP-112](112.md): 
-- [DIP-113](113.md): 
+- [DIP-100](100.md): words
+- [DIP-101](101.md): publication of a word over nostr
+- [DIP-102](102.md): word types
+- [DIP-103](103.md): relationships
+- [DIP-104](104.md): relationship types
+- [DIP-105](105.md): graphs
+- [DIP-106](106.md): lists
+- [DIP-107](107.md): json schemas
+- [DIP-108](108.md): sets
+- [DIP-109](109.md): supersets
+- [DIP-110](110.md): class threads
+- [DIP-111](111.md): concepts
+- [DIP-112](112.md): concept graphs
+- [DIP-113](113.md): properties
 
 
 # construction

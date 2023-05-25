@@ -27,32 +27,25 @@ There will be a natural progression from simple lists, to complex lists, to conc
 - [DIP-112](112.md): concept graphs
 - [DIP-113](113.md): properties
 
-# works in progress - notes
+# under construction
 
 drafts not yet made
-- 900: publish or pin a list of words (graph, concept graph, dictionary?)
-- 901: conventions for cryptographic identifiers (wordData vs metaData)
-
 - how a user can publish a graph
 - public archives for a dictionary?
- 
+- 90*: publish or pin a list of words (graph, concept graph, dictionary?)
+- 90*: conventions for cryptographic identifiers (wordData vs metaData)
+- 90*: graphical representation of a concept
+- 90*: graphical representation of a property tree
+- 90*: graphical representation of a context tree
+- 90*: graphical representation of schemas
+- 90*: graphical representation of JSON-LD
+- 90*: graphical representation of data model
+
 publish in grapevine:
-- 200 new wordTypes: attestation, endorsement, rating (place under grapevine?)
-- 201 publication of an attestation, endorsement, rating over nostr (place under grapevine?)
-
-# NOT YET ADDED:
-
-- [DIP-10*](10*.md): graphical representation of a concept
-
-- [DIP-10*](10*.md): graphical representation of a property tree
-
-- [DIP-10*](10*.md): graphical representation of a context tree
-
-- [DIP-10*](10*.md): graphical representation of schemas
-
-- [DIP-10*](10*.md): graphical representation of JSON-LD
-
-- [DIP-10*](10*.md): graphical representation of data model
+- 200 new wordType: attestation
+- 201 new wordType: endorsement
+- 202 new wordType: rating
+- 203 publication of an attestation, endorsement, rating over nostr
 
 # Word types
 

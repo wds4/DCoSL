@@ -27,43 +27,20 @@ There will be a natural progression from simple lists, to complex lists, to conc
 - [DIP-112](112.md): concept graphs
 - [DIP-113](113.md): properties
 
-
-# construction
-
-maybe move word, wordType to DIP-100? then define lists (simple and complex) & list items, endorsements, etc as derivates of the notion of a word?
-
-Currently a word is defined and specified in DIP-104; ought to move this to its own NIP and perhaps reorder some of them (move `publication of a word over nostr` to a later DIP, after `structure of a word`)
-
-23 May: DIPs-104, 106 have been reassigned; need to make sure changes are propageted throughout this repo
-
-Consider reorganizing as follows:
-- 100 900 words
-- 101 905 simple publication of a word over nostr
-- 102 900b wordTypes
-- 103 903 new wordType: relationship
-- 104 903b new wordType: relationshipType
-- 105 908 new wordType: graph (formerly called: schema)
-- 106 902 new wordType: list
-- 107 901 new wordType: jsonSchema
-- 108 904 new wordType: set
-- 109 904b new wordType: superset
-- 110 906 class thread
-- 111 907 new wordType: concept
-- 112 909 new wordType: concept graph
-- 113 910 new wordType: property
+# works in progress - notes
 
 drafts not yet made
-- how a user can publish a graph
-- 9** where to find latest conceptGraph
+- 900: publish or pin a list of words (graph, concept graph, dictionary?)
+- 901: conventions for cryptographic identifiers (wordData vs metaData)
 
+- how a user can publish a graph
+- public archives for a dictionary?
+ 
 publish in grapevine:
 - 200 new wordTypes: attestation, endorsement, rating (place under grapevine?)
 - 201 publication of an attestation, endorsement, rating over nostr (place under grapevine?)
 
 # NOT YET ADDED:
-
-
-- [DIP-10*](10*.md): use of graphs to represent complex lists and other data structures
 
 - [DIP-10*](10*.md): graphical representation of a concept
 

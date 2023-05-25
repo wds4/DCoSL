@@ -50,20 +50,4 @@ publish in grapevine:
 - 202 new wordType: rating
 - 203 publication of an attestation, endorsement, rating over nostr
 
-# Word types
 
-| word type | top level property | definition |
-| ----- | ----- | ----- |
-| word | wordData | any node which represents an object |
-| wordType | wordTypeData | |
-| jsonSchema | jsonSchemaData | |
-| superset | supersetData | |
-| set | setData | |
-| concept | conceptData | |
-| graph | graphData | |
-
-# Relationship types
-
-| relationship type | nodeFrom | nodeTo |
-| ----- | ----- | ----- |
-| subsetOf | set | set |

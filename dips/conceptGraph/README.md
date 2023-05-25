@@ -83,9 +83,10 @@ publish in grapevine:
 | jsonSchema | jsonSchemaData | |
 | superset | supersetData | |
 | set | setData | |
+| concept | conceptData | |
 | graph | graphData | |
 
-$ Relationship types
+# Relationship types
 
 | relationship type | nodeFrom | nodeTo |
 | ----- | ----- | ----- |

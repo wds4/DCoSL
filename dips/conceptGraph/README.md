@@ -74,5 +74,19 @@ publish in grapevine:
 
 - [DIP-10*](10*.md): graphical representation of data model
 
+# Word types
 
+| word type | top level property | definition |
+| ----- | ----- | ----- |
+| word | wordData | any node which represents an object |
+| wordType | wordTypeData | |
+| jsonSchema | jsonSchemaData | |
+| superset | supersetData | |
+| set | setData | |
+| graph | graphData | |
 
+$ Relationship types
+
+| relationship type | nodeFrom | nodeTo |
+| ----- | ----- | ----- |
+| subsetOf | set | set |

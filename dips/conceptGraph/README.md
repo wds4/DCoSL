@@ -40,7 +40,8 @@ Consider reorganizing as follows:
 - 902 new wordType: list
 - 903 new wordType:
 - 903b new wordType: relationshipType; subsetOf, specificInstance
-- 904 new wordTypes: set, superset
+- 904 new wordType: set
+- 904b new wordType: superset
 - 905 publication of a word over nostr
 
 - 906 abstraction: graph database, thread, class, class thread: classDefinition as generalization of (jsonSchema, classNode as generalization of wordType -superset-set-instance

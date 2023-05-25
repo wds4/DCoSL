@@ -46,12 +46,11 @@ Consider reorganizing as follows:
 - 906 class thread
 - 907 new wordType: concept
 - 908 new wordType: graph (formerly called: schema)
+- 909 new wordType: concept graph
 
 drafts not yet made
-- 90* concept graph
 
-- 909 new wordType: property
-- 910 new wordType: schema (change to graph?)
+- 910 new wordType: property
 - 911 new wordType: concept
 - 912 new wordType: conceptGraph
 

@@ -17,3 +17,5 @@ As per (list DIPs), there are a handful of basic word types essential for constr
 | set | setData |
 
 As per DIP (???), a word of word type = `wordType` is a required node in a [class thread](classThread.md).
+
+DIP-??? outlines several methods for specification of a new word type.

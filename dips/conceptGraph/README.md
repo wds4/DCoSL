@@ -1,6 +1,6 @@
 # The Concept Graph
 
-The notion of a concept graph will be build up step by step through a series of DIPs. Summary of the logic: (work in progress)
+The notion of a concept graph will be build up step by step through a series of DIPs. The building blocks of a graph - nodes and edges - will be addressed. Then the notion of a simple list ([DIP-106](106.md)) will mature into the notion of a concept ([DIP-111](111.md)).
 
 See a list of [important concepts](importantConcepts.md).
 
@@ -30,13 +30,16 @@ There will be a natural progression from simple lists, to complex lists, to conc
 # under construction
 
 drafts not yet made
+- 900: graph types
+- 901: context tree
+
 - how a user can publish a graph
 - public archives for a dictionary?
+- graph types: generic type, 
 - 90*: publish or pin a list of words (graph, concept graph, dictionary?)
 - 90*: conventions for cryptographic identifiers (wordData vs metaData)
 - 90*: graphical representation of a concept
 - 90*: graphical representation of a property tree
-- 90*: graphical representation of a context tree
 - 90*: graphical representation of schemas
 - 90*: graphical representation of JSON-LD
 - 90*: graphical representation of data model

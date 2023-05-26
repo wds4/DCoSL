@@ -2,7 +2,7 @@
 
 ## Preamble
 
-DCoSL is a work in progress. I am basically starting with a vision for the desired end-state of a completely decentralized web (["DIP-infinity"](dips/coreProtocol/infinity.md)) and working backwards from there to where we are now. As of 23 May 2023 I have the outline of a path and am working on filling in the details as much as possible. I am also very close to drawing a path from the current state of nostr (e.g. [NIP-51](https://github.com/nostr-protocol/nips/blob/master/51.md): Lists) to potential entry points into DCoSL. The flexibility of the DCoSL approach means that once the path from nostr to DCoSL is complete, other onboarding pathways (not necessarily nostr-related) should be possible as well.
+This repo is a work in progress. It is being implemented in the desktop app, [Pretty Good Apps](https://github.com/wds4/pretty-good), which is also a work in progress.
 
 ## Intro
 
@@ -61,6 +61,8 @@ In addition to the above, some may have philosophic difficulties with the starti
 See [DIPs](dips)
 
 # Notes
+
+DCoSL is a work in progress. I am basically starting with a vision for the desired end-state of a completely decentralized web (["DIP-infinity"](dips/coreProtocol/infinity.md)) and working backwards from there to where we are now. As of May 2023 I have the outline of a path and am working on filling in the details as much as possible. I am also very close to drawing a path from the current state of nostr (e.g. [NIP-51](https://github.com/nostr-protocol/nips/blob/master/51.md): Lists) to potential entry points into DCoSL. The flexibility of the DCoSL approach means that once the path from nostr to DCoSL is complete, other onboarding pathways (not necessarily nostr-related) should be possible as well.
 
 Considering changing DCoSL to WeCoSL: Web-enabled Curation of Simple Lists, changing DIPs to WIPs, and changing my profile pic to Devo ;-)
 

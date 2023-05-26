@@ -22,32 +22,3 @@ Describes the calculation of context-based user influence
 
 The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL`, a phrase that pays homage to the 'circular economy' of bitcoin.
 
-# Word types
-
-## the concept graph
-
-| word type | top level property | DIP | definition |
-| ----- | ----- | ----- | ----- |
-| word | wordData | [DIP-100](conceptGraph/100.md) | any node which represents an object |
-| wordType | wordTypeData | [DIP-102](conceptGraph/102.md) | |
-| jsonSchema | jsonSchemaData | [DIP-107](conceptGraph/107.md) | |
-| superset | supersetData | [DIP-109](conceptGraph/109.md) | |
-| set | setData | [DIP-108](conceptGraph/108.md) | |
-| concept | conceptData | [DIP-111](conceptGraph/111.md) | |
-| graph | graphData | [DIP-105](conceptGraph/105.md) | |
-
-## the grapevine
-
-| word type | top level property | DIP | definition |
-| ----- | ----- | ----- | ----- |
-| rating | ratingData |  |  |
-
-# Relationship types
-
-| relationship type | nodeFrom | nodeTo |
-| ----- | ----- | ----- |
-| isTheJsonSchemaFor | jsonSchema | wordType |
-| isTheSupersetFor | superset | wordType |
-| subsetOf | set | set |
-| isASpecificInstanceOf | any | set |
-

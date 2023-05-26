@@ -10,7 +10,7 @@ DIPs (DCoSL implementation proposals) are categorized into three blocks: the cor
 
 Basic starter DIPs. 
 
-### Examples:
+### implementations:
 
 - DIP-00: [Pretty Good Apps](https://github.com/wds4/pretty-good), nostr - settings - relays
 - DIP-01: [Pretty Good Apps](https://github.com/wds4/pretty-good), the Curated Lists app

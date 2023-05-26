@@ -2,7 +2,7 @@
 
 The basic starting point (as discussed in concept graph readme? or DCoSL readme? or glossary? or create a DIP-0* ?) is to represent data as a graph, with nodes and edges. (State elsewhere: Graph databases like neo4j could be considered but are not necessary and not necessarily recommended and probably not beneficial until later stages with large concept graphs.)
 
-The special role of graphs in the DCoSL protocol is discussed in [concept graph](dips/conceptGraph/README.md).
+The special role of graphs in the DCoSL protocol is discussed in [concept graph](conceptGraph/README.md).
 
 DIPs (DCoSL implementation proposals) are categorized into three blocks: the core protocol, the concept graph, and the grapevine.
 

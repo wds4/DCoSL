@@ -8,7 +8,12 @@ DIPs (DCoSL implementation proposals) are categorized into three blocks: the cor
 
 ## [core protocol: DIPs 00 - 99](coreProtocol)
 
-A selection of important DIPs is below. DIP-00 should be straightforward to implement in many cases. DIP-01 (without any additional DIPs) can be implemented without too much difficulty, although the rationale for doing so may not become apparent until many subsequent DIPs are also implemented. See [Pretty Good Apps](https://github.com/wds4/pretty-good) (specifically, the Curated Lists app) for an example of DIP-01 in conjunction with (long list of other DIPs). However, implementing just one or a few DIPs at a time is generally recommended from a developer perspective, with each DIP (possibly a small handful) being its own individual milestone. Easier to coordinate a team with clearly defined milestones.
+Basic starter DIPs. 
+
+### Examples:
+
+- DIP-00: [Pretty Good Apps](https://github.com/wds4/pretty-good), nostr - settings - relays
+- DIP-01: [Pretty Good Apps](https://github.com/wds4/pretty-good), the Curated Lists app
 
 ## [the concept graph: DIPs 100-199](conceptGraph)
 
@@ -18,7 +23,11 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 Describes the calculation of context-based user influence
 
-## DIP infinity, aka Circular DCoSL
+## [neuroCore: DIPs 1000 and above](neuroCore)
 
-The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL`, a phrase that pays homage to the 'circular economy' of bitcoin.
+enforcements of the [class thread rule](../glossary/classThreadRule.md)
+
+## [DIP infinity, aka Circular DCoSL](conceptGraph/infinity.md)
+
+a state of enlightenment where the implementation of DCoSL is itself crowdsourced using DCoSL.
 

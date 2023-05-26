@@ -24,6 +24,8 @@ The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL
 
 # Word types
 
+## the concept graph
+
 | word type | top level property | DIP | definition |
 | ----- | ----- | ----- | ----- |
 | word | wordData | [DIP-100](conceptGraph/100.md) | any node which represents an object |
@@ -34,9 +36,18 @@ The DCoSL protocol is used to curate itself. Also referred to as `Circular DCoSL
 | concept | conceptData | [DIP-111](conceptGraph/111.md) | |
 | graph | graphData | [DIP-105](conceptGraph/105.md) | |
 
+## the grapevine
+
+| word type | top level property | DIP | definition |
+| ----- | ----- | ----- | ----- |
+| rating | ratingData |  |  |
+
 # Relationship types
 
 | relationship type | nodeFrom | nodeTo |
 | ----- | ----- | ----- |
+| isTheJsonSchemaFor | jsonSchema | wordType |
+| isTheSupersetFor | superset | wordType |
 | subsetOf | set | set |
+| isASpecificInstanceOf | any | set |
 

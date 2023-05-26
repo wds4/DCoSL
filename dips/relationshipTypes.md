@@ -1,6 +1,6 @@
 # relationship types
 
-This is a summary of the basic [relationship types](../glossary/relationshipTypes.md).
+This is a summary of the basic [relationship types](../glossary/relationshipType.md).
 
 ## the concept graph
 

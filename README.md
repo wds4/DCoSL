@@ -54,11 +54,7 @@ In addition to the above, some may have philosophic difficulties with the starti
 
 ## The power of DCoSL comes from generation of [loose consensus](glossary/looseConsensus.md)
 
-## DIP-infinity (aka circular DCoSL)
-
-The DCoSL protocol itself can be expressed as a bunch of lists, and those lists can be managed via DCoSL. Example: the [DIPs](dips.conceptGraph) that establish the concept graph give rise to a list of word types and a list of relationship types (summarized in the tables [here](dips)) which form the core of a concept. Each of these lists can be curated using the DCoSL protocol.
-
-When the entire protocol is managed in this decentralized fashion, this is called DIP-infinity, or circular DCoSL (because DCoSL is being used to define DCoSL). Once DIP-infinity is reached, there will be no need to rely upon standards committees or repository maintainers.
+## [DIP-infinity](dips/coreProtocol/infinity.md): a state of enlightenment where the implementation of DCoSL is itself crowdsourced using DCoSL.
 
 # Protocol specification 
 

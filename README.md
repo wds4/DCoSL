@@ -50,34 +50,9 @@ In addition to the above, some may have philosophic difficulties with the starti
 
 # Important concepts
 
-## Everything can be broken down into simple lists
+## Everything can be broken down into [simple lists](glossary/simpleList.md)
 
-In mathematical terms, a simple list is an unordered set. Any given `item` either is or is not on any given list (an element of that set). Simple refers to the fact that there are no bells and whistles, like division of items into subsets, special properties for items of the list, etc. A list with bells and whistles like sets or properties is referred to as a `complex list`. Of note, a complex list can be constructed out of a simple list through the use of additional 'auxiliary' lists, like a list of associated properties or a list of associated subsets.
-
-Consider the following examples of simple lists:
-<li>a list of nostr relays</li>
-<li>a list of reliable nostr relays</li>
-<li>a list of subsets of nostr relays: free, paid, with filters, without filters, etc</li>
-<li>a list of relationships between subsets: A is a subset of B, B is a subset of C, etc.</li>
-<li>a list of user profile attributes: display_name, picture_url, about, location, twitterHandle, etc</li>
-<li>a list of javascript data types: string, object, array, boolean, etc.</li>
-<li>a list of lists that could be farmed out to one's web of trust</li>
-
-<br />
-
-A data model (e.g. a verifiable credential), an ontology, a schema or a context tree: these can all be built out of simple lists, each one of which can be curated. Imagine if your users no longer had to rely upon the World Wide Web Consortium (W3C) to manage a standard. With DCoSL, your users can farm out curation of any standard in question to their web of trust. Updates can potentially occur 24/7/365, not whenever the committee meets.
-
-From a practical perspective, the challenge to the developer becomes which list(s) to curate and in what order to rollout list curation. The impact of DCoSL may not be apparent after curation of just one list. But as more lists are added, and more DIPs are adopted, the impact and significance will grow significantly.
-
-## Loose Consensus 
-
-If the contents of a list are not particularly polarizing or controversial (and most of them aren't), then there is a good chance that Alice's WoT and Bob's WoT will come up with the same, or at least very similar, lists. This is known as <i>loose consensus</i>. Much of the power of DCoSL comes from its ability to generate loose consensus.
-
-Alice's WoT and Bob's WoT, though they are not identical, are very likely to have significant overlap. For any given list, although there is no guarantee, there is a good chance that Alice and Bob will end up using the exact same (or at least almost the same) list! This is a vitally important attribute, one that I call loose consensus. You'll want to think deeply about loose consensus before incorporating decentralized list curation to your app.
-
-In some cases, a particularly controversial or politicized list may generate loose consensus that segregates by community.
-
-The term `crowdsource` will be used to refer to curation of one or of a collection of simple lists using DCoSL protocol where a high degree of loose consensus is expected, at least within a given community. Schemas, verifiable credentials, etc can be said to be 'crowdsourced' via the DCoSL protocol, in each case through curation of a small handful of simple lists. One of the major challenges to the developer will be to write code that doesn't break when Alice and Bob maintain lists that do not match. Crowdsourcing one or a small handful of lists at a time should mitigate this difficulty
+## The power of DCoSL comes from generation of [loose consensus](glossary/looseConsensus.md)
 
 ## DIP-infinity (aka circular DCoSL)
 

@@ -1,6 +1,8 @@
 # The Concept Graph
 
-The notion of a concept graph will be build up step by step through a series of DIPs. The building blocks of a graph - nodes and edges - will be addressed. Then the notion of a simple list ([DIP-106](106.md)) will mature into the notion of a concept ([DIP-111](111.md)).
+In DCoSL, data is represented as a [graph](../../glossary/graph.md), with [nodes](../../glossary/node.md) and [edges](../../glossary/relationship.md). A concept graph is a graph with additional structure, as described though this series of DIPs.
+
+A simple list will be defined in ([DIP-106](106.md)) as a node with particular characteristics. The idea of a simple list will then mature into the notion of a concept ([DIP-111](111.md)).
 
 See a list of [important concepts](importantConcepts.md).
 

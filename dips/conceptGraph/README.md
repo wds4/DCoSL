@@ -8,7 +8,7 @@ See a list of [important concepts](importantConcepts.md).
 
 ## prerequisites
 
-- [DIP-03](../03.md): Representation of a graph using simple lists.
+- [DIP-03](../coreProtocol/03.md): Representation of a graph using simple lists.
 
 ## DIPS 100-199: the Concept Graph
 

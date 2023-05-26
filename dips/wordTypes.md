@@ -1,5 +1,7 @@
 # word types
 
+This is a summary of the basic [word types](../glossary/wordType.md).
+
 ## the concept graph
 
 | word type | top level property | DIP | definition |

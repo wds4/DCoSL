@@ -14,6 +14,8 @@ See a list of [important concepts](importantConcepts.md).
 
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
+Note: the numeric designation of these DIPs is subject to change.
+
 - [DIP-100](100.md): words
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types

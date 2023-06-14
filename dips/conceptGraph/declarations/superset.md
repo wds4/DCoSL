@@ -1,4 +1,4 @@
-# Declaration of ``
+# Declaration of `superset`
 
 ## Declaration
 
@@ -8,8 +8,25 @@
     "wordTypes": ["wordType"],
   },
   "wordTypeData": {
-    "slug": "",
-    "name": "",
+    "slug": "superset",
+    "name": "superset",
+  },
+  ...
+  "metaData": {
+  },
+}
+```
+
+## Alternate convention (dip ??)
+
+```json
+{
+  "abcde12345": {
+    "wordTypes": ["wordType"],
+  },
+  "bcdef23456": {
+    "slug": "superset",
+    "name": "superset",
   },
   ...
   "metaData": {
@@ -19,5 +36,5 @@
 
 ## References
 
-- `` is introduced in [DIP-10](../10.md).
-- glossary entry: [](../../../glossary/.md), [word type](../../../glossary/wordType.md)
+- `superset` is introduced in [DIP-109](../109.md).
+- glossary entry: [](../../../glossary/superset.md), [word type](../../../glossary/wordType.md)

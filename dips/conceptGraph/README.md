@@ -15,6 +15,7 @@ See a list of [important concepts](importantConcepts.md).
 There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
 
 - [DIP-100](100.md): words
+- [DIP-101.5](101.5.md): unique word identifiers
 - [DIP-101](101.md): publication of a word over nostr
 - [DIP-102](102.md): word types
 - [DIP-103](103.md): relationships

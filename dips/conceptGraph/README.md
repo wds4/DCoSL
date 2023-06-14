@@ -16,6 +16,7 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 - [DIP-100](100.md): words
 - [DIP-100b](100b.md): unique word identifiers
+- [DIP-100c](100c.md): unique word identifier types
 - [DIP-101](101.md): publication of a word over nostr
 - [DIP-102](102.md): word types
 - [DIP-103](103.md): relationships

@@ -1,4 +1,4 @@
-# Declaration of ``
+# Declaration of `concept graph`
 
 ## Declaration
 
@@ -8,8 +8,8 @@
     "wordTypes": ["wordType"],
   },
   "wordTypeData": {
-    "slug": "",
-    "name": "",
+    "slug": "conceptGraph",
+    "name": "concept graph",
   },
   ...
   "metaData": {

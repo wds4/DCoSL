@@ -1,5 +1,7 @@
 # Declaration of `relationship type`
 
+## Declaration
+
 ```json
 {
   "wordData": {
@@ -15,3 +17,8 @@
   },
 }
 ```
+
+## References
+
+- [DIP-104](../104.md)
+- glossary entries: [relationship type](../../../glossary/relationshipType.md), [word type](../../../glossary/wordType.md)

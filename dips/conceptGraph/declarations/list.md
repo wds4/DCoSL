@@ -20,4 +20,4 @@
 ## References
 
 - `list` is introduced in [DIP-106](../106.md).
-- glossary entry: [list](../../../glossary/list.md), [word type](../../../glossary/wordType.md)
+- relevant glossary entries: [list](../../../glossary/list.md), [word type](../../../glossary/wordType.md)

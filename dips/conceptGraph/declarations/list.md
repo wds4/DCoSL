@@ -1,4 +1,4 @@
-# Declaration of ``
+# Declaration of `list`
 
 ## Declaration
 
@@ -8,8 +8,8 @@
     "wordTypes": ["wordType"],
   },
   "wordTypeData": {
-    "slug": "",
-    "name": "",
+    "slug": "list",
+    "name": "list",
   },
   ...
   "metaData": {
@@ -19,5 +19,5 @@
 
 ## References
 
-- `` is introduced in [DIP-10](../10.md).
-- glossary entry: [](../../../glossary/.md), [word type](../../../glossary/wordType.md)
+- `list` is introduced in [DIP-106](../106.md).
+- glossary entry: [list](../../../glossary/list.md), [word type](../../../glossary/wordType.md)

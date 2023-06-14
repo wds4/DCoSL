@@ -20,5 +20,5 @@
 
 ## References
 
-- [DIP-104](../104.md)
+- `relationship type` is introduced in [DIP-104](../104.md).
 - glossary entries: [relationship type](../../../glossary/relationshipType.md), [word type](../../../glossary/wordType.md)

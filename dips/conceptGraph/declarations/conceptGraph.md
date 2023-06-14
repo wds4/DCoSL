@@ -19,5 +19,5 @@
 
 ## References
 
-- `` is introduced in [DIP-10](../10.md).
-- glossary entry: [](../../../glossary/.md), [word type](../../../glossary/wordType.md)
+- `concept graph` is introduced in [DIP-112](../112.md).
+- glossary entry: [concept graph](../../../glossary/conceptGraph.md), [word type](../../../glossary/wordType.md)

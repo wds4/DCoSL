@@ -37,6 +37,9 @@ Note: the numeric designation of these DIPs is subject to change.
 
 # under construction
 
+drafts in progress
+- [DIP-190](190.md): concept graph nostr publication tasks
+
 drafts not yet made
 - declaration of a new concept
 - 901: context tree

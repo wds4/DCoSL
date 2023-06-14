@@ -20,6 +20,7 @@ Note: the numeric designation of these DIPs is subject to change.
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
 - [DIP-101](101.md): publication of a word over nostr
+- (unassigned) publication of a word to IPFS
 - [DIP-102](102.md): word types
 - [DIP-103](103.md): relationships
 - [DIP-104](104.md): relationship types

@@ -1,0 +1,89 @@
+DIP-101
+======
+
+Publication of a word (DIP-100) over nostr
+------------------------------
+
+This DIP is being updated from testnet-1 to testnet-2.
+
+Changes compared to testnet-1:
+- considering updating from 99xx block to 399xx block, so that the steward of any given word can update (or should we stick with 99xx, so that users have the option of sticking with the original definitions without being forced to follow the steward's update? maybne 99xx but include an optional version number?)
+- reworking the system of tags and tasks, especially e and s tags; unclear how much info needs to be included; slug and id of parent concept in addition to slug of the word itself?
+
+-----------------
+
+There will be multiple ways to publish `words` to nostr. This DIP is the simplest, most basic method. It can be searched by its event id. In theory, this may be all that is needed. But additonal methods in subsequent DIPs will employ various tags to make them more easily and efficiently searchable, e.g. to search for words based on wordType, search for ratings based on ratee or by ratingTemplate, etc. 
+
+In this DIP, the event type will be Regular Event. Future DIPs will use other event types, e.g. ratings will be replaceable.
+
+See also [DIP-200](../grapevine/200.md) for publication of a rating over nostr.
+
+This DIP proposes conventions for packaging a `word` (as defined by [DIP-100](100.md)) as a nostr event for publication over nostr.
+
+The word is converted from JSON to a string and placed into the nostr event `content` field.
+
+## kinds and tags
+
+They are published as a Regular Event as per [NIP-16](https://github.com/nostr-protocol/nips/blob/master/16.md) with kind anywhere in the range 9000 to 9999. (Regular Events can be anywhere in the range 1000 - 9999, but kinds below 9000 are avoided to minimize potential collisions with other NIPs.)
+
+- kind 9901, with tag: `["c", "concept-graph-testnet-901"]`
+- kind 9902, with tag: `["c", "concept-graph-testnet-902"]`
+- mainnet is anticipated to launch using kind 9001, tag: `["c", "concept-graph-001"]`
+
+### Required tags
+
+| tag            | description                      | values |
+| ---------------- | -------------------------------- | -------|
+| `c`              | indicates concept graph          | `concept-graph` |
+| `t`              |  task | `createWord`, `createInstance` |
+
+(More tasks will be introduced in subsequent DIPs.)
+
+### tasks
+
+| task slug            | description                      |
+| ---------------- | -------------------------------- |
+| `createWord` | add a new word |
+| `createInstance` | add a new word and designate it as an instance of a list or concept |
+
+### additional tags, depending on the task
+
+#### `createWord`
+
+| tag            | description                      |
+| ---------------- | -------------------------------- |
+| `w` (required)             | slug (or any other unique ID?) of the word being created |
+| `s` (optional)              | slug of the parent concept OR of a set  |
+| `e` (optional)             |  nostr event id of the parent concept |
+
+#### `createInstance`
+
+When the task is `createInstance`, at least one, preferably both, of the following tags must be published to identify the parent list, of which the word currently being published is an item:
+
+| tag            | description                      |
+| ---------------- | -------------------------------- |
+| `w` (required)             | slug of the word being created (not the parent) |
+| `s` (required)              | slug of the parent concept OR of a set  |
+| `e` (required)             |  nostr event id of the parent concept |
+
+Note: w, e, and s tags are in question. Need to have tags for the word as well as for parent concept or set? Need to specify other stuff too? How much detail to get into? Some details are already contained in the word itself. 
+
+If the `e` and the `s` tags are missing from `createInstance` task, then the task is converted to a simple `createWord`.
+
+Example 1: packaging the creation of the list of `widgets` from the example in [DIP-01](../01.md):
+
+```json
+{
+    "id": "ae641d5606f3ec710b135678810d4256fd2e92022896ca58d194c361c46d81f9",
+    "content": "{ ... }",
+    "kind": 9901,
+    "tags": [
+        ["c", "concept-graph-testnet-901"],
+        ["t", "createWord"],
+    ],
+    ...other fields
+}
+```
+
+
+

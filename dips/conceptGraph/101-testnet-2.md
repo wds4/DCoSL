@@ -7,7 +7,7 @@ Publication of a word (DIP-100) over nostr
 This DIP is being updated from testnet-1 to testnet-2.
 
 Changes compared to testnet-1:
-- considering updating from 99xx block to 399xx block, so that the steward of any given word can update (or should we stick with 99xx, so that users have the option of sticking with the original definitions without being forced to follow the steward's update? maybne 99xx but include an optional version number?)
+- considering updating from 99xx block to 399xx block, so that the steward of any given word can update (or should we stick with 99xx, so that users have the option of sticking with the original definitions without being forced to follow the steward's update? maybne 99xx but include an optional version number? or perhaps instead of version number, just use the created_at timestamp.)
 - reworking the system of tags and tasks, especially e and s tags; unclear how much info needs to be included; slug and id of parent concept in addition to slug of the word itself?
 
 -----------------

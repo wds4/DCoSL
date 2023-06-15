@@ -1,4 +1,5 @@
 # Examples of relationship types
 
-- [subsetOf](subsetOf.md)
-- [isTheJSONSchemaFor](isTheJSONSchemaFor.md)
+- [isASubsetOf](isASubsetOf.md)
+- [isAnInstanceOf](isAnInstanceOf.md)
+- [isTheJsonSchemaFor](isTheJsonSchemaFor.md)

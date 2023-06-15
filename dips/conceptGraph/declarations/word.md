@@ -27,7 +27,6 @@
     "title": "word",
     "description": "",
   },
-
 }
 ```
 

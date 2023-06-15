@@ -11,7 +11,7 @@
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
-        "stewardPubkey": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084"
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"
         "uniqueIDs": {
           "slug": "wordType_word"
         }

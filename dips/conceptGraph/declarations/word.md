@@ -11,8 +11,8 @@
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
-        "lookup": "npub1ya43wd06ugax6vjgnguqgeah0xtkg5mpwr5jg5gznhk3cz53jzzqfftu4x:wordType_word",
-        "stewardPubkey": "npub1ya43wd06ugax6vjgnguqgeah0xtkg5mpwr5jg5gznhk3cz53jzzqfftu4x", 
+        "lookup": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084:wordType_word",
+        "stewardPubkey": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084", 
       },
     },
   },

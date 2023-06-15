@@ -1,6 +1,6 @@
 Data storage & retrieval: nostr
 =====
-How to use nostr to store and retrieve data (nodes, words) efficiantly and effectively
+How to use nostr to store and retrieve data (nodes, words) efficiently and effectively
 -----
 
 

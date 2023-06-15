@@ -12,6 +12,7 @@
     "metaData": {
       "nostr": {
         "stewardPubkey": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084",
+        "version": 0,
         "uniqueIDs": {
           "slug": "wordType_word"
         }

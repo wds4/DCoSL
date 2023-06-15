@@ -15,3 +15,12 @@ For many DIPs, specific details of implementation will be provided. However, DCo
 - [DIP-03](03.md) Representation of a graph using simple lists.
 
 - [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
+
+## Under construction
+
+Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
+- 00: principle of relativity
+- 01: explicit, not scraped
+- rewrite 03: The central role of graphs
+- 02: unique identifiers (move from 100b)
+- perhaps the basic idea of a "word" should be moved here? (currently 100)

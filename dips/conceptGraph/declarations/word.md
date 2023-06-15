@@ -11,13 +11,8 @@
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
-        "": "abc123:wordType_word",
-        "stewardPubkey": "abc123", 
-      },
-      "ipfs": {
-        "ipns": null,
-        "stewardPeerID": null,
-        "stewardUsername": null,
+        "lookup": "npub1ya43wd06ugax6vjgnguqgeah0xtkg5mpwr5jg5gznhk3cz53jzzqfftu4x:wordType_word",
+        "stewardPubkey": "npub1ya43wd06ugax6vjgnguqgeah0xtkg5mpwr5jg5gznhk3cz53jzzqfftu4x", 
       },
     },
   },
@@ -25,7 +20,7 @@
     "slug": "word",
     "name": "word",
     "title": "word",
-    "description": "",
+    "description": "A node in a graph, formatted in json, with additional requirements specified in DIP-100",
   },
 }
 ```

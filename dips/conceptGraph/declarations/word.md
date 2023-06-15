@@ -12,16 +12,16 @@
     "metaData": {
       "nostr": {
         "lookup": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084:wordType_word",
-        "stewardPubkey": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084", 
-      },
-    },
+        "stewardPubkey": "276b1735fae23a6d32489a380467b7799764536170e92451029ded1c0a919084"
+      }
+    }
   },
   "wordTypeData": {
     "slug": "word",
     "name": "word",
     "title": "word",
-    "description": "A node in a graph, formatted in json, with additional requirements specified in DIP-100",
-  },
+    "description": "A node in a graph, formatted in json, with additional requirements specified in DIP-100"
+  }
 }
 ```
 

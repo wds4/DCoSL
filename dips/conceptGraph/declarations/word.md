@@ -2,6 +2,8 @@
 
 ## Declaration
 
+as per [DIP-102](../102.md)
+
 ```json
 {
   "wordData": {
@@ -28,6 +30,8 @@
 ```
 
 ## Publication to nostr
+
+as per [DIP-101](../101.md)
 
 ```json
 {

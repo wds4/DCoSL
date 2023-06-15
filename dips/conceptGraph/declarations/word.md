@@ -5,14 +5,23 @@
 ```json
 {
   "wordData": {
+    "slug": "wordType_word",
+    "name": "word type: word",
+    "title": "Word Type: Word",
     "wordTypes": ["wordType"],
   },
   "wordTypeData": {
     "slug": "word",
     "name": "word",
+    "title": "word",
+    "description": "",
   },
-  ...
   "metaData": {
+    "ipfs": {
+      "ipns": null,
+      "stewardPeerID": null,
+      "stewardUsername": null,
+    },
   },
 }
 ```

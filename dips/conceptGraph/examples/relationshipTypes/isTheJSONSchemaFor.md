@@ -10,6 +10,7 @@
   "relationshipTypeData": {
     "slug": "isTheJsonSchemaFor",
     "name": "is the json schema for",
+    "title": "Is the JSON Schema For",
     "description": "One of the principle links in a class thread.",
     "wordFromAllowedWordTypes": ["jsonSchema"],
     "wordToAllowedWordTypes": ["wordType"],

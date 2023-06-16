@@ -1,5 +1,7 @@
 # sample graph
 
+Note that the word below validates against the json schema for graphs, [version 1](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/examples/jsonSchemas/graphV1.md) but not [version 2](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/examples/jsonSchemas/graphV2.md).
+
 ```json
 {
   "wordData": {

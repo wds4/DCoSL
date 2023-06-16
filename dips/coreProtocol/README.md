@@ -24,7 +24,7 @@ Maybe categorize "core protocol" DIPs as more general principles, less protocol 
 
 Grapevine-related core principles:
 - trust is contextual 
-- trust is numeric
+- trust isn't trust, it's numeric
 - confidence needs to be tracked 
 - contexts are arranged in trees 
 - default trust levels are user-adjustable

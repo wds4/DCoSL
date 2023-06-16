@@ -43,11 +43,17 @@ See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/exampl
                     },
                     "nodes": {
                         "type": "array",
-                        "require": true
+                        "require": true,
+                        "items": {
+                            "type": "string"
+                        }
                     },
                     "relationships": {
                         "type": "array",
-                        "require": true
+                        "require": true,
+                        "items": {
+                            "type": "array"
+                        }
                     },
                     "relationshipTypes": {
                         "type": "array",

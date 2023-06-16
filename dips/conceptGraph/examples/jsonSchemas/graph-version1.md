@@ -1,4 +1,4 @@
-See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/examples/graphs/graph-version2-example.md) for an example of a graph that follows the below format.
+See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/examples/graphs/graph-version1-example.md) for an example of a graph that follows the below format.
 
 ```json
 {

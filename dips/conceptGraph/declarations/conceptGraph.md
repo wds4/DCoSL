@@ -38,4 +38,4 @@ or
 ## References
 
 - `concept graph` is introduced in [DIP-112](../112.md).
-- glossary entry: [concept graph](../../../glossary/conceptGraph.md), [word type](../../../glossary/wordType.md)
+- relevant glossary entries: [concept graph](../../../glossary/conceptGraph.md), [word type](../../../glossary/wordType.md)

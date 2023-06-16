@@ -1,4 +1,4 @@
-# Declaration of ``
+# Declaration of `concept`
 
 ## Declaration
 
@@ -37,5 +37,5 @@ or
 
 ## References
 
-- `` is introduced in [DIP-10](../10.md).
-- glossary entry: [](../../../glossary/.md), [word type](../../../glossary/wordType.md)
+- `concept` is introduced in [DIP-111](../111.md).
+- relevant glossary entries: [](../../../glossary/concept.md), [word type](../../../glossary/wordType.md)

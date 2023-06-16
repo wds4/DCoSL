@@ -26,7 +26,7 @@ This is an alternate, more compact format for the `graph` word type. Not sure if
       "bcdef23456"
     ],
     "relationships": [
-      [abcde12345"","isASubsetOf","bcdef23456"]
+      ["abcde12345","isASubsetOf","bcdef23456"]
     ],
   }
 }

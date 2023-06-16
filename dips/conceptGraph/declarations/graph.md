@@ -38,4 +38,4 @@ or
 ## References
 
 - `graph` is introduced in [DIP-105](../105.md).
-- glossary entry: [graph](../../../glossary/graph.md), [word type](../../../glossary/wordType.md)
+- relevant glossary entries: [graph](../../../glossary/graph.md), [word type](../../../glossary/wordType.md)

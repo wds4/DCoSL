@@ -3,16 +3,25 @@
 ```json
 {
   "wordData": {
-    "wordTypes": ["graphData, conceptGraphData"],
-  },
-  "graphData": {
-
+    "slug": "sampleConceptGraph",
+    "wordTypes": ["graph", "conceptGraph"],
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": null,
+        "uniqueIDs": {
+          "slug": null
+        }
+      }
+    }
   },
   "conceptGraphData": {
-
+    "slug": "sampleConceptGraph"
   },
-  ...
-  "metaData": {
-  },
-}
+  "graphData": {
+    "slug": "sampleConceptGraph",
+    "nodes": [],
+    "relationships": [],
+    "relationshipTypes": [],
+    "importedGraphs": []
+  }
 ```

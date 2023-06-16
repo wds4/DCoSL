@@ -1,4 +1,4 @@
-# Declaration of ``
+# Declaration of `json schema`
 
 ## Declaration
 
@@ -18,7 +18,7 @@
   },
   "wordTypeData": {
     "slug": "jsonSchema",
-    "name": "jsonSchema",
+    "name": "json schema",
     "title": "JSON Schema",
     "description": "As specified according to the DCoSL protocol."
   }

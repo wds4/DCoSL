@@ -1,4 +1,5 @@
-# Declaration of `word`
+Declaration of `word`
+=====
 
 ## Declaration
 
@@ -8,8 +9,6 @@ as per [DIP-102](../102.md)
 {
   "wordData": {
     "slug": "word",
-    "name": "word",
-    "title": "Word",
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
@@ -23,11 +22,13 @@ as per [DIP-102](../102.md)
   "wordTypeData": {
     "slug": "word",
     "name": "word",
-    "title": "word",
+    "title": "Word",
     "description": "A node in a graph, formatted in json, with additional requirements and conventions specified according to the DCoSL protocol."
   }
 }
 ```
+
+(above has been edited and may not match the below)
 
 ## Publication to nostr
 

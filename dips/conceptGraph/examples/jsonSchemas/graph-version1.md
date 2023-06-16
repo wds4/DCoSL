@@ -22,7 +22,38 @@
         "required": [
             "graphData",
         ],
-        "definitions": {},
+        "definitions": {
+            "nostrWordData": {
+                "type": "object",
+                "required": false,
+                "properties": {
+                    "eventID": {
+                        "type": "string"
+                    },
+                    "stewardPubkey": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    }                                    
+                }
+            },
+            "ipfsWordData": {
+                "type": "object",
+                "required": false,
+                "properties": {
+                    "ipfs": {
+                        "type": "string"
+                    },
+                    "ipns": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "type": "string"
+                    }                                    
+                }
+            }
+        },
         "properties": {
             "graphData": {
                 "type": "object",
@@ -41,7 +72,24 @@
                     },
                     "nodes": {
                         "type": "array",
-                        "require": true
+                        "require": true,
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "slug": {
+                                    "type": "string",
+                                    "required": true
+                                },
+                                "nostr": {
+                                    "$ref": "#/definitions/nostrWordData",
+                                    "required": false
+                                },
+                                "ipfs": {
+                                    "$ref": "#/definitions/ipfsWordData",
+                                    "required": false
+                                }
+                            }
+                        }
                     },
                     "relationships": {
                         "type": "array",

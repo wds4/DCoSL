@@ -65,7 +65,8 @@ nostr clients
 }
 ```
 
-Note that the above example:
+Note that the above example is nonstandard in several ways (because it was testnet-1, an early version of DCoSL):
+- `nostrCuratedListData.slug` is an object with singular and plural. Noramally this is not the case. Technically it is allowed, and any properties whatosever are allowed within any concept, but it is discouraged. Preferred would have been to keep slug as a string: `nostrClients` and to create a separate property to house the singular and plural fields, e.g. `nostrCuratedListData.Slug.singular` for `nostrClient` and `nostrCuratedListData.Slug.plural` for `nostrClients`. 
 - wordData has been omitted. If it had been included, it would have included the following information:
 
 ```json

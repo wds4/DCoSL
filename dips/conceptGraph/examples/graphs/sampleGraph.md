@@ -4,7 +4,7 @@
 {
   "wordData": {
     "slug": "sampleGraph",
-    "wordTypes": ["graphData, graphData"],
+    "wordTypes": ["graphData"],
     "metaData": {
       "nostr": {
         "stewardPubkey": null,

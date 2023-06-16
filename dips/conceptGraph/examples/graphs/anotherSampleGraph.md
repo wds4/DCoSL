@@ -10,13 +10,13 @@ This is an alternate, more compact format for the `graph` word type. Different p
 ```json
 {
   "wordData": {
-    "slug": "anotherSampleGraph",
+    "slug": "sampleVersion2Graph",
     "wordTypes": ["graph"],
     "metaData": {
       "nostr": {
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
-          "slug": "sampleGraph"
+          "slug": "sampleVersion2Graph"
         }
       }
     }

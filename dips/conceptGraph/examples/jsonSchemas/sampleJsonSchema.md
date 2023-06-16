@@ -2,9 +2,9 @@
 ```json
 {
     "wordData": {
-        "slug": "jsonSchemaFor_widgets",
-        "name": "json schema for widgets",
-        "title": "JSON Schema for Widgets",
+        "slug": "jsonSchemaFor_widget",
+        "name": "json schema for widget",
+        "title": "JSON Schema for Widget",
         "metaData": {
             "nostr": {
                 "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"

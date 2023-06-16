@@ -1,4 +1,4 @@
-another sample graph
+sample graph (version 1 format)
 =====
 
 Note that the word below validates against the json schema for graphs, [version 1](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/examples/jsonSchemas/graph-version1.md) but not [version 2](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/examples/jsonSchemas/graph-version2.md).

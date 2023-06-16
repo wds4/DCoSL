@@ -72,8 +72,8 @@ As per DIP 101 (updated for testnet-2), all versions of the above word can be fo
   "kinds": [9902],
   "authors": ["c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"],
   "tags": [
-    "#c": ["concept-graph-testnet-902"],
-    "#w": ["wordType_word"],
+    ["c", "concept-graph-testnet-902"],
+    ["w", "wordType_word"]
   ]
 }
 ```

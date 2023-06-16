@@ -62,6 +62,7 @@ as per [DIP-101](../101.md)
 }
 ```
 
+(NOTE: hypothetical example only; note with id 2a856f2db29f1215462808d7a57a3b53ea2989c65ba0f387526c679c28ca13fb has not actually been published!)
 
 As per DIP 101 (updated for testnet-2), all versions of the above word can be found in nostr (testnet-2) using the following filter:
 

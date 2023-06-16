@@ -26,10 +26,14 @@
 ```
 
 Alternate convention:
+A universal unique identifier, in this case the nostr event id corresponding to the relevant declaration, is used in place of the slug + 'Data'.
+- `wordData` is replaced by `4a5517d25ebae34b9794f1b8d4dba0681f7ff7297bacbc29de2c915695c53bfe` (see the [declaration of word](word.md))
+- `wordTypeData` is replaced by `eb36f4e459500234538daaed36fcdcdf3b7f0ee8912959da5ad10053725f6b28` (see the [declaration of word type](word.md))
+
 
 ```json
 {
-  "wordData": {
+  "4a5517d25ebae34b9794f1b8d4dba0681f7ff7297bacbc29de2c915695c53bfe": {
     "slug": "relationship",
     "wordTypes": ["wordType"],
     "metaData": {
@@ -41,7 +45,7 @@ Alternate convention:
       }
     }
   },
-  "wordTypeData": {
+  "eb36f4e459500234538daaed36fcdcdf3b7f0ee8912959da5ad10053725f6b28": {
     "slug": "relationship",
     "name": "relationship",
     "title": "Relationship",

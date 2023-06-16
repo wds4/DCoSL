@@ -19,8 +19,6 @@ Note: the numeric designation of these DIPs is subject to change.
 - [DIP-100](100.md): words
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
-- [DIP-101](101.md): publication of a word over nostr (going to move this to DIP-900)
-- (unassigned) publication of a word to IPFS (going to make this DIP-800)
 - [DIP-102](102.md): word types
 - [DIP-102b](102b.md): default properties when declaring new wordType
 - [DIP-103](103.md): relationships

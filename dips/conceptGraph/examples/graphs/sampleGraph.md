@@ -5,13 +5,13 @@ Note that the word below validates against the json schema for graphs, [version 
 ```json
 {
   "wordData": {
-    "slug": "sampleGraph",
+    "slug": "sampleVersion1Graph",
     "wordTypes": ["graph"],
     "metaData": {
       "nostr": {
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
-          "slug": "sampleGraph"
+          "slug": "sampleVersion1Graph"
         }
       }
     }

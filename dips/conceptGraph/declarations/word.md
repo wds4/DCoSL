@@ -62,6 +62,8 @@ as per [DIP-101](../101.md)
 }
 ```
 
+## Retrieval from nostr
+
 As per DIP 101 (updated for testnet-2), all versions of the above word can be found in nostr (testnet-2) using the following filter:
 
 ```json

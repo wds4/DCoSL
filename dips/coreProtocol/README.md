@@ -2,6 +2,8 @@
 
 DCoSL is the first step towards implementation of the threaded tapestry model of knowledge representation and knowledge curation for decentralized, distributed systems. This set of DIPs establishes the core principles of this model.
 
+Note: numbering of DIPs is subject to change.
+
 - [DIP-0](0.md) Data representation: the central role of graphs (nodes and edges)
 
 - [DIP-00](00.md) Data curation: the principle of relativity

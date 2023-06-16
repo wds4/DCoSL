@@ -24,7 +24,7 @@ as per [DIP-102](../102.md)
     "slug": "word",
     "name": "word",
     "title": "word",
-    "description": "A node in a graph, formatted in json, with additional requirements specified in DIP-100"
+    "description": "A node in a graph, formatted in json, with additional requirements and conventions specified according to the DCoSL protocol."
   }
 }
 ```

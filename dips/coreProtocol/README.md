@@ -6,7 +6,8 @@ The introductory DIP is [DIP-00](00.md), the requirements of which are already m
 
 For many DIPs, specific details of implementation will be provided. However, DCoSL is designed to be tolerant of alternative implementations. Any implementation of a DIP that achieves the same purpose but differs only in details will be referred to as a `DIP-xx-substitute`, a `DIP-xx-alternative` or a `DIP-xx-equivalent`. (Provide example of this.) The final DIP, [DIP-infinity](infinity.md) a.k.a. `circular DCoSL`, indicates that all implementation details of the DCoSL protocol are themselves curated by the community using the DCoSL protocol.
 
-- [DIP-00](00.md) Lists are curated independently by each user. There is no universal, preferred or 'correct' list.
+- [DIP-0](0.md) Data representation: the central role of graphs (nodes and edges)
+- [DIP-00](00.md) Data curation: the principle of relativity
 
 - [DIP-01](01.md) Rely on explicit attestations rather than scraped data.
 
@@ -19,10 +20,5 @@ For many DIPs, specific details of implementation will be provided. However, DCo
 ## Under construction
 
 Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
-- xx: The central role of graphs (nodes + edges) in DCoSL: data = a 
-- 00: principle of relativity
-- 01: explicit, not scraped
-- 02: unique identifiers (move from 100b)
-- 03: represent a graph as a simple list
-
-- perhaps the basic idea of a "word" should be moved here? (currently 100)
+- unique identifiers (move from 100b?)
+- perhaps the basic idea of a "word" should be moved here? (currently DIP-100)

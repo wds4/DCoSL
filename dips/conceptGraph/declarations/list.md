@@ -3,6 +3,26 @@
 ## Declaration
 
 ```json
+{
+  "wordData": {
+    "slug": "list",
+    "wordTypes": ["wordType"],
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+        "uniqueIDs": {
+          "slug": "list"
+        }
+      }
+    }
+  },
+  "wordTypeData": {
+    "slug": "list",
+    "name": "list",
+    "title": "List",
+    "description": "As specified according to the DCoSL protocol."
+  }
+}
 ```
 
 ## Publication to nostr
@@ -10,7 +30,6 @@
 as per [DIP-101](../101.md)
 
 ```json
-
 ```
 
 ## Retrieval from nostr

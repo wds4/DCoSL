@@ -5,15 +5,23 @@
 ```json
 {
   "wordData": {
+    "slug": "superset",
     "wordTypes": ["wordType"],
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+        "uniqueIDs": {
+          "slug": "superset"
+        }
+      }
+    }
   },
   "wordTypeData": {
     "slug": "superset",
     "name": "superset",
-  },
-  ...
-  "metaData": {
-  },
+    "title": "Superset",
+    "description": "As specified according to the DCoSL protocol."
+  }
 }
 ```
 

@@ -4,12 +4,12 @@
 {
   "wordData": {
     "slug": "sampleGraph",
-    "wordTypes": ["graphData"],
+    "wordTypes": ["graph"],
     "metaData": {
       "nostr": {
-        "stewardPubkey": null,
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
-          "slug": null
+          "slug": "sampleGraph"
         }
       }
     }

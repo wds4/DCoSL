@@ -35,7 +35,9 @@ as per [DIP-101](../101.md)
 
 ```json
 {
-    "content": "{\n  \"wordData\": {\n    \"slug\": \"wordType_word\",\n    \"name\": \"word type: word\",\n    \"title\": \"Word Type: Word\",\n    \"wordTypes\": [\"wordType\"],\n    \"metaData\": {\n      \"nostr\": {\n        \"stewardPubkey\": \"c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa\",\n        \"uniqueIDs\": {\n          \"slug\": \"wordType_word\"\n        }\n      }\n    }\n  },\n  \"wordTypeData\": {\n    \"slug\": \"word\",\n    \"name\": \"word\",\n    \"title\": \"word\",\n    \"description\": \"A node in a graph, formatted in json, with additional requirements specified in DIP-100\"\n  }\n}",
+    "id": "4a5517d25ebae34b9794f1b8d4dba0681f7ff7297bacbc29de2c915695c53bfe",
+    "pubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+    "created_at": 1686887272,
     "kind": 9902,
     "tags": [
         [
@@ -52,17 +54,13 @@ as per [DIP-101](../101.md)
         ],
         [
             "w",
-            "wordType_word"
+            "word"
         ]
     ],
-    "created_at": 1686863585,
-    "pubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
-    "id": "2a856f2db29f1215462808d7a57a3b53ea2989c65ba0f387526c679c28ca13fb",
-    "sig": "769b741c17cad860ac211b17bbd3a3ee970e67387dc11a26b8eec994a75fca377a38a1c3801ad738507921f60993fd8e1771fe44076d4601e606fa60b0d17251"
+    "content": "{\"wordData\":{\"slug\":\"word\",\"name\":\"word\",\"title\":\"Word\",\"wordTypes\":[\"wordType\"],\"metaData\":{\"nostr\":{\"stewardPubkey\":\"c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa\",\"uniqueIDs\":{\"slug\":\"word\"}}}},\"wordTypeData\":{\"slug\":\"word\",\"name\":\"word\",\"title\":\"word\",\"description\":\"A node in a graph, formatted in json, with additional requirements and conventions specified according to the DCoSL protocol.\"}}",
+    "sig": "f3925f65a397f5a9d221f7305ca9e67eb491fc0ceeacef8d8cbb3758b5f06bdd382aea606b4526986c2666c4d3d7f9d0518c696d8d85dc25a107846d2801eabf"
 }
 ```
-
-(NOTE: hypothetical example only; note with id 2a856f2db29f1215462808d7a57a3b53ea2989c65ba0f387526c679c28ca13fb has not actually been published!)
 
 As per DIP 101 (updated for testnet-2), all versions of the above word can be found in nostr (testnet-2) using the following filter:
 
@@ -71,10 +69,16 @@ As per DIP 101 (updated for testnet-2), all versions of the above word can be fo
   "since": 0,
   "kinds": [9902],
   "authors": ["c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"],
-  "tags": [
-    ["c", "concept-graph-testnet-902"],
-    ["w", "wordType_word"]
-  ]
+  "#c": ["concept-graph-testnet-902"],
+  "#w": ["word"],
+}
+```
+
+or
+
+```json
+{
+  "ids": ["4a5517d25ebae34b9794f1b8d4dba0681f7ff7297bacbc29de2c915695c53bfe"],
 }
 ```
 

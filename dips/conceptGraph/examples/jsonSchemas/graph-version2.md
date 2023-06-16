@@ -50,11 +50,11 @@ See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/exampl
                     "relationships": {
                         "type": "array",
                         "items": {
-                          	"type": "array",
+                            "type": "array",
                             "minItems": 3,
                             "maxItems": 3,
                             "items": {
-                              "type": "string"
+                                "type": "string"
                             }
                         }
                     }

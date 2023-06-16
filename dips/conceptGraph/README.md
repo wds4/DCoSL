@@ -20,7 +20,9 @@ Note: the numeric designation of these DIPs is subject to change.
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
 - [DIP-102](102.md): word types
-- [DIP-102b](102b.md): default properties when declaring new wordType
+- combining multiple word types
+- metaData (with pointers to 800 and 900)
+- [DIP-102b](102b.md): second level properties: rules, conventions, defaults
 - [DIP-103](103.md): relationships
 - [DIP-104](104.md): relationship types
 - [DIP-105](105.md): graphs

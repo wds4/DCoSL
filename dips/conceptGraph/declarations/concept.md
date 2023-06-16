@@ -3,6 +3,7 @@
 ## Declaration
 
 ```json
+{
   "wordData": {
     "slug": "concept",
     "wordTypes": ["wordType"],

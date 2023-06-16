@@ -19,8 +19,10 @@ For many DIPs, specific details of implementation will be provided. However, DCo
 ## Under construction
 
 Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
+- xx: The central role of graphs (nodes + edges) in DCoSL: data = a 
 - 00: principle of relativity
 - 01: explicit, not scraped
-- rewrite 03: The central role of graphs
 - 02: unique identifiers (move from 100b)
+- 03: represent a graph as a simple list
+
 - perhaps the basic idea of a "word" should be moved here? (currently 100)

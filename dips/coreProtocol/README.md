@@ -21,3 +21,11 @@ Note: numbering of DIPs is subject to change.
 Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
 - unique identifiers (move from 100b?)
 - perhaps the basic idea of a "word" should be moved here? (currently DIP-100)
+
+Grapevine-related core principles:
+- trust is contextual 
+- trust is numeric
+- confidence needs to be tracked 
+- contexts are arranged in trees 
+- default trust levels are user-adjustable
+- trust is inherited down the context tree

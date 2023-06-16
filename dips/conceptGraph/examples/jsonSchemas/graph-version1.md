@@ -2,6 +2,7 @@
 {
     "wordData": {
         "slug": "jsonSchemaFor_graph",
+        "version": 2,
         "name": "json schema for graph",
         "title": "JSON Schema for Graph",
         "metaData": {

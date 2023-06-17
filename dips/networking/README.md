@@ -13,11 +13,11 @@ The most important issue is that data needs a method for lookup and identificati
 
 New networks can be assigned DIP numbers in blocks of 10. More can be reserved if desired.
 
-## [nostr](nostr): DIPs 1100-1110
+## [nostr: DIPs 1100-1110](nostr)
 
 For nostr we have: the event id used to publish a word (immutable), the steward pubkey + slug. All versions are theoretically available if you publish to 99xx (instead of 399xx).
 
-## [IPFS](ipfs): DIPs 1111-1120
+## [IPFS: DIPs 1111-1120](ipfs)
 
 For IPFS we have: ipfs hash (immutable), ipns name (mutable); peerID is responsible for updating ipns with the most recent ipfs. All versions of a word are available if you know the ipfs hash of older versions.
 

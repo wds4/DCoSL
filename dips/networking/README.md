@@ -1,21 +1,64 @@
 Data Storage and Retrieval: DIPs 1000-1999
 =====
 
-This series of DIPs addresses various methods to store and retrieve data from various networks. Nodes and words are as defined in the relevant DIPs.
-
-A data storage system needs to have a convention for unique identifiers of words
+This series of DIPs addresses various methods to store and retrieve data from various networks. Mostly concerned with data content addressing and how / where to put it in a word.
 
 ## Background
 
-The DCoSL protocol, outside of these DIPs, is intended to be agnostic of how and where the data is stored. Methods for initiating the process of integration or adoption of new a network or storage system are discussed in this section of DIPs. Once initial integration is specified 
+The DCoSL protocol, outside of these DIPs, is intended to be agnostic of how and where the data is stored. References to specific data networks, although not avoided completely, are kept to a minimum in all DIPs below 1000. Methods for initiating the process of integration or adoption of new a network or storage system are discussed in this section of DIPs. Once initial integration is specified 
 
 The most important issue is that data needs a method for lookup and identification that is unique. It is recommended that identifiers be universally unique, such as the eventID for nostr or the ipfs hash or ipns name for ipfs network. This will prevent the problem of "domain squatting" that plagues URLs within the domain name system (DNS).
+
+The system that works for nostr, and may work for other networks, is to have:
+- one universally unique identifier for each data chunk
+- one identifier that is intented to be unique within some local system, but not globally
+- universally unique identifier corresponding to an author, curator, or steward, who then has some author-especific system for content identification, e.g. for nostr: pubkey + slug
 
 ## [DIPs 1000-1099: individual network introductions](networkIntroductions)
 
 To initiate a new network:
 - a single introductory DIP in the range: 1000-1099 outlining the rationale for using this network and possibly outlining the system of identifiers 
 - assign a block of DIP numbers somewhere in 1100-1999, typically in blocks of 10. More can be reserved if desired.
+
+Typically, a `slug` corresponding to the new network in question will be chosen for addressing inside `wordData.metaData` as follows:
+
+```json
+{
+  "wordData": {
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+        "uniqueIDs": {
+          "slug": "fooBar",
+          "version": "alternate"
+        }
+      },
+      "ipfs": {
+        "stewardPeerID": null,
+        "uniqueIDs": {
+          "ipns": null,
+          "ipfs": null,
+          "slug": "fooBar",
+          "version": "alternate"
+        }
+      }
+      "[slug for new network solution]": {
+        ...
+        }
+      }
+    },
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+        "uniqueIDs": {
+          "slug": "fooBar"
+        }
+      }
+    }
+  },
+  ...
+}
+```
 
 ## [nostr: DIPs 1100-1110](nostr)
 

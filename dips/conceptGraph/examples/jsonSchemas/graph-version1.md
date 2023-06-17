@@ -20,6 +20,7 @@ See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/exampl
     "jsonSchemaData": {
         "name": "graph",
         "title": "Graph",
+        "$schema": "http://json-schema.org/draft-07/schema",
         "type": "object",
         "required": [
             "graphData",

@@ -7,12 +7,14 @@ Note that the word below validates against the json schema for graphs, [version 
 {
   "wordData": {
     "slug": "sampleVersion2Graph",
+    "version": 2,
     "wordTypes": ["graph"],
     "metaData": {
       "nostr": {
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
-          "slug": "sampleVersion2Graph"
+          "slug": "sampleVersion2Graph",
+          "version": 2
         }
       }
     }

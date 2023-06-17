@@ -20,7 +20,10 @@ as per [DIP-102](../102.md)
     }
   },
   "wordTypeData": {
-    "slug": "word",
+    "oSlug": {
+      "singular": "word",
+      "plural": "words"
+    },
     "oName": {
       "singular": "word",
       "plural": "words"

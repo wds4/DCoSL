@@ -11,6 +11,8 @@ The DCoSL protocol, outside of these DIPs, is intended to be agnostic of how and
 
 The most important issue is that data needs a method for lookup and identification that is unique. It is recommended that identifiers be universally unique, such as the eventID for nostr or the ipfs hash or ipns name for ipfs network. This will prevent the problem of "domain squatting" that plagues URLs within the domain name system (DNS).
 
+## [DIPs 1000-1099: individual network introductions](networkIntroductions)
+
 To initiate a new network:
 - an introductory DIP outlining the rationale for using this network and possibly outlining the system of identifiers 
 - assign a block of DIP numbers somewhere in 1100-1999, typically in blocks of 10. More can be reserved if desired.

@@ -67,4 +67,4 @@ or
 
 ## References
 
-- glossary entry: [word type](../../../glossary/wordType.md)
+- relevant glossary entry: [word type](../../../glossary/wordType.md)

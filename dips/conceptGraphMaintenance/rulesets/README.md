@@ -17,7 +17,7 @@ Macro rules are intended to be as compact (to state and understand) as possible,
 
 Micro rules are intended to be encoded into algorithms and enforced. Each micro rule consists of a pattern and an action. Patterns means some pattern found in a concept graph, e.g. every instance of two nodes connected by an edge of some specific relationship type. Actions are intended to be changes, such as take the elements of an array in nodeA and add them to some specific spot in node B. Micro rules are designed with the following optimizations:
 - micro rules are intended to be run in parallel. It should NOT matter what order they are run. (There may be some exceptions to this rule, but exceptions should be kept to a minimum.)
-- patterns should be computationally easy to find. Most patterns look are path searches with only one link in the path, e.g. find every instance in a concept graph of nodeA-isASubsetOf-nodeB. 
+- patterns should be computationally easy to find. Most patterns look are path searches with only one link in the path, e.g. find every instance in a concept graph of nodeA-isASubsetOf-nodeB. A set of patterns that contains no pattern searches of more than a single (or perhaps some small number N) hop in the graph is called a 'local' pattern set (perhaps: N-local, where 1-local is desired). A ruleset that can be enforced with a local set of patterns is called a 'local' ruleset.
 - actions should be computationally easy to execute.
 
 Micro rules usually are of the form: whevever you see Pattern X, execute some set of Actions Y_i (the order of which may or may not matter; usually it should not matter).

@@ -17,17 +17,18 @@
     }
   },
   "wordTypeData": {
-    "slug": "superset",
+    "oSlug": {
+      "singular": "superset",
+      "plural": "supersets"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "superset",
+      "plural": "supersets"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Superset",
+      "plural": "Supersets"
     },
-    "name": "superset",
-    "title": "Superset",
     "description": "As specified according to the DCoSL protocol."
   }
 }

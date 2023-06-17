@@ -2,6 +2,8 @@
 
 ## Declaration
 
+New word types are declared as outlined in [DIP-102](../102.md).
+
 ```json
 {
   "wordData": {

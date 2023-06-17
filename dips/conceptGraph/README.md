@@ -22,22 +22,23 @@ might deprecate these
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
 
-maybe start here at 110 with WORD TYPES
-
-CLASS THREADS
+RELATIONSHIPS (and rel types): 
 - (110) [DIP-103](103.md): relationships
 - (111) [DIP-104](104.md): relationship types
-- (112) [DIP-105](105.md): graphs
+
+
+maybe start here at 110
 - (113) [DIP-106](106.md): lists
 - (114) [DIP-107](107.md): json schemas
 - (115) [DIP-108](108.md): sets
 - (116) [DIP-109](109.md): supersets
 
-
+CLASS THREADS
 - [DIP-130](130.md): class threads
 
   
 CONTAINERS, ORGANIZERS (start with 120?)
+- (112) [DIP-105](105.md): graphs
 - (117) [DIP-111](111.md): concepts
 - (118) [DIP-112](112.md): concept graphs
 - (119) [DIP-113](113.md): properties

@@ -9,9 +9,11 @@ A data storage system needs to have a convention for unique identifiers of words
 
 The DCoSL protocol, outside of these DIPs, is intended to be agnostic of how and where the data is stored. Methods for initiating the process of integration or adoption of new a network or storage system are discussed in this section of DIPs. Once initial integration is specified 
 
-The most important issue is that data needs a method for lookup and identification that is unique. It is recommended that identifiers be universally unique, such as the eventID for nostr or the ipfs hash or ipns name for ipfs network.
+The most important issue is that data needs a method for lookup and identification that is unique. It is recommended that identifiers be universally unique, such as the eventID for nostr or the ipfs hash or ipns name for ipfs network. This will prevent the problem of "domain squatting" that plagues URLs within the domain name system (DNS).
 
-New networks can be assigned DIP numbers in blocks of 10. More can be reserved if desired.
+To initiate a new network:
+- an introductory DIP outlining the rationale for using this network and possibly outlining the system of identifiers 
+- assign a block of DIP numbers somewhere in 1100-1999, typically in blocks of 10. More can be reserved if desired.
 
 ## [nostr: DIPs 1100-1110](nostr)
 

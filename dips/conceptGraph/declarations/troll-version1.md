@@ -16,15 +16,13 @@ Note also that the `wordData.metaData` property is absent. However, it is presen
   "wordTypeData": {
     "slug": "troll",
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "troll",
+      "plural": "trolls"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Troll",
+      "plural": "Trolls"
     },
-    "name": "troll",
-    "title": "Troll",
     "description": "A troll is a user who is just super duper mean to everyone, all the time."
   }
 }

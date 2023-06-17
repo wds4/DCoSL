@@ -34,7 +34,7 @@ maybe start here at 110 with WORD TYPES
 - (117) [DIP-111](111.md): concepts
 - (118) [DIP-112](112.md): concept graphs
 - (119) [DIP-113](113.md): properties
-- (120) [DIP-114](114.md): graph types
+- (120) [DIP-120](120.md): graph types
 - (121) [DIP-121](121.md): item directory
 - (122) [DIP-122](122.md): property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 

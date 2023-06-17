@@ -5,7 +5,7 @@ A single [pattern](pattern.md) coupled with a single [action](action.md), in whi
 
 
 ```json
-["pattern_i", "action_j"],
+["pattern_i", "action_j"]
 ```
 
-A set of rules is called a [micro ruleset](microRuleset.md).
+A set of micro rules is called a [micro ruleset](microRuleset.md).

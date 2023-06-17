@@ -53,15 +53,15 @@ Typically, a `slug` corresponding to the new network in question will be chosen 
 }
 ```
 
-## [nostr: DIPs 1100-1110](nostr)
+## [nostr: DIPs 1100-1109](nostr)
 
 For nostr we have: the event id used to publish a word (immutable), the steward pubkey + slug. All versions are theoretically available if you publish to 99xx (instead of 399xx).
 
-## [IPFS: DIPs 1111-1120](ipfs)
+## [IPFS: DIPs 1110-1119](ipfs)
 
 For IPFS we have: ipfs hash (immutable), ipns name (mutable); peerID is responsible for updating ipns with the most recent ipfs. All versions of a word are available if you know the ipfs hash of older versions.
 
-## [DNS (domain name system): DIPs 1121-1130](dns)
+## [DNS (domain name system): DIPs 1120-1129](dns)
 
 work in progress 
 

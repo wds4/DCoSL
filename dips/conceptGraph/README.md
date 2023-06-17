@@ -17,7 +17,7 @@ There will be a natural progression from simple lists, to complex lists, to conc
 Note: the numeric designation of these DIPs is subject to change.
 
 WORDS: (100-109)
-- (100) [DIP-100](100.md): word
+- (100) [DIP-100](100.md): words
 - (101) [DIP-102](102.md): word types 
 - (102) [DIP-102b](102b.md): local identifiers: slug, name, title 
 - (103) maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)

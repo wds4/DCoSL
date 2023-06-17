@@ -3,6 +3,10 @@
 
 `IS_A_SUBSET_OF` connects wordType to wordType and is not part of a class thread. It can be useful to establish `IS_A_SUBSET_OF` if the relevant wordTypes have been created byt the coresponding superset nodes have not yet been established.
 
+Example, the following two relationships mean essentially the same thing, and either one can be derived from the other:
+- [ dogs isASubsetOf animals ] connects superset to superset
+- [ dog IS_A_SUBSET_OF animal ] connects wordType to wordType
+
 ```json
 {
   "wordData": {

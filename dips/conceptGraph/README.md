@@ -19,10 +19,11 @@ Note: the numeric designation of these DIPs is subject to change.
 - [DIP-100](100.md): words
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
+- maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)
 - [DIP-102](102.md): word types
 - combining multiple word types
 - metaData (with pointers to 800 and 900)
-- [DIP-102b](102b.md): second level properties: rules, conventions, defaults
+- [DIP-102b](102b.md): local identifiers: slug, name, title
 - [DIP-103](103.md): relationships
 - [DIP-104](104.md): relationship types
 - [DIP-105](105.md): graphs

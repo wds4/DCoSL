@@ -17,7 +17,10 @@
     }
   },
   "wordTypeData": {
-    "slug": "conceptGraph",
+    "oSlug": {
+      "singular": "conceptGraph",
+      "plural": "conceptGraphs"
+    },
     "oName": {
       "singular": "concept graph",
       "plural": "concept graphs"

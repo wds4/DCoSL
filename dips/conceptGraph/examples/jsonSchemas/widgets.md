@@ -22,6 +22,7 @@
             "widgetData"
         ],
         "definitions": {},
+        "$schema": "http://json-schema.org/draft-07/schema",
         "properties": {
             "widgetData": {
                 "type": "object",

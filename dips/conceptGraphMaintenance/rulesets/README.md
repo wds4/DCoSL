@@ -5,6 +5,11 @@ Sets of rules that must be enforced for a graph to meet the criteria of a concep
 
 # Background 
 
+important concepts (need glossary entries):
+- enforceability
+- locality
+- parallellization of micro actions
+  
 A ruleset is composed of (typically one, but potentially more than one) macro rule plus an associated collection of micro rules (usually lots). 
 
 There are "macro" rules, like class thread criteria, and "micro" rules which typically are derived from one (or more?) macro rules.
@@ -19,6 +24,10 @@ Micro rules are intended to be encoded into algorithms and enforced. Each micro 
 - micro rules are intended to be run in parallel. It should NOT matter what order they are run. (There may be some exceptions to this rule, but exceptions should be kept to a minimum.)
 - patterns should be computationally easy to find. Most patterns look are path searches with only one link in the path, e.g. find every instance in a concept graph of nodeA-isASubsetOf-nodeB. A set of patterns that contains no pattern searches of more than a single (or perhaps some small number N) hop in the graph is called a 'local' pattern set (perhaps: N-local, where 1-local is desired). A ruleset that can be enforced with a local set of patterns is called a 'local' ruleset.
 - actions should be computationally easy to execute.
+
+The parallelization of micro actions ensures that concept graph can be tended in the background, with resources used when available, but processing can be put on hold when resources are required for some other purpose. 
+
+It is postulated that various categories of background processing may correspond to distinct stages of sleep. In particular: background pruning of the concept graph is stage 2 sleep and slow wave sleep (in support of this, there is evidence that nonREM sleep improves small world properties of brain functional connectivity; need to review this literature, been a while, can't remember if stage 2 or sws); background processing of the grapevine is REM sleep (because dreams are value-laden, as is the grapevine). 
 
 Micro rules usually are of the form: whevever you see Pattern X, execute some set of Actions Y_i (the order of which may or may not matter; usually it should not matter).
 

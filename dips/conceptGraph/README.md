@@ -49,7 +49,7 @@ CONTAINERS, ORGANIZERS (start with 120?)
 # under construction
 
 drafts in progress
-- [DIP-190](190.md): concept graph nostr publication tasks
+- [DIP-190](190.md): concept graph nostr publication tasks (may not need this?)
 
 
 drafts not yet made

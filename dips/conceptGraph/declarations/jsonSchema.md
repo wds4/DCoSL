@@ -17,17 +17,18 @@
     }
   },
   "wordTypeData": {
-    "slug": "jsonSchema",
+    "oSlug": {
+      "singular": "jsonSchema",
+      "plural": "jsonSchemas"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "json schema",
+      "plural": "json schemas"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "JSON Schema",
+      "plural": "JSON Schemas"
     },
-    "name": "json schema",
-    "title": "JSON Schema",
     "description": "As specified according to the DCoSL protocol."
   }
 }

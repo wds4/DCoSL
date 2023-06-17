@@ -6,7 +6,7 @@ This is a summary of the basic [word types](../glossary/wordType.md).
 
 | word type | top level property | DIP | declaration (nostr) | declaration (IPFS) | declaration (IPNS) | definition |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| word | wordData | [DIP-100](conceptGraph/100.md) | | | | any node which represents an object |
+| word | wordData | [DIP-100](conceptGraph/100.md) | [local](conceptGraph/declarations/word.md) | | | any node which represents an object |
 | wordType | wordTypeData | [DIP-102](conceptGraph/102.md) | | | | |
 | jsonSchema | jsonSchemaData | [DIP-107](conceptGraph/107.md) | | | | |
 | superset | supersetData | [DIP-109](conceptGraph/109.md) | | | | |

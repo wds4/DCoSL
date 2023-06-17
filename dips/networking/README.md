@@ -46,7 +46,6 @@ Typically, a `slug` corresponding to the new network in question will be chosen 
       }
       "[slug for new network solution]": {
         ...
-        }
       }
     }
   },

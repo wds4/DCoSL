@@ -18,8 +18,8 @@ This is a summary of the basic [relationship types](../glossary/relationshipType
 
 ## structural relationships
 
-concept graphs ARE_SUBSETS_OF graphs
-itemDirectories ARE_SUBSETS_OF graphs
-propertyDIrectories ARE_SUBSETS_OF graphs
+conceptGraphs isASubsetOf graphs
+itemDirectories isASubsetOf graphs
+propertyDIrectories isASubsetOf graphs
 
 concepts are not subsets of graphs, even though they serve a similar purpose as a collection of pointers to many words, because of the additional structure that you find inside conceptData.

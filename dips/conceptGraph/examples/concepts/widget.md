@@ -19,15 +19,34 @@ concept for widgets
         "slug": "widget",
         "nostr": {
           "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
-          "slug": "widget",
-          "id": "68209b0796f27e08c6c252ac8054441dd1e470a2f405ebaabbd343e85712039b"
+          "uniqueIDs": {
+            "slug": "widget",
+            "version": "standard",
+            "id": ""
+          }
         }
       },
       "jsonSchema": {
-        "slug": "jsonSchemaFor_widgets"
+        "slug": "jsonSchemaFor_widgets",
+        "nostr": {
+          "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+          "uniqueIDs": {
+            "slug": "jsonSchemaFor_widgets",
+            "version": null,
+            "id": ""
+          }
+        }
       },
       "superset": {
-        "slug": "supersetFor_widgets"
+        "slug": "widgets",
+        "nostr": {
+          "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+          "uniqueIDs": {
+            "slug": "widgets",
+            "version": null,
+            "id": ""
+          }
+        }
       }
     }
   }

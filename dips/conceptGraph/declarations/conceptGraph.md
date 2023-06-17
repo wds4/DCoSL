@@ -18,11 +18,11 @@
   },
   "wordTypeData": {
     "slug": "conceptGraph",
-    "name": {
+    "oName": {
       "singular": "concept graph",
       "plural": "concept graphs"
     },
-    "title": {
+    "oTitle": {
       "singular": "Concept Graph",
       "plural": "Concept Graphs"
     },

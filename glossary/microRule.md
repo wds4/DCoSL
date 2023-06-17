@@ -8,4 +8,4 @@ A single [pattern](pattern.md) coupled with a single [action](action.md), in whi
 ["pattern_i", "action_j"],
 ```
 
-A set of rules is called a [ruleset](ruleset.md).
+A set of rules is called a [micro ruleset](microRuleset.md).

@@ -25,21 +25,11 @@
 }
 ```
 
-## Alternate convention (dip ??)
+## Publication to nostr
+
+as per [DIP-901](../../networking/nostr/901.md)
 
 ```json
-{
-  "abcde12345": {
-    "wordTypes": ["wordType"],
-  },
-  "bcdef23456": {
-    "slug": "superset",
-    "name": "superset",
-  },
-  ...
-  "metaData": {
-  },
-}
 ```
 
 ## References

@@ -1,13 +1,13 @@
 Examples of json schemas
 =====
 
-## graphs
+# graphs
 
 There are two versions of graphs, a 'compact' version (version 1) and a 'verbose' version (version 2).
 
 In each version, `graphData` contains two primary properties: an array called `nodes` and an array called `relationships`.
 
-### verbose 
+## verbose 
 
 This is the standard version.
 
@@ -29,7 +29,7 @@ relationships: Elements of the array: `graphData.relationships` are objects, for
 }
 ```
 
-### compact
+## compact
 
 nodes: Elements of the array: `graphData.nodes` are strings, each one of which is the unique identifier of one word. 
 

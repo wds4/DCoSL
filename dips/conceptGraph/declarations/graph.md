@@ -17,7 +17,10 @@
     }
   },
   "wordTypeData": {
-    "slug": "graph",
+    "oSlug": {
+      "singular": "graph",
+      "plural": "graphs"
+    },
     "oName": {
       "singular": "graph",
       "plural": "graphs"

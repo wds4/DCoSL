@@ -83,7 +83,7 @@ The local copy of the word, after retrieval from the network and local editing, 
 ```json
 {
   "wordData": {
-    "slug": "troll-abc123",
+    "slug": "antagonizer_6a9dbc",
     "name": "antagonizer",
     "title": "Antagonizer",
     "wordTypes": ["wordType"],

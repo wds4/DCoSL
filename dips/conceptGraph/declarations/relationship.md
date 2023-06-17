@@ -29,8 +29,6 @@
       "singular": "Relationship",
       "plural": "Relationships"
     },
-    "name": "relationship",
-    "title": "Relationship",
     "description": "A edge bwtween two nodes in a graph, as specified according to the DCoSL protocol."
   }
 }

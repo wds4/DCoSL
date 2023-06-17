@@ -17,14 +17,17 @@
     }
   },
   "wordTypeData": {
-    "slug": "list",
+    "oSlug": {
+      "singular": "list",
+      "plural": "lists"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "list",
+      "plural": "lists"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "List",
+      "plural": "Lists"
     },
     "name": "list",
     "title": "List",

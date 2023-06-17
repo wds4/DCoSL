@@ -5,7 +5,7 @@ See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/exampl
 {
     "wordData": {
         "slug": "jsonSchemaFor_graph",
-        "version": 2,
+        "version": "verbose",
         "name": "json schema for graph",
         "title": "JSON Schema for Graph",
         "metaData": {
@@ -13,7 +13,7 @@ See [this file](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/exampl
                 "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"
                 "uniqueIDs": {
                      "slug": "jsonSchemaFor_graph",
-                     "version": 2
+                     "version": "verbose"
                  }
             }
         }

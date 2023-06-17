@@ -17,12 +17,12 @@
     "jsonSchemaData": {
         "name": "widget",
         "title": "Widget",
+        "$schema": "http://json-schema.org/draft-07/schema",
         "type": "object",
         "required": [
             "widgetData"
         ],
         "definitions": {},
-        "$schema": "http://json-schema.org/draft-07/schema",
         "properties": {
             "widgetData": {
                 "type": "object",

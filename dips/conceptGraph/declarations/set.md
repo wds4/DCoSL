@@ -17,17 +17,18 @@
     }
   },
   "wordTypeData": {
-    "slug": "set",
+    "oSlug": {
+      "singular": "set",
+      "plural": "sets"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "set",
+      "plural": "sets"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Set",
+      "plural": "Sets"
     },
-    "name": "set",
-    "title": "Set",
     "description": "As specified according to the DCoSL protocol."
   }
 }

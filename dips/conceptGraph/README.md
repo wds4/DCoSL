@@ -16,11 +16,19 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 Note: the numeric designation of these DIPs is subject to change.
 
+WORDS: (100-109)
 - [DIP-100](100.md): words
 - [DIP-102](102.md): word types
 - combining multiple word types
 - [DIP-102b](102b.md): local identifiers: slug, name, title
 - maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)
+
+might deprecate these
+- [DIP-100b](100b.md): unique word identifiers
+- [DIP-100c](100c.md): unique word identifier types
+
+
+maybe start here at 110 with WORD TYPES
 - [DIP-103](103.md): relationships
 - [DIP-104](104.md): relationship types
 - [DIP-105](105.md): graphs
@@ -28,15 +36,16 @@ Note: the numeric designation of these DIPs is subject to change.
 - [DIP-107](107.md): json schemas
 - [DIP-108](108.md): sets
 - [DIP-109](109.md): supersets
-- [DIP-110](110.md): class threads
 - [DIP-111](111.md): concepts
 - [DIP-112](112.md): concept graphs
 - [DIP-113](113.md): properties
 - [DIP-114](114.md): graph types
 
 
-- [DIP-100b](100b.md): unique word identifiers
-- [DIP-100c](100c.md): unique word identifier types
+start here at 130?
+- [DIP-110](110.md): class threads
+
+
   
 # under construction
 

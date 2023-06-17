@@ -8,7 +8,7 @@ This is a summary of the basic [relationship types](../glossary/relationshipType
 | ----- | ----- | ----- |
 | isTheJsonSchemaFor | jsonSchema | wordType |
 | isTheSupersetFor | superset | wordType |
-| subsetOf | set | set |
+| isASubsetOf | set | set |
 | isASpecificInstanceOf | any | set |
 
 ## the grapevine

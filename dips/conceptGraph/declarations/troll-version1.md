@@ -67,7 +67,9 @@ The local copy of the word, after retrieval from the network and local editing, 
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
           "slug": "troll",
-          "version": "simplistic description"
+          "version": "simplistic description",
+          "id": null,
+          "edits": false
         }
       }
     }
@@ -85,6 +87,7 @@ Note that the local copy:
 - The `wordData.slug` property has been changed.
 - `wordData.name` and `wordData.title` fields have been added.
 - The `wordData.version` property has been removed.
+- The `edits` property is set to false, and no edits have been made to the word outside of the `wordData` top-level property. The edits property indicates whether any changes have been made locally to the word after download from the original author. 
 
 ## References
 

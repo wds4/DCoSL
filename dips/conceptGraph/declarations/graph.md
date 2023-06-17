@@ -18,8 +18,14 @@
   },
   "wordTypeData": {
     "slug": "graph",
-    "name": "graph",
-    "title": "Graph",
+    "oName": {
+      "singular": "graph",
+      "plural": "graphs"
+    },
+    "oTitle": {
+      "singular": "Graph",
+      "plural": "Graphs"
+    },
     "description": "As specified according to the DCoSL protocol."
   }
 }

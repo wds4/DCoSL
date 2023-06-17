@@ -47,6 +47,28 @@ concept for widgets
             "id": ""
           }
         }
+      },
+      "itemDirectory": {
+        "slug": "itemDirectoryFor_widgets",
+        "nostr": {
+          "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+          "uniqueIDs": {
+            "slug": "itemDirectoryFor_widgets",
+            "version": null,
+            "id": ""
+          }
+        }
+      },
+      "propertyDirectory": {
+        "slug": "propertyDirectoryFor_widgets",
+        "nostr": {
+          "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+          "uniqueIDs": {
+            "slug": "propertyDirectoryFor_widgets",
+            "version": null,
+            "id": ""
+          }
+        }
       }
     }
   }

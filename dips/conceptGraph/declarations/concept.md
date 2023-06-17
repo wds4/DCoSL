@@ -17,6 +17,7 @@
     }
   },
   "wordTypeData": {
+    "slug": "concept",
     "name": {
       "singular": "concept",
       "plural": "concepts"

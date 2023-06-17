@@ -18,6 +18,14 @@
   },
   "wordTypeData": {
     "slug": "list",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "list",
     "title": "List",
     "description": "As specified according to the DCoSL protocol."
@@ -57,6 +65,8 @@ as per [DIP-901](../../networking/nostr/901.md)
     ]
 }
 ```
+
+NOTE: the above word may not match the published version due to subsequent editing.
 
 ## Retrieval from nostr
 

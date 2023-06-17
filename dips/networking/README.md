@@ -5,7 +5,7 @@ This series of DIPs addresses various methods to store and retrieve data from va
 
 A data storage system needs to have a convention for unique identifiers of words
 
-## DIPs 1000-1099: integration of new networks with DCoSL
+## Background
 
 The DCoSL protocol, outside of these DIPs, is intended to be agnostic of how and where the data is stored. Methods for initiating the process of integration or adoption of new a network or storage system are discussed in this section of DIPs. Once initial integration is specified 
 

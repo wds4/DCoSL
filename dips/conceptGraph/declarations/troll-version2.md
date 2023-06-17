@@ -19,9 +19,18 @@
     }
   },
   "wordTypeData": {
-    "slug": "troll",
-    "name": "troll",
-    "title": "Troll",
+    "oSlug": {
+      "singular": "troll",
+      "plural": "trolls"
+    },
+    "oName": {
+      "singular": "troll",
+      "plural": "trolls"
+    },
+    "oTitle": {
+      "singular": "Troll",
+      "plural": "Trolls"
+    },
     "description": "A troll is a user who angers and thereby engagges with other users by making intentionally inflamamtory or incorrect statements. In some cases, the underlying motivation of so-called 'trolling' is to elicit the truth on some topic of interest by triggering those who know it to provide a clear and in depth explanation. Unfortunately, the mindset of the troll is to be intentionally dense. As such, the troll frequently renders himself incapable of accepting the truth even when it smacks him on the head."
   }
 }

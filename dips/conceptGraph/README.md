@@ -24,6 +24,7 @@ might deprecate these
 
 
 maybe start here at 110 with WORD TYPES
+CLASS THREADS
 - (110) [DIP-103](103.md): relationships
 - (111) [DIP-104](104.md): relationship types
 - (112) [DIP-105](105.md): graphs
@@ -31,16 +32,18 @@ maybe start here at 110 with WORD TYPES
 - (114) [DIP-107](107.md): json schemas
 - (115) [DIP-108](108.md): sets
 - (116) [DIP-109](109.md): supersets
+
+
+- [DIP-130](130.md): class threads
+
+  
+CONTAINERS, ORGANIZERS (start with 120?)
 - (117) [DIP-111](111.md): concepts
 - (118) [DIP-112](112.md): concept graphs
 - (119) [DIP-113](113.md): properties
 - (120) [DIP-120](120.md): graph types (may not need this?)
 - (121) [DIP-121](121.md): item directory
 - (122) [DIP-122](122.md): property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
-
-Other stuff: 130->
-- [DIP-130](130.md): class threads
-
 
   
 # under construction

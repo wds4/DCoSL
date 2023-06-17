@@ -14,7 +14,7 @@ The most important issue is that data needs a method for lookup and identificati
 ## [DIPs 1000-1099: individual network introductions](networkIntroductions)
 
 To initiate a new network:
-- an introductory DIP outlining the rationale for using this network and possibly outlining the system of identifiers 
+- a single introductory DIP in the range: 1000-1099 outlining the rationale for using this network and possibly outlining the system of identifiers 
 - assign a block of DIP numbers somewhere in 1100-1999, typically in blocks of 10. More can be reserved if desired.
 
 ## [nostr: DIPs 1100-1110](nostr)

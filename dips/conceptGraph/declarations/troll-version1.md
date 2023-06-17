@@ -5,15 +5,15 @@
 ```json
 {
   "wordData": {
-    "slug": "wordType_troll",
-    "version": "simplisticDescription",
+    "slug": "troll",
+    "version": "simplistic description",
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
           "slug": "troll",
-          "version": "simplisticDescription"
+          "version": "simplistic description"
         }
       }
     }
@@ -57,6 +57,36 @@ or
   "ids": [""],
 }
 ```
+
+The local copy of the word, after retrieval from the network and local editing, may look like this:
+
+```json
+{
+  "wordData": {
+    "slug": "antagonizer",
+    "wordTypes": ["wordType"],
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+        "uniqueIDs": {
+          "slug": "troll",
+          "version": "simplistic description"
+        }
+      }
+    }
+  },
+  "wordTypeData": {
+    "slug": "troll",
+    "name": "troll",
+    "title": "Troll",
+    "description": "A troll is a user who is just super duper mean to everyone, all the time."
+  }
+}
+```
+
+Note that the local copy:
+- The slug has been thanged to 'antagonizer'.
+- `wordData.version` has been removed.
 
 ## References
 

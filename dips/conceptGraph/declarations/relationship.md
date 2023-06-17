@@ -18,6 +18,14 @@
   },
   "wordTypeData": {
     "slug": "relationship",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "relationship",
     "title": "Relationship",
     "description": "A edge bwtween two nodes in a graph, as specified according to the DCoSL protocol."

@@ -17,14 +17,17 @@
     }
   },
   "wordTypeData": {
-    "slug": "relationship",
+    "oSlug": {
+      "singular": "relationship",
+      "plural": "relationships"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "relationship",
+      "plural": "relationships"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Relationship",
+      "plural": "Relationships"
     },
     "name": "relationship",
     "title": "Relationship",

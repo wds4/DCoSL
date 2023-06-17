@@ -21,6 +21,14 @@ as per [DIP-102](../102.md)
   },
   "wordTypeData": {
     "slug": "word",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "word",
     "title": "Word",
     "description": "A node in a graph, formatted in json, with additional requirements and conventions specified according to the DCoSL protocol."

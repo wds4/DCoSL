@@ -19,7 +19,7 @@ Note: numbering of DIPs is subject to change.
 ## Under construction
 
 Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
-- unique identifiers (move from 100b?)
+- networks and universally unique identifiers (move from 100b?)
 - perhaps the basic idea of a "word" should be moved here? (currently DIP-100)
 
 Grapevine-related core principles:

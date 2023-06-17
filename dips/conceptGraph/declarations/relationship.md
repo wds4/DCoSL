@@ -62,6 +62,8 @@ A universal unique identifier, in this case the nostr event id corresponding to 
 }
 ```
 
+NOTE: the above word type (above) may not match the published version (below) due to editing subsequent to publishing.
+
 ## Publication to nostr
 
 as per [DIP-901](../../networking/nostr/901.md)

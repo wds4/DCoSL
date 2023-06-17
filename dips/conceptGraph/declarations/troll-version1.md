@@ -1,0 +1,64 @@
+# Declaration of `troll` (version 1)
+
+## Declaration
+
+```json
+{
+  "wordData": {
+    "slug": "wordType_troll",
+    "version": "simplisticDescription",
+    "wordTypes": ["wordType"],
+    "metaData": {
+      "nostr": {
+        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+        "uniqueIDs": {
+          "slug": "troll",
+          "version": "simplisticDescription"
+        }
+      }
+    }
+  },
+  "wordTypeData": {
+    "slug": "troll",
+    "name": "troll",
+    "title": "Troll",
+    "description": "A troll is a user who is just super duper mean to everyone, all the time."
+  }
+}
+```
+
+## Publication to nostr
+
+as per [DIP-901](../../networking/nostr/901.md)
+
+```json
+
+```
+
+## Retrieval from nostr
+
+As per DIP 101 (updated for testnet-2), all versions of the above word can be found in nostr (testnet-2) using the following filter:
+
+```json
+{
+  "since": 0,
+  "kinds": [9902],
+  "authors": ["c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"],
+  "#c": ["concept-graph-testnet-902"],
+  "#v": ["simplisticDescription"],
+  "#w": ["troll"],
+}
+```
+
+or
+
+```json
+{
+  "ids": [""],
+}
+```
+
+## References
+
+- `concept` is introduced in [DIP-111](../111.md).
+- relevant glossary entry: [word type](../../../glossary/wordType.md)

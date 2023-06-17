@@ -1,6 +1,10 @@
 Data Storage and Retrieval
 =====
 
+This series of DIPs addresses various methods to store and retrieve data from various networks. Nodes and words are as defined in the relevant DIPs.
+
+The DCoSL protocol, outside of these DIPs, is intended to be agnostic of how and where the data is stored. Methods of integrating a new network or storage system are discussed in DIPs ---. 
+
 A data storage system needs to have a convention for unique identifiers of words
 
 ## [nostr](nostr)

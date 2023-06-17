@@ -36,7 +36,7 @@ as per [DIP-102](../102.md)
 }
 ```
 
-(above has been edited and may not match the below)
+NOTE: the above word type (above) may not match the published version (below) due to editing subsequent to publishing.
 
 ## Publication to nostr
 

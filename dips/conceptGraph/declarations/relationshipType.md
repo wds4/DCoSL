@@ -17,17 +17,18 @@
     }
   },
   "wordTypeData": {
-    "slug": "relationshipType",
+    "oSlug": {
+      "singular": "relationshipType",
+      "plural": "relationshipTypes"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "relationship type",
+      "plural": "relationship types"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Relationship Type",
+      "plural": "Relationship Types"
     },
-    "name": "relationship type",
-    "title": "Relationship Type",
     "description": "A category of relationships, as specified according to the DCoSL protocol."
   }
 }

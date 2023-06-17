@@ -13,7 +13,10 @@ as per [DIP-102](../102.md)
     "wordTypes": ["wordType"]
   },
   "wordTypeData": {
-    "slug": "wordType",
+    "oSlug": {
+      "singular": "wordType",
+      "plural": "wordTypes"
+    },
     "oName": {
       "singular": "word type",
       "plural": "word types"

@@ -10,7 +10,7 @@ A `micro ruleset` is a set of [micro rules](microRule.md). It can be transcribed
 ]
 ```
 
-Frequently, a ruleset is grouped so that all elements in the ruleset are the same pattern. 
+Usually, a micro ruleset is just one pattern with all of the actions that it triggers. As an example: in the following micro ruleset, all elements use the same pattern, with only the action differing from one pairing to the next.
 
 
 ```json

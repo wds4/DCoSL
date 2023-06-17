@@ -34,7 +34,7 @@ NOTE: the above word type (above) may not match the published version (below) du
 
 ## Publication to nostr
 
-as per [DIP-901](../../networking/nostr/901.md)
+as per [DIP-1101](../../networking/nostr/1101.md)
 
 ```json
 {

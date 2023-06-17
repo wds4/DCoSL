@@ -22,15 +22,13 @@ as per [DIP-102](../102.md)
   "wordTypeData": {
     "slug": "wordType",
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "word type",
+      "plural": "word types"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Word Type",
+      "plural": "Word Types"
     },
-    "name": "word type",
-    "title": "Word Type",
     "description": "A category of word, as specified by the DCoSL protocol. The creation of a word of type: wordType is the primary method for declaration of a new list or concept."
   }
 }

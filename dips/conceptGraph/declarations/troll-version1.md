@@ -14,7 +14,10 @@ Note also that the `wordData.metaData` property is absent. However, it is presen
     "wordTypes": ["wordType"]
   },
   "wordTypeData": {
-    "slug": "troll",
+    "oSlug": {
+      "singular": "troll",
+      "plural": "trolls"
+    },
     "oName": {
       "singular": "troll",
       "plural": "trolls"

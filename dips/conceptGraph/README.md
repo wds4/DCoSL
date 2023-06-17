@@ -42,8 +42,8 @@ maybe start here at 110 with WORD TYPES
 - (121) item directory - a type of graph will the superset, all relevant sets, and all items for a given concept (what I used to call a schema)
 - (122) property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 
-start here at 130?
-- [DIP-110](110.md): class threads
+Other stuff: 130->
+- [DIP-130](130.md): class threads
 
 
   

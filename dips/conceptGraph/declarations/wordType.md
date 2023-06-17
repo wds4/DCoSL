@@ -32,7 +32,7 @@ as per [DIP-102](../102.md)
 
 ## Publication to nostr
 
-as per [DIP-101](../101.md)
+as per [DIP-901](../../networking/nostr/901.md)
 
 ```json
 {

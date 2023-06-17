@@ -33,9 +33,11 @@ Micro rules usually are of the form: whevever you see Pattern X, execute some se
 
 ## Macro rules
 
+Two main rulesets introduced in the concept graph so far: the class threads ruleset, and property tree ruleset.
+
 ### class thread criterion
 
-This is the first and most important rule for the concept graph, worthy of being called the Fundamental Ruleset of the Concept Graph. 
+This is the first and most important rule for the concept graph, worthy of being called the Fundamental Ruleset of the Concept Graph. This ssays that the node at the end of any class thread must validate by the formatting rules specified at the start of the thread (independent of how that ruleset is stated). For that to happen, we need to be able to associate class instances with class nodes. One way to check this would be to do a path search for all class threads. But that would make it a nonlocal ruleset (since class threads are of unlimited number of hops), and we want it to be a local ruleset. This is how we do it.
 
 ### Property Tree Ruleset
 

@@ -18,6 +18,14 @@
   },
   "wordTypeData": {
     "slug": "set",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "set",
     "title": "Set",
     "description": "As specified according to the DCoSL protocol."

@@ -61,6 +61,12 @@ For nostr we have: the event id used to publish a word (immutable), the steward 
 
 For IPFS we have: ipfs hash (immutable), ipns name (mutable); peerID is responsible for updating ipns with the most recent ipfs. All versions of a word are available if you know the ipfs hash of older versions.
 
-## comparison
+## [DNS (domain name system): DIPs 1121-1130](dns)
+
+work in progress 
+
+## comparison of nostr to ipfs
 
 A single peerID can handle any number of concept graphs. A single nostr steward pubkey by convention should handle only one concept graph, so that slugs do not collide. 
+
+ipfs better for large files like images and video. (Currently nostr relays typically use URL pointers for these types of files.)

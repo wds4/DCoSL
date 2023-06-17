@@ -17,12 +17,14 @@
     }
   },
   "wordTypeData": {
-    "slug": "concept",
     "name": {
       "singular": "concept",
       "plural": "concepts"
     },
-    "title": "Concept",
+    "title": {
+      "singular": "Concept",
+      "plural": "Concepts"
+    },
     "description": "As specified according to the DCoSL protocol."
   }
 }

@@ -17,14 +17,17 @@
     }
   },
   "wordTypeData": {
-    "slug": "nostrCuratedList",
+    "oSlug": {
+      "singular": "nostrCuratedList",
+      "plural": "nostrCuratedLists"
+    },
     "oName": {
-      "singular": "",
-      "plural": ""
+      "singular": "nostr curated list",
+      "plural": "nostr curated lists"
     },
     "oTitle": {
-      "singular": "",
-      "plural": ""
+      "singular": "Nostr Curated List",
+      "plural": "Nostr Curated Lists"
     },
     "name": "nostr curated list",
     "title": "Nostr Curated List",

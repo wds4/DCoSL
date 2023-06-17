@@ -18,6 +18,14 @@
   },
   "wordTypeData": {
     "slug": "relationshipType",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "relationship type",
     "title": "Relationship Type",
     "description": "A category of relationships, as specified according to the DCoSL protocol."

@@ -40,6 +40,8 @@ Note: the numeric designation of these DIPs is subject to change.
 
 drafts in progress
 - [DIP-190](190.md): concept graph nostr publication tasks
+- item directory - a type of graph will the superset, all relevant sets, and all items for a given concept (what I used to call a schema)
+- property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 
 drafts not yet made
 - declaration of a new concept

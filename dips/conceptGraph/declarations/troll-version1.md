@@ -63,7 +63,9 @@ The local copy of the word, after retrieval from the network and local editing, 
 ```json
 {
   "wordData": {
-    "slug": "antagonizer",
+    "slug": "troll-abc123",
+    "name": "antagonizer",
+    "title": "Antagonizer",
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
@@ -85,8 +87,9 @@ The local copy of the word, after retrieval from the network and local editing, 
 ```
 
 Note that the local copy:
-- The slug has been thanged to 'antagonizer'.
-- `wordData.version` has been removed.
+- The `wordData.slug` property has been changed.
+- `wordData.name` and `wordData.title` fields have been added.
+- The `wordData.version` property has been removed.
 
 ## References
 

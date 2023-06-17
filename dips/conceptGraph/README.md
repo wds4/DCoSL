@@ -30,15 +30,15 @@ might deprecate these
 maybe start here at 110 with WORD TYPES
 - (110) [DIP-103](103.md): relationships
 - (111) [DIP-104](104.md): relationship types
-- [DIP-105](105.md): graphs
-- [DIP-106](106.md): lists
-- [DIP-107](107.md): json schemas
-- [DIP-108](108.md): sets
-- [DIP-109](109.md): supersets
-- [DIP-111](111.md): concepts
-- [DIP-112](112.md): concept graphs
-- [DIP-113](113.md): properties
-- [DIP-114](114.md): graph types
+- (112) [DIP-105](105.md): graphs
+- (113) [DIP-106](106.md): lists
+- (114) [DIP-107](107.md): json schemas
+- (115) [DIP-108](108.md): sets
+- (116) [DIP-109](109.md): supersets
+- (117) [DIP-111](111.md): concepts
+- (118) [DIP-112](112.md): concept graphs
+- (119) [DIP-113](113.md): properties
+- (120) [DIP-114](114.md): graph types
 - (121) item directory - a type of graph will the superset, all relevant sets, and all items for a given concept (what I used to call a schema)
 - (122) property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 

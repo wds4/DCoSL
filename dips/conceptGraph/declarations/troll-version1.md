@@ -2,21 +2,16 @@
 
 ## Declaration
 
+Note that the declaration below contains the `wordData.version` property, indicating the intention of the publisher (the stewardPubkey) to publish multiple versions.
+
+Note also that the `wordData.metaData` property is absent. However, it is present in the example at the bottom of this page, indicating the source of the download.
+
 ```json
 {
   "wordData": {
     "slug": "troll",
     "version": "simplistic description",
-    "wordTypes": ["wordType"],
-    "metaData": {
-      "nostr": {
-        "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
-        "uniqueIDs": {
-          "slug": "troll",
-          "version": "simplistic description"
-        }
-      }
-    }
+    "wordTypes": ["wordType"]
   },
   "wordTypeData": {
     "slug": "troll",

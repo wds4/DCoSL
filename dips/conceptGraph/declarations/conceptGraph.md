@@ -18,8 +18,14 @@
   },
   "wordTypeData": {
     "slug": "conceptGraph",
-    "name": "concept graph",
-    "title": "Concept Graph",
+    "name": {
+      "singular": "concept graph",
+      "plural": "concept graphs"
+    },
+    "title": {
+      "singular": "Concept Graph",
+      "plural": "Concept Graphs"
+    },
     "description": "As specified according to the DCoSL protocol."
   }
 }

@@ -29,8 +29,6 @@
       "singular": "List",
       "plural": "Lists"
     },
-    "name": "list",
-    "title": "List",
     "description": "As specified according to the DCoSL protocol."
   }
 }

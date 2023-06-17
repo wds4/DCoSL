@@ -18,6 +18,14 @@
   },
   "wordTypeData": {
     "slug": "jsonSchema",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "json schema",
     "title": "JSON Schema",
     "description": "As specified according to the DCoSL protocol."

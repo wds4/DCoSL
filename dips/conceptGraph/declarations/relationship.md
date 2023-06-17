@@ -56,7 +56,7 @@ A universal unique identifier, in this case the nostr event id corresponding to 
 
 ## Publication to nostr
 
-as per [DIP-101](../101.md)
+as per [DIP-901](../../networking/nostr/901.md)
 
 ```json
 

@@ -20,7 +20,10 @@ as per [DIP-102](../102.md)
     }
   },
   "wordTypeData": {
-    "slug": "widget",
+    "oSlug": {
+      "singular": "widget",
+      "plural": "widgets"
+    },
     "oName": {
       "singular": "widget",
       "plural": "widgets"

@@ -24,9 +24,13 @@ Micro rules usually are of the form: whevever you see Pattern X, execute some se
 
 ## Macro rules
 
-### class thread 
+### class thread criterion
 
-This is the first and most important rule for the concept graph.
+This is the first and most important rule for the concept graph, worthy of being called the Fundamental Ruleset of the Concept Graph. 
+
+### Property Tree Ruleset
+
+This ruleset accompanies the utilization of JSON Schema into DCoSL. By useing this ruleset, an entire JSON Schema is constructed out of a property tree. An implementation of this ruleset entails adoption of specific word types (property, jsonSchema, more?) and relationshipType(s) (formerly, in plex: addToConceptGraphProperties. need a more compact name for this).  
 
 ### grapevine macro rules
 

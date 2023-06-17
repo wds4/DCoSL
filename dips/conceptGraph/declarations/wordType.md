@@ -65,7 +65,7 @@ as per [DIP-901](../../networking/nostr/901.md)
 
 ## Retrieval from nostr
 
-As per DIP 101 (updated for testnet-2), all versions of the above word can be found in nostr (testnet-2) using the following filter:
+As per [DIP-902](../../networking/nostr/902.md) (updated for testnet-2), all versions of the above word can be found in nostr (testnet-2) using the following filter:
 
 ```json
 {

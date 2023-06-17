@@ -29,8 +29,6 @@
       "singular": "Nostr Curated List",
       "plural": "Nostr Curated Lists"
     },
-    "name": "nostr curated list",
-    "title": "Nostr Curated List",
     "description": "A list that is created according to the DCoSL protocol."
   }
 }

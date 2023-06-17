@@ -17,7 +17,10 @@
     }
   },
   "wordTypeData": {
-    "slug": "concept",
+    "oSlug": {
+      "singular": "concept",
+      "plural": "concepts"
+    },
     "oName": {
       "singular": "concept",
       "plural": "concepts"

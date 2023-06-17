@@ -30,6 +30,8 @@ Note also that the `wordData.metaData` property is absent. However, it is presen
 }
 ```
 
+NOTE: the above word type (above) may not match the published version (below) due to editing subsequent to publishing.
+
 ## Publication to nostr
 
 as per [DIP-901](../../networking/nostr/901.md)

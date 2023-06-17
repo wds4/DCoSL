@@ -18,6 +18,14 @@
   },
   "wordTypeData": {
     "slug": "nostrCuratedList",
+    "oName": {
+      "singular": "",
+      "plural": ""
+    },
+    "oTitle": {
+      "singular": "",
+      "plural": ""
+    },
     "name": "nostr curated list",
     "title": "Nostr Curated List",
     "description": "A list that is created according to the DCoSL protocol."

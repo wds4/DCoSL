@@ -3,7 +3,7 @@ Declaration of `widget`
 
 ## Declaration
 
-as per [DIP-102](../102.md)
+New word types are declared as outlined in [DIP-102](../102.md).
 
 ```json
 {

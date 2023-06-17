@@ -7,7 +7,7 @@ DIPs 900-999?
 
 Move all NIPs that are nostr related to this folder. Want to make it clear that DCoSL is independent of nostr, even though they do work well together.
 
-- [DIP-900](900.md): what goes into wordData.metaData.nostr
-- [DIP-901](901.md): publication of a word over nostr
-- [DIP-902](902.md): retrieval of a word from the nostr network
-- [DIP-903](903.md): stewardship
+- [DIP-1100](1100.md): what goes into wordData.metaData.nostr
+- [DIP-1101](1101.md): publication of a word over nostr
+- [DIP-1102](1102.md): retrieval of a word from the nostr network
+- [DIP-1103](91103.md): stewardship

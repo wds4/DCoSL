@@ -11,3 +11,4 @@ A suggested method of organization would be:
 - one DIP to specifiy how to publish data from the network
 - one DIP to specify how to retrieve data from the network
 - one DIP to describe the structure of `wordData.metaData.[network-specific slug]`
+- one DIP to describe the system of identifiers for a word and/or node 

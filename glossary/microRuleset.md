@@ -1,7 +1,7 @@
 micro ruleset
 =====
 
-A `micro ruleset` is a set of [micro rules](rmicroRule.md). It can be transcribed as follows:
+A `micro ruleset` is a set of [micro rules](microRule.md). It can be transcribed as follows:
 
 ```json
 [

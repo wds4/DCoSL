@@ -22,7 +22,6 @@ might deprecate these
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
 
-
 maybe start here at 110 with WORD TYPES
 CLASS THREADS
 - (110) [DIP-103](103.md): relationships

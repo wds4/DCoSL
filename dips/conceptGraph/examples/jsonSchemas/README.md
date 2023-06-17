@@ -39,3 +39,9 @@ relationships: Elements of the array: `graphData.relationships` are themselves a
 - nodeTo
 
 The list of allowed identifier types is located in `graphData.uniqueIdTypes`, which is an array and takes values: `nostrEventID` (typically), `nostrStewardPubkeyPlusSlug`, `ipfsHash`, `ipnsName`, or `slug`. If `slug` is indicated, then there must be a location to look up the word using the slug, typically within another graph. (Still need to decide how to specify the graph.)
+
+The above example would be converted to:
+
+```json
+["dogs", "isASubsetOf", "animals"]
+```

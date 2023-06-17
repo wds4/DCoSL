@@ -18,11 +18,11 @@
   },
   "wordTypeData": {
     "slug": "concept",
-    "name": {
+    "oName": {
       "singular": "concept",
       "plural": "concepts"
     },
-    "title": {
+    "oTitle": {
       "singular": "Concept",
       "plural": "Concepts"
     },

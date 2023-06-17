@@ -27,7 +27,32 @@ Note also that the `wordData.metaData` property is absent. However, it is presen
 as per [DIP-901](../../networking/nostr/901.md)
 
 ```json
-
+{
+    "content": "{\"wordData\":{\"slug\":\"troll\",\"version\":\"simplistic description\",\"wordTypes\":[\"wordType\"]},\"wordTypeData\":{\"slug\":\"troll\",\"name\":\"troll\",\"title\":\"Troll\",\"description\":\"A troll is a user who is just super duper mean to everyone, all the time.\"}}",
+    "created_at": 1686965288,
+    "id": "8819032ed7682c316cb7e13a0f8878d144c0f20cc8fef1e9804a66a4576a9dbc",
+    "kind": 9902,
+    "pubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+    "sig": "c8c9afc78c9ac9e2cfb7599b6a957c97fb1d8ed386151e7013534cf761513c447e850021472071c843d8e2e741704664bda175649186f95dfe85b44185659882",
+    "tags": [
+        [
+            "c",
+            "concept-graph-testnet-2"
+        ],
+        [
+            "t",
+            "createWord"
+        ],
+        [
+            "s",
+            "word"
+        ],
+        [
+            "w",
+            "troll"
+        ]
+    ]
+}
 ```
 
 ## Retrieval from nostr
@@ -49,7 +74,7 @@ or
 
 ```json
 {
-  "ids": [""],
+  "ids": ["8819032ed7682c316cb7e13a0f8878d144c0f20cc8fef1e9804a66a4576a9dbc"],
 }
 ```
 
@@ -68,7 +93,7 @@ The local copy of the word, after retrieval from the network and local editing, 
         "uniqueIDs": {
           "slug": "troll",
           "version": "simplistic description",
-          "id": null,
+          "id": "8819032ed7682c316cb7e13a0f8878d144c0f20cc8fef1e9804a66a4576a9dbc",
           "edits": false
         }
       }

@@ -63,7 +63,7 @@
           },
           "version": {
             "type": "string"
-          },
+          }
         }
       },
       "nostrRelationshipType": {
@@ -94,7 +94,7 @@
           },
           "version": {
             "type": "string"
-          },
+          }
         }
       }
     },
@@ -119,7 +119,7 @@
           },
           "nodeTo": {
             "$ref": "#/definitions/nostrWord"
-          },
+          }
         }
       }
     }
@@ -184,7 +184,7 @@ The JSON Schema extracted from the above word is this:
         },
         "version": {
           "type": "string"
-        },
+        }
       }
     },
     "nostrRelationshipType": {
@@ -215,7 +215,7 @@ The JSON Schema extracted from the above word is this:
         },
         "version": {
           "type": "string"
-        },
+        }
       }
     }
   },
@@ -240,7 +240,7 @@ The JSON Schema extracted from the above word is this:
         },
         "nodeTo": {
           "$ref": "#/definitions/nostrWord"
-        },
+        }
       }
     }
   }

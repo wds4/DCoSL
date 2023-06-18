@@ -3,13 +3,14 @@
     "wordData": {
         "slug": "nostrTopic",
         "name": "nostr topic",
+        "title": "Nostr Topic",
         "version": "testnet-2",
         "wordTypes": ["wordType","jsonSchema"],
         "metaData": {
             "nostr": {
                 "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
                 "uniqueIDs": {
-                    "slug": "nostrComplexList",
+                    "slug": "nostrTopic",
                     "version": "testnet-2"
                 }
             }
@@ -46,27 +47,22 @@
                 "name": "nostr topic data",
                 "title": "Nostr Topic Data",
                 "description": "data about this nostr topic",
-                "require": true,
                 "required": [
                     "name"
                 ],
                 "definitions": {},
                 "properties": {
                     "name": {
-                        "type": "string",
-                        "require": true
+                        "type": "string"
                     },
                     "title": {
-                        "type": "string",
-                        "require": false
+                        "type": "string"
                     },
                     "slug": {
-                        "type": "string",
-                        "require": false
+                        "type": "string"
                     },
                     "description": {
-                        "type": "string",
-                        "require": false
+                        "type": "string"
                     }
                 }
             }

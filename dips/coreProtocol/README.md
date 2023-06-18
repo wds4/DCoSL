@@ -10,7 +10,7 @@ Note: numbering of DIPs is subject to change.
 
 - [DIP-01](01.md) Rely on explicit attestations rather than scraped data.
 
-- [DIP-02](02.md) Use cryptographic identifiers for lists and list items.
+- [DIP-02](02.md) avoid domain squatting with cryptograohic identifiers
 
 - [DIP-03](03.md) Representation of a graph using simple lists.
 

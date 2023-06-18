@@ -1,18 +1,30 @@
 ```json
 {
     "wordData": {
-        "slug": null
+        "slug": "nostrTopic",
+        "name": "nostr topic",
+        "version": "testnet-2",
+        "wordTypes": ["wordTypeData","jsonSchema"],
+        "metaData": {
+            "nostr": {
+                "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
+                "uniqueIDs": {
+                    "slug": "nostrComplexList",
+                    "version": "testnet-2"
+                }
+            }
+        }
     },
-    "nostrCuratedListData": {
-        "name": {
+    "wordTypeData": {
+        "oName": {
             "singular": "nostr topic",
             "plural": "nostr topics"
         },
-        "title": {
+        "oTitle": {
             "singular": "Nostr Topic",
             "plural": "Nostr Topics"
         },
-        "slug": {
+        "oSlug": {
             "singular": "nostrTopic",
             "plural": "nostrTopics"
         },
@@ -21,8 +33,8 @@
     },
     "jsonSchemaData": {
         "description": "This is the JSON Schema used to create and validate object files for the representation of instances of the list of nostr topics",
-        "name": "json schema for an instance of nostr topic",
-        "title": "JSON Schema for an Instance of Nostr Topic",
+        "name": "json schema for an item on the list of nostr topics",
+        "title": "JSON Schema for an Item on the List of Nostr Topics",
         "type": "object",
         "required": [
             "nostrTopicData"

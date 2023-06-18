@@ -128,6 +128,24 @@
 }
 ```
 
+An example item on this list:
+
+```json
+{
+  "nodeFrom": {
+    "slug": "categoryOf_iPhones"
+  },
+  "relationshipType": {
+    "slug": "isASubcategoryOf"
+  },
+  "nodeTo": {
+    "slug": "categoryOf_smartphones"
+  },
+}
+```
+
+The JSON Schema extracted from the above word is this:
+
 ```json
 "name": "relationship",
 "title": "Relationship",

@@ -4,17 +4,17 @@ DCoSL is the first step towards implementation of the threaded tapestry model of
 
 Note: numbering of DIPs is subject to change.
 
-- [DIP-0](0.md) Data is represented as graphs: collections of nodes and edges
+- 00 [DIP-0](0.md) Data is represented as graphs: collections of nodes and edges
 
-- [DIP-00](00.md) Data curation: the principle of relativity
+- 01 [DIP-00](00.md) Data curation: the principle of relativity
 
-- [DIP-01](01.md) Rely on explicit attestations rather than scraped data.
+- 02 [DIP-01](01.md) Rely on explicit attestations rather than scraped data.
 
-- [DIP-02](02.md) avoid domain squatting with cryptograohic identifiers
+- 03 [DIP-02](02.md) how to avoid domain squatting
 
-- [DIP-03](03.md) Representation of a graph using simple lists.
+- 04 [DIP-03](03.md) accomplish curation of a graph into curation of a few simple lists.
 
-- [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
+- 05 [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 
 ## Under construction
 

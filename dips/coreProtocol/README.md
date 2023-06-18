@@ -8,7 +8,9 @@ Note: numbering of DIPs is subject to change.
 
 Data is represented as graphs: collections of nodes and edges
 
-- [DIP-01](01.md) Data curation: the principle of relativity
+- [DIP-01](01.md) Everything is in the eye of the beholder
+
+Data curation using the principle of relativity. There is no one list to rule them all.
 
 - [DIP-02](02.md) Rely on explicit attestations rather than scraped data.
 

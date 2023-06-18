@@ -85,7 +85,7 @@ It can be retrieved using either of the filters below:
   "kinds": [9902],
   "authors": ["c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"],
   "#c": ["concept-graph-testnet-902"],
-  "#w": ["word"],
+  "#w": ["nostrTopic"],
 }
 ```
 

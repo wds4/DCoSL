@@ -9,6 +9,10 @@ One useful combination is `wordType` plus `jsonSchema`, which has more functiona
 
 Example uses:
 
+example 1: redeclaration of relationship as a hybrid 
+
+example 2:
+
 nostr content curation requires several augmented lists.
 
 A list of nostr content categories, each of which has a name and a description (a simple list)

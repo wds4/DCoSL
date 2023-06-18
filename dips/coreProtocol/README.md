@@ -10,7 +10,7 @@ Data is represented as graphs: collections of nodes and edges
 
 - [DIP-01](01.md) Everything is in the eye of the beholder
 
-Data curation using the principle of relativity. There is no one list to rule them all.
+Data curation using the [Principle of Relativity for the Web of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/Principle-of-Relativity-for-WoT.md). There is no one list to rule them all.
 
 - [DIP-02](02.md) Say what you mean, mean what you say.
 

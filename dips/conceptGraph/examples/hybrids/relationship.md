@@ -132,15 +132,17 @@ An example item on this list:
 
 ```json
 {
-  "nodeFrom": {
-    "slug": "categoryOf_iPhones"
-  },
-  "relationshipType": {
-    "slug": "isASubcategoryOf"
-  },
-  "nodeTo": {
-    "slug": "categoryOf_smartphones"
-  },
+  "relationshipData": {
+    "nodeFrom": {
+      "slug": "categoryOf_iPhones"
+    },
+    "relationshipType": {
+      "slug": "isASubcategoryOf"
+    },
+    "nodeTo": {
+      "slug": "categoryOf_smartphones"
+    }
+  }
 }
 ```
 

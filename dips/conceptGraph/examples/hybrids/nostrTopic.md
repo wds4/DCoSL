@@ -36,6 +36,7 @@
         "description": "This is the JSON Schema used to create and validate object files for the representation of instances of the list of nostr topics",
         "name": "json schema for an item on the list of nostr topics",
         "title": "JSON Schema for an Item on the List of Nostr Topics",
+        "$schema": "http://json-schema.org/draft-07/schema",
         "type": "object",
         "required": [
             "nostrTopicData"

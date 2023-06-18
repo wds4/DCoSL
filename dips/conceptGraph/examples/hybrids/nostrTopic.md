@@ -105,6 +105,13 @@ This was published to nostr using this event:
 It can be retrieved using either of the filters below:
 
 ```json
+{
+  "since": 0,
+  "kinds": [9902],
+  "authors": ["c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"],
+  "#c": ["concept-graph-testnet-2"],
+  "#w": ["word"],
+}
 ```
 
 ```json

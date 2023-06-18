@@ -145,6 +145,8 @@ An example item on this list:
 }
 ```
 
+This example ought to validate against the JSON file. To test this out, go to [this site](https://www.jsonschemavalidator.net) and paste the JSON file (below) to the field on the left and the relationship word (above) to the field on the right.
+
 The JSON Schema extracted from the above word is this:
 
 ```json

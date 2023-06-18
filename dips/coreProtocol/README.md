@@ -14,7 +14,7 @@ Note: numbering of DIPs is subject to change.
 
 - 04 [DIP-03](03.md) accomplish curation of a graph into curation of a few simple lists.
 
-- 05 [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
+- [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 
 ## Under construction
 

@@ -12,11 +12,17 @@ Data is represented as graphs: collections of nodes and edges
 
 Data curation using the principle of relativity. There is no one list to rule them all.
 
-- [DIP-02](02.md) Rely on explicit attestations rather than scraped data.
+- [DIP-02](02.md) Say what you mean, mean what you say.
 
-- [DIP-03](03.md) how to avoid domain squatting
+Rely on explicit attestations rather than scraped data.
 
-- [DIP-04](04.md) accomplish curation of a graph into curation of a few simple lists.
+- [DIP-03](03.md) Every word has a cryptographic identifier
+
+This is how we avoid domain squatting
+
+- [DIP-04](04.md) Everything is a collection of simple lists.
+
+Achieve curation of a graph via curation of a few simple lists.
 
 - [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 

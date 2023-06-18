@@ -104,7 +104,6 @@
         "name": "relationship data",
         "title": "Nostr Curated List Data",
         "description": "data about this nostrCuratedList",
-        "require": true,
         "required": [
           "nodeFrom",
           "relationshipType",
@@ -224,7 +223,6 @@ The JSON Schema extracted from the above word is this:
       "name": "relationship data",
       "title": "Nostr Curated List Data",
       "description": "data about this nostrCuratedList",
-      "require": true,
       "required": [
         "nodeFrom",
         "relationshipType",

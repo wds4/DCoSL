@@ -30,51 +30,51 @@ Basically I've taken the word type and the json schema for nostrCuratedList, put
       "singular": "Nostr Curated List",
       "plural": "Nostr Curated Lists"
     },
-    "description": "A list that is created according to the DCoSL protocol."
+    "description": "A list of relationships for making ."
   },
-    "jsonSchemaData": {
-        "name": "nostrCuratedList",
-        "title": "NostrCuratedList",
-        "$schema": "http://json-schema.org/draft-07/schema",
+  "jsonSchemaData": {
+    "name": "nostrCuratedList",
+    "title": "NostrCuratedList",
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "required": [
+      "nostrCuratedListData"
+    ],
+    "definitions": {},
+    "properties": {
+      "nostrCuratedListData": {
         "type": "object",
+        "name": "nostr curated list data",
+        "title": "Nostr Curated List Data",
+        "description": "data about this nostrCuratedList",
+        "require": true,
         "required": [
-            "nostrCuratedListData"
+          "name",
+          "description"
         ],
         "definitions": {},
         "properties": {
-            "nostrCuratedListData": {
-                "type": "object",
-                "name": "nostr curated list data",
-                "title": "Nostr Curated List Data",
-                "description": "data about this nostrCuratedList",
-                "require": true,
-                "required": [
-                    "name",
-                    "description"
-                ],
-                "definitions": {},
-                "properties": {
-                    "name": {
-                        "type": "object",
-                        "required": [
-                            "singular",
-                            "plural"
-                        ],
-                        "properties": {
-                            "singular": {
-                                "type": "string"
-                            },
-                            "plural": {
-                                "type": "string"
-                            }
-                        }
-                    },
-                    "description": {
-                        "type": "string"
-                    }
+          "name": {
+            "type": "object",
+            "required": [
+                "singular",
+                "plural"
+            ],
+            "properties": {
+                "singular": {
+                    "type": "string"
+                },
+                "plural": {
+                    "type": "string"
                 }
             }
+          },
+          "description": {
+            "type": "string"
+          }
         }
+      }
     }
+  }
 }
 ```

@@ -14,7 +14,7 @@ Data curation using the principle of relativity. There is no one list to rule th
 
 - [DIP-02](02.md) Say what you mean, mean what you say.
 
-Rely on explicit attestations rather than scraped data.
+Rely on explicit statements rather than inferences from scraped data.
 
 - [DIP-03](03.md) Every word has a cryptographic identifier
 

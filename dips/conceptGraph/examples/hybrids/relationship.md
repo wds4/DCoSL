@@ -281,7 +281,17 @@ The above word was published to nostr using the following event:
 It can be retrieved using one of the following filters:
 
 ```json
+{
+  "since": 0,
+  "kinds": [9902],
+  "authors": ["c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa"],
+  "#c": ["concept-graph-testnet-902"],
+  "#w": ["relationship"],
+}
 ```
 
 ```json
+{
+  "ids": ["6a7794b2b1d1cb33c05473fe2a52f4460eec63311e851e3c3fa8e787ca7d88fb"]
+}
 ```

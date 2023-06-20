@@ -6,4 +6,9 @@
 - [isAnInstanceOf](isAnInstanceOf.md)
 - [isTheJsonSchemaFor](isTheJsonSchemaFor.md)
 
+## curated nostr channels
+
+- [isASubcategoryOf](isASubcategoryOf.md)
+- [isEquivalentTo](isEquivalentTo.md)
+
 ## grapevine

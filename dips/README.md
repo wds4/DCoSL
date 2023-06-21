@@ -23,7 +23,7 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 Describes the calculation of context-based user influence
 
-## [neuroCore: DIPs 1000 and above](neuroCore)
+## [networking: DIPs 1000 and above](networking)
 
 enforcements of the [class thread rule](../glossary/classThreadRule.md)
 

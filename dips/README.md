@@ -25,7 +25,7 @@ Describes the calculation of context-based user influence
 
 ## [networking: DIPs 1000 and above](networking)
 
-enforcements of the [class thread rule](../glossary/classThreadRule.md)
+publication and retrieval of data to/from the nostr network
 
 ## [DIP infinity, aka Circular DCoSL](conceptGraph/infinity.md)
 

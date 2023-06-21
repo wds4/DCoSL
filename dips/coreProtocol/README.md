@@ -28,19 +28,19 @@ Achieve curation of a graph via curation of a few simple lists.
 
 ## Under construction
 
-Might add either before or after DIP-04: Influence is the quantity that must be calculated
-- influence scores must be contextual 
-- weighted averages, where weight is dependend on influence
+## Influence is the quantity to focus on
+
+Might add either before or after DIP-04. Introduction to the Grapevine-related core principles.
 
 Grapevine-related core principles:
-- trust is contextual 
+- influence is contextual
+- we calculate weighted averages, where weight is dependend on influence
 - trust isn't trust, it's numeric
 - confidence needs to be tracked 
 - contexts are arranged in trees 
 - default trust levels are user-adjustable
 - trust is inherited down the context tree
 
-- 
 Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
 - networks and universally unique identifiers (move from 100b?)
 - perhaps the basic idea of a "word" should be moved here? (currently DIP-100)

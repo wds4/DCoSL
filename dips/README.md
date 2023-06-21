@@ -6,7 +6,7 @@ The special role of graphs in the DCoSL protocol is discussed in [concept graph]
 
 DIPs (DCoSL implementation proposals) are categorized into three blocks: the core protocol, the concept graph, and the grapevine.
 
-## [core protocol: DIPs 00 - 99](coreProtocol)
+## [basic principles: DIPs 00 - 99](coreProtocol)
 
 Basic starter DIPs. 
 

@@ -23,7 +23,7 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 Describes the calculation of context-based user influence
 
-## [networking: DIPs 1000 and above](networking)
+## [networking: DIPs 1000-1999](networking)
 
 publication and retrieval of data to/from the nostr network
 

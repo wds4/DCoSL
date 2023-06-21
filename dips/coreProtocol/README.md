@@ -28,7 +28,7 @@ Achieve curation of a graph via curation of a few simple lists.
 
 ## Under construction
 
-## DIP-?? Influence scores
+## DIP-?? Context-based influence
 
 Influence is the quantity to focus on. Introduction to the Grapevine-related core principles. Might add either before or after DIP-04. 
 

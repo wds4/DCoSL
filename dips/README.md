@@ -17,11 +17,11 @@ Basic starter DIPs.
 
 ## [the concept graph: DIPs 100-199](conceptGraph)
 
-There will be a natural progression from simple lists, to complex lists, to concepts, to the concept graph.
+how data is represented and organized
 
 ## [the grapevine: DIPs 200-299](grapevine)
 
-Describes the calculation of context-based user influence
+how data is curated
 
 ## [networking: DIPs 1000-1999](networking)
 

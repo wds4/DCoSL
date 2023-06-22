@@ -38,8 +38,8 @@ Grapevine-related core principles:
 - probably going to remove any reference to the word "trust" anywhere in this repo. May or may not delve into why. But basically, the word means too many things to too many people. True to a lesser extent to several other words and phrases. e.g. "influence score" screams "black mirror dystopia" to some. Whatever we call the scores, how they are used is what defines what they mean. Not what we call them.
 - confidence needs to be tracked 
 - contexts are arranged in trees 
-- default trust levels are user-adjustable
-- trust is inherited down the context tree
+- default scores are user-adjustable
+- influence scores are inherited down the context tree
 
 Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
 - networks and universally unique identifiers (move from 100b?)

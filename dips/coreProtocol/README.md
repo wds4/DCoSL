@@ -28,18 +28,19 @@ Achieve curation of a graph via curation of a few simple lists.
 
 ## Under construction
 
-## DIPs-??
+## DIP-??
 
-Loose consensus and dcosl-infinity are the ultimate goal.
+Loose consensus as one of the goals
 
 ## DIP-?? Context-based influence
 
 Influence is the quantity to focus on. Introduction to the Grapevine-related core principles. Might add either before or after DIP-04. 
 
+Probably going to remove any reference to the word "trust" anywhere in this repo. May or may not delve into why. But basically, the word means too many things to too many people. True to a lesser extent to several other words and phrases. e.g. "influence score" screams "black mirror dystopia" to some. Whatever we call the scores, how they are used is what defines what they mean. Not what we call them.
+
 Grapevine-related core principles:
 - influence is contextual
 - we calculate weighted averages, where weight is dependend on influence
-- probably going to remove any reference to the word "trust" anywhere in this repo. May or may not delve into why. But basically, the word means too many things to too many people. True to a lesser extent to several other words and phrases. e.g. "influence score" screams "black mirror dystopia" to some. Whatever we call the scores, how they are used is what defines what they mean. Not what we call them.
 - confidence needs to be tracked 
 - contexts are arranged in trees 
 - default scores are user-adjustable

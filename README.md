@@ -54,7 +54,9 @@ In addition to the above, some may have philosophic difficulties with the starti
 
 ## The power of DCoSL comes from generation of [loose consensus](glossary/looseConsensus.md)
 
-## [DIP-infinity](dips/coreProtocol/infinity.md): a state of enlightenment where the implementation of DCoSL is itself crowdsourced using DCoSL.
+## [DIP-infinity](dips/coreProtocol/infinity.md): a state such that the implementation of DCoSL is itself crowdsourced using DCoSL.
+
+This repo may still exist but it will be redundant, because your grapevine will manage your DIPs and everything else in this repo. Not only this repo, but other repos, standards committees, etc.
 
 # Protocol specification 
 

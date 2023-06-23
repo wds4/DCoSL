@@ -1,3 +1,14 @@
+nostrChannelTopicsCuratorEndorsement
+=====
+
+Used to endorse a user as being a trusted (or not) curator of a given nostr topic. Curation here means: deciding which pubkeys to associate with which nostr topics.
+
+under nostrChannelTopicsCuratorEndorsementFieldsetData:
+- referenceData should be the same as the rater in raterData (the rater is the reference)
+- contextData.nostrTopicData indicates the nostr topic. If blank, it is understood to be the generic (top level) topic.
+ 
+JSON A:
+
 ```json
 {
     "ratingData": {

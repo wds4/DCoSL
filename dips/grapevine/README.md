@@ -6,6 +6,8 @@ See the list of [important concepts](importantConcepts.md).
 
 ## DIPs 200-299: the Grapevine
 
+For publication of attestations, ratings, etc over nostr, see the networking section on [nostr](https://github.com/wds4/DCoSL/tree/main/dips/networking/nostr)
+
 - [DIP-200](200.md): publication of an attestation over nostr
 
 - [DIP-201](201.md): general format of a user 'trust' rating

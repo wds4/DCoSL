@@ -1,6 +1,6 @@
 This section contains ratings, the structures of which are being used but still in the process of being formalized. Each rating represents a different rating template. The json schemas of these ratings are under developement.
 
-# used in the Curated Lists app:
+# arrange by rating templates
 
 ### [nostrCuratedListInstanceGenericRating](nostrCuratedListInstanceGenericRating.md) (testnet-1)
 - empty backbone
@@ -11,7 +11,5 @@ This section contains ratings, the structures of which are being used but still 
 - empty backbone
 - usage in Curated Lists app (testnet-1) to endorse/reject a user as curator of a list
 
-# used in the Curated Nostr Channels app:
 
-- 
 - accept/reject a relationship between nostr topics

@@ -187,3 +187,66 @@ Note: in the below, the `nostrParentCuratedListData` fields (eventID, slug, name
 }
 ```
 
+## Example 3: Curated Channels app, testet-2, accept/reject a relationship between two topics
+
+JSON D:
+
+```json
+{
+    "wordData": {
+        "slug": "ratingOf_relationship-e26dd9_thumbsup_by_wds4-102f",
+        "wordTypes": [
+            "rating"
+        ]
+    },
+    "ratingData": {
+        "raterData": {
+            "raterType": "nostrProfile",
+            "nostrProfileData": {
+                "pubkey": "e5272de914bd301755c439b88e6959a43c9d2664831f093c51e9c799a16a102f",
+                "name": "wds4",
+                "display_name": "David Strayhorn"
+            }
+        },
+        "rateeData": {
+            "rateeType": "relationship",
+            "relationshipData": {
+                "eventID": "f5e18bd6548dffead953b4b98f208bc1d625f3bd577e9a45a6dfb39fc2e26dd9",
+                "slug": "relationship_iPhones-527174_isASubcategoryOf-d7c849_smartphone-e11742_c482fa"
+            }
+        },
+        "ratingTemplateData": {
+            "ratingTemplateSlug": "nostrCuratedListInstanceGenericRating",
+            "ratingTemplateTitle": "Nostr Curated List Instance: Generic Rating"
+        },
+        "ratingFieldsetData": {
+            "ratingFieldsetSlugs": [
+                "nostrCuratedListInstanceRatingFieldset",
+                "confidenceFieldset"
+            ],
+            "confidenceFieldsetData": {
+                "confidence": 80
+            },
+            "nostrCuratedListInstanceRatingFieldsetData": {
+                "regularSliderRating": 100,
+                "contextData": {
+                    "transitivity": false,
+                    "contextDAG": {
+                        "slug": "genericRating"
+                    },
+                    "nostrParentCuratedListData": {
+                        "eventID": "6a7794b2b1d1cb33c05473fe2a52f4460eec63311e851e3c3fa8e787ca7d88fb",
+                        "slug": {
+                            "singular": "relationship"
+                        },
+                        "name": {
+                            "singular": "relationship"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+```
+

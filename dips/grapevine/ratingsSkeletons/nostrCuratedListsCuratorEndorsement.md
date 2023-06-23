@@ -1,6 +1,7 @@
 nostrCuratedListsCuratorEndorsement
 =====
 
+## skeleton backbone 
 
 ```json
 {
@@ -16,7 +17,9 @@ nostrCuratedListsCuratorEndorsement
         "rateeData": {
             "rateeType": "nostrProfile",
             "nostrProfileData": {
-                "pubkey": "61f976cf57851e0c1757d8bd962652a9e42d878ab1f7df31336fe430e2612e78"
+                "pubkey": null,
+                "name": null,
+                "display_name": null
             }
         },
         "ratingTemplateData": {
@@ -32,14 +35,14 @@ nostrCuratedListsCuratorEndorsement
                 "confidence": 80
             },
             "nostrCuratedListsCuratorEndorsementFieldsetData": {
-                "regularSliderRating": 100,
+                "regularSliderRating": null,
                 "referenceRegularSliderRating": 100,
                 "referenceData": {
                     "referenceEntityType": "nostrProfile",
                     "nostrProfileData": {
-                        "pubkey": "e5272de914bd301755c439b88e6959a43c9d2664831f093c51e9c799a16a102f",
-                        "name": "wds4",
-                        "display_name": "David Strayhorn"
+                        "pubkey": null,
+                        "name": null,
+                        "display_name": null
                     }
                 },
                 "contextData": {
@@ -48,12 +51,12 @@ nostrCuratedListsCuratorEndorsement
                         "slug": "genericRating"
                     },
                     "nostrParentCuratedListData": {
-                        "eventID": "ae641d5606f3ec710b135678810d4256fd2e92022896ca58d194c361c46d81f9",
+                        "eventID": null,
                         "slug": {
-                            "singular": "widget"
+                            "singular": null
                         },
                         "name": {
-                            "singular": "widget"
+                            "singular": null
                         }
                     }
                 }
@@ -63,7 +66,7 @@ nostrCuratedListsCuratorEndorsement
 }
 ```
 
-
+## Example: 
 
 ```json
 {

@@ -26,6 +26,7 @@ Note also that the `wordData.metaData` property is absent. However, it is presen
       "singular": "Troll",
       "plural": "Trolls"
     },
+    "propertyPath": "trollData",
     "description": "A troll is a user who is just super duper mean to everyone, all the time."
   }
 }

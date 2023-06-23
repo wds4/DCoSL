@@ -29,6 +29,7 @@
       "singular": "Set",
       "plural": "Sets"
     },
+    "propertyPath": "setData",
     "description": "As specified according to the DCoSL protocol."
   }
 }

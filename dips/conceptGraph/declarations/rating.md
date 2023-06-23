@@ -1,35 +1,35 @@
-# Declaration of `relationship`
+# Declaration of `rating`
 
 ## Declaration
 
 ```json
 {
   "wordData": {
-    "slug": "ratingTemplate",
+    "slug": "rating",
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
-          "slug": "ratingTemplate"
+          "slug": "rating"
         }
       }
     }
   },
   "wordTypeData": {
     "oSlug": {
-      "singular": "ratingTemplate",
-      "plural": "ratingTemplates"
+      "singular": "rating",
+      "plural": "ratings"
     },
     "oName": {
-      "singular": "rating template",
-      "plural": "rating templates"
+      "singular": "rating",
+      "plural": "ratings"
     },
     "oTitle": {
-      "singular": "Rating Template",
-      "plural": "Rating Templates"
+      "singular": "Rating",
+      "plural": "Ratings"
     },
-    "propertyPath": "ratingTemplateData",
+    "propertyPath": "ratingData",
     "description": "see dcosl, section on the grapevine."
   }
 }

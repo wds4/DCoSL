@@ -29,6 +29,7 @@
       "singular": "Relationship Type",
       "plural": "Relationship Types"
     },
+    "propertyPath": "relationshipTypeData",
     "description": "A category of relationships, as specified according to the DCoSL protocol."
   }
 }

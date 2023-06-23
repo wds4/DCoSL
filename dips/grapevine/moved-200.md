@@ -1,4 +1,4 @@
-DIP-200
+DIP-200 (MOVED TO DIP-1104)
 =====
 publication of an attestation over nostr
 -----

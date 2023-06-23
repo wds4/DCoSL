@@ -7,30 +7,31 @@ New word types are declared as outlined in [DIP-102](../102.md).
 ```json
 {
   "wordData": {
-    "slug": "set",
+    "slug": "property",
     "wordTypes": ["wordType"],
     "metaData": {
       "nostr": {
         "stewardPubkey": "c51a542e4f93afe6f45e5bef002f7a0efcc0a47460a736654c0bee5402c482fa",
         "uniqueIDs": {
-          "slug": "set"
+          "slug": "property"
         }
       }
     }
   },
   "wordTypeData": {
     "oSlug": {
-      "singular": "set",
-      "plural": "sets"
+      "singular": "property",
+      "plural": "properties"
     },
     "oName": {
-      "singular": "set",
-      "plural": "sets"
+      "singular": "property",
+      "plural": "properties"
     },
     "oTitle": {
-      "singular": "Set",
-      "plural": "Sets"
+      "singular": "Property",
+      "plural": "Properties"
     },
+    "propertyPath": "propertyData",
     "description": "As specified according to the DCoSL protocol."
   }
 }
@@ -71,4 +72,4 @@ or
 ## References
 
 - `` is introduced in [DIP-10](../10.md).
-- glossary entry: [](../../../glossary/.md), [word type](../../../glossary/wordType.md)
+- glossary entry: [](../../../glossary/property.md), [word type](../../../glossary/wordType.md)

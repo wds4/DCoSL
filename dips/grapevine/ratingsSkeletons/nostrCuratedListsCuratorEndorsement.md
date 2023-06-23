@@ -72,6 +72,8 @@ JSON A:
 
 ## Example: 
 
+JSON B:
+
 ```json
 {
     "ratingData": {

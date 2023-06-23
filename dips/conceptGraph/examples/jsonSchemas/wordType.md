@@ -21,7 +21,20 @@
         "required": [
             "wordTypeData"
         ],
-        "definitions": {},
+        "definitions": {
+            "unitData": {
+                "type": "object",
+                "required": ["singular", "plural"],
+                "properties": {
+                    "singular": {
+                        "type": "string"
+                    },
+                    "plural": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
         "properties": {
             "wordTypeData": {
                 "type": "object",
@@ -30,43 +43,27 @@
                 "description": "data about this word type",
                 "require": true,
                 "required": [
-                    "name",
-                    "title",
-                    "description"
+                    "oSlug",
+                    "oName",
+                    "oTitle",
+                    "description",
+                    "propertyPath"
                 ],
                 "definitions": {},
                 "properties": {
-                    "name": {
-                        "type": "object",
-                        "required": [
-                            "singular",
-                            "plural"
-                        ],
-                        "properties": {
-                            "singular": {
-                                "type": "string"
-                            },
-                            "plural": {
-                                "type": "string"
-                            }
-                        }
+                    "oSlug": {
+                       "$ref": "#/definitions/unitData"
                     },
-                    "title": {
-                        "type": "object",
-                        "required": [
-                            "singular",
-                            "plural"
-                        ],
-                        "properties": {
-                            "singular": {
-                                "type": "string"
-                            },
-                            "plural": {
-                                "type": "string"
-                            }
-                        }
+                    "oName": {
+                       "$ref": "#/definitions/unitData"
+                    },
+                    "oTitle": {
+                        "$ref": "#/definitions/unitData"
                     },
                     "description": {
+                        "type": "string"
+                    },
+                    "propertyPath": {
                         "type": "string"
                     }
                 }

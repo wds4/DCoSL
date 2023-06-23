@@ -2,10 +2,16 @@ This section contains ratings, the structures of which are being used but still 
 
 # used in the Curated Lists app:
 
-- A [accept/reject an item to a specific list](nostrCuratedListInstanceGenericRating.md) (testnet-1)
-- B [endorse/reject a user as curator of a list](nostrCuratedListsCuratorEndorsement.md) (testnet-1)
+### [nostrCuratedListInstanceGenericRating](nostrCuratedListInstanceGenericRating.md) (testnet-1)
+- empty backbone
+- usage in Curated Lists app (testnet-1) to accept/reject an item to a specific simple list
+- usage in Curated Channnels app (testnet-2) to accept/reject a nostr topic to the (complex list / word type /concept) of nostr topics
+
+### [nostrCuratedListsCuratorEndorsement](nostrCuratedListsCuratorEndorsement.md)
+- empty backbone
+- usage in Curated Lists app (testnet-1) to endorse/reject a user as curator of a list
 
 # used in the Curated Nostr Channels app:
 
-- accept/reject a nostr topic to the list of items - use template for A (above) (testnet-2)
+- 
 - accept/reject a relationship between nostr topics

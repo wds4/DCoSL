@@ -67,6 +67,8 @@ JSON A:
 
 JSON B:
 
+Note that in the below, the `nostrParentCuratedListData` fields (eventID, slug, name) (widget in the example) indicate something that is a list.
+
 ```json
 {
     "ratingData": {
@@ -124,6 +126,8 @@ JSON B:
 ## accept/reject a topic to the list of nostr topics in Curated Channels (testnet-2)
 
 JSON C:
+
+Note: in the below, the `nostrParentCuratedListData` fields (eventID, slug, name) indicate a version of `nostrTopic` which is not a simple list but a wordType.
 
 ```json
 {

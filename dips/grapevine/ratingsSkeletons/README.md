@@ -12,5 +12,6 @@ This section contains ratings, the structures of which are being used but still 
 - (JSON A) empty backbone
 - (JSON B) usage in Curated Lists app (testnet-1) to endorse/reject a user as curator of a list
 
+### [nostrChannelTopicsCuratorEndorsement](nostrChannelTopicsCuratorEndorsement.md)
+- (JSON A) empty backbone
 
-accept/reject a relationship between nostr topics

@@ -67,7 +67,7 @@ JSON A:
 
 JSON B:
 
-Note that in the below, the `nostrParentCuratedListData` fields (eventID, slug, name) (widget in the example) indicate something that is a list.
+Note that in the below, the `nostrParentCuratedListData` fields (eventID, slug, name) (widget in the example) point to a word that is a list (has listData as a top level property).
 
 ```json
 {
@@ -127,7 +127,7 @@ Note that in the below, the `nostrParentCuratedListData` fields (eventID, slug, 
 
 JSON C:
 
-Note: in the below, the `nostrParentCuratedListData` fields (eventID, slug, name) indicate a version of `nostrTopic` which is not a simple list but a wordType.
+Note: in the below, the `nostrParentCuratedListData` fields (eventID, slug, name) indicate a version of `nostrTopic` which is not a list but a wordType (so top level property has wordTypeData but not listData). Technically I should probably make a new rating template for this; either that or add a field under nostrParentCuratedListData to indicate whether to expect listData or wordTypeData.
 
 ```json
 {

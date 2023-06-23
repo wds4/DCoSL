@@ -68,6 +68,6 @@ or
 
 ## References
 
-- `graph` is introduced in [DIP-105](../105.md).
-- glossary entry: [graph](../../../glossary/graph.md), [word type](../../../glossary/wordType.md)
+- `set` is introduced in [DIP-??](../??.md).
+- glossary entry: [set](../../../glossary/set.md), [word type](../../../glossary/wordType.md)
 

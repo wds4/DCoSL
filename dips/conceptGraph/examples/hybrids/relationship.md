@@ -247,7 +247,7 @@ The JSON Schema extracted from the above word (the word with `wordData.slug` = `
 }
 ```
 
-The above word was published to nostr using the following event:
+The above word (the word with `wordData.slug` = `relationship` at the top of the page) was published to nostr using the following event:
 
 ```json
 {

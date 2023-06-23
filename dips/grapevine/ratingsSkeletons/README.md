@@ -6,6 +6,7 @@ This section contains ratings, the structures of which are being used but still 
 - (JSON A) empty backbone
 - (JSON B) usage in Curated Lists app (testnet-1) to accept/reject an item to a specific simple list
 - (JSON C) usage in Curated Channnels app (testnet-2) to accept/reject a nostr topic to the (complex list / word type /concept) of nostr topics
+- (JSON D) usage in Curated Channels app (testet-2) to accept/reject a proposed relationship between two topics
 
 ### [nostrCuratedListsCuratorEndorsement](nostrCuratedListsCuratorEndorsement.md)
 - (JSON A) empty backbone

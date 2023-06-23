@@ -29,6 +29,7 @@
       "singular": "List",
       "plural": "Lists"
     },
+    "propertyPath": "listData",
     "description": "As specified according to the DCoSL protocol."
   }
 }

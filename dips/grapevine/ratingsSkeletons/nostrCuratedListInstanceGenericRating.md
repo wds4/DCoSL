@@ -1,7 +1,67 @@
 rating template title: Nostr Curated List Instance: Generic Rating
 =====
 
+# Skeleton
 
+All null fields are expected to be filled out, except that setting regularSliderRating to null is used to erase a rating (e.g. if submitted on accident)
+
+```json
+{
+    "ratingData": {
+        "raterData": {
+            "raterType": "nostrProfile",
+            "nostrProfileData": {
+                "pubkey": null,
+                "name": null,
+                "display_name": null
+            }
+        },
+        "rateeData": {
+            "rateeType": "nostrCuratedListInstance",
+            "nostrCuratedListInstanceData": {
+                "eventID": null,
+                "name": null,
+                "slug": null
+            }
+        },
+        "ratingTemplateData": {
+            "ratingTemplateSlug": "nostrCuratedListInstanceGenericRating",
+            "ratingTemplateTitle": "Nostr Curated List Instance: Generic Rating"
+        },
+        "ratingFieldsetData": {
+            "ratingFieldsetSlugs": [
+                "nostrCuratedListInstanceRatingFieldset",
+                "confidenceFieldset"
+            ],
+            "confidenceFieldsetData": {
+                "confidence": 80
+            },
+            "nostrCuratedListInstanceRatingFieldsetData": {
+                "regularSliderRating": null,
+                "contextData": {
+                    "transitivity": false,
+                    "contextDAG": {
+                        "slug": "genericRating"
+                    },
+                    "nostrParentCuratedListData": {
+                        "eventID": null,
+                        "slug": {
+                            "singular": null
+                        },
+                        "name": {
+                            "singular": null
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+```
+
+# Examples
+
+## accept/reject an item to a specific list in Curated Lists (testnet-1)
 
 ```json
 {
@@ -56,3 +116,5 @@ rating template title: Nostr Curated List Instance: Generic Rating
     }
 }
 ```
+
+## accept/reject a topic to the list of nostr topics in Curated Channels (testnet-2)

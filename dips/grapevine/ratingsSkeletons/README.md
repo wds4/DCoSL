@@ -15,3 +15,7 @@ This section contains ratings, the structures of which are being used but still 
 ### [nostrChannelTopicsCuratorEndorsement](nostrChannelTopicsCuratorEndorsement.md)
 - (JSON A) empty backbone
 
+### [nostrChannelTopicContentCreatorEndorsement](nostrChannelTopicContentCreatorEndorsement.md)
+- (JSON A) empty backbone
+
+

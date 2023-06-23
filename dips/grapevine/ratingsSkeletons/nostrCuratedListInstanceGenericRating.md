@@ -118,3 +118,64 @@ All null fields are expected to be filled out, except that setting regularSlider
 ```
 
 ## accept/reject a topic to the list of nostr topics in Curated Channels (testnet-2)
+
+```json
+{
+    "wordData": {
+        "slug": "ratingOf_football(American)-12c9_thumbsup_by_wds4-102f",
+        "wordTypes": [
+            "rating"
+        ]
+    },
+    "ratingData": {
+        "raterData": {
+            "raterType": "nostrProfile",
+            "nostrProfileData": {
+                "pubkey": "e5272de914bd301755c439b88e6959a43c9d2664831f093c51e9c799a16a102f",
+                "name": "wds4",
+                "display_name": "David Strayhorn"
+            }
+        },
+        "rateeData": {
+            "rateeType": "nostrCuratedListInstance",
+            "nostrCuratedListInstanceData": {
+                "eventID": "3b49b0769d4efc25be0e21f101160a9eecb9401f8b4abaa7650789baa75012c9",
+                "name": "football (American)",
+                "slug": "football(American)"
+            }
+        },
+        "ratingTemplateData": {
+            "ratingTemplateSlug": "nostrCuratedListInstanceGenericRating",
+            "ratingTemplateTitle": "Nostr Curated List Instance: Generic Rating"
+        },
+        "ratingFieldsetData": {
+            "ratingFieldsetSlugs": [
+                "nostrCuratedListInstanceRatingFieldset",
+                "confidenceFieldset"
+            ],
+            "confidenceFieldsetData": {
+                "confidence": 80
+            },
+            "nostrCuratedListInstanceRatingFieldsetData": {
+                "regularSliderRating": 100,
+                "contextData": {
+                    "transitivity": false,
+                    "contextDAG": {
+                        "slug": "genericRating"
+                    },
+                    "nostrParentCuratedListData": {
+                        "eventID": "ec9af0fa71b2f6c1e3556816ad7c06e6623069c04a6e486fc9312b0273697779",
+                        "slug": {
+                            "singular": "nostrTopic"
+                        },
+                        "name": {
+                            "singular": "nostr topic"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+```
+

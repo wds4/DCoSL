@@ -25,6 +25,7 @@ New word types are declared as outlined in [DIP-102](../102.md).
       "singular": "Word Type",
       "plural": "Word Types"
     },
+    "propertyPath": "wordTypeData",
     "description": "A category of word, as specified by the DCoSL protocol. The creation of a word of type: wordType is the primary method for declaration of a new list or concept."
   }
 }

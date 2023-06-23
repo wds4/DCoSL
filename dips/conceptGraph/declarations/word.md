@@ -32,6 +32,7 @@ New word types are declared as outlined in [DIP-102](../102.md).
       "singular": "Word",
       "plural": "Words"
     },
+    "propertyPath": "wordData",
     "description": "A node in a graph, formatted in json, with additional requirements and conventions specified according to the DCoSL protocol."
   }
 }

@@ -1,7 +1,11 @@
 nostrCuratedListsCuratorEndorsement
 =====
 
-## skeleton backbone 
+## skeleton 
+
+All null fields are expected to be filled out, except that setting regularSliderRating to null is used to erase a rating (e.g. if submitted on accident)
+
+JSON A:
 
 ```json
 {

@@ -31,6 +31,7 @@ New word types are declared as outlined in [DIP-102](../102.md).
       "singular": "Superset",
       "plural": "Supersets"
     },
+    "propertyPath": "supersetData",
     "description": "As specified according to the DCoSL protocol."
   }
 }

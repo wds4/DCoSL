@@ -7,10 +7,16 @@ DIPs 1100-1109
 
 Move all NIPs that are nostr related to this folder. Want to make it clear that DCoSL is independent of nostr, even though they do work well together.
 
+## Concept Graph-specific
+
 - [DIP-1100](1100.md): what goes into wordData.metaData.nostr
 - [DIP-1101](1101.md): publication of a word over nostr
 - [DIP-1102](1102.md): retrieval of a word from the nostr network
 - [DIP-1103](1103.md): stewardship
+
+## Grapevine-specific
+
+- [DIP-1104](1104.md): publication of an attestation over nostr
 
 ## Work in progress
 

@@ -12,4 +12,4 @@ This section contains ratings, the structures of which are being used but still 
 - (JSON B) usage in Curated Lists app (testnet-1) to endorse/reject a user as curator of a list
 
 
-- accept/reject a relationship between nostr topics
+accept/reject a relationship between nostr topics

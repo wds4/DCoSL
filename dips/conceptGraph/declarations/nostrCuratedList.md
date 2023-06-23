@@ -29,6 +29,7 @@
       "singular": "Nostr Curated List",
       "plural": "Nostr Curated Lists"
     },
+    "propertyPath": "nostrCuratedListData",
     "description": "A list that is created according to the DCoSL protocol."
   }
 }

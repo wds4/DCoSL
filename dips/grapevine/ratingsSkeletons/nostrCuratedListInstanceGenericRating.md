@@ -1,7 +1,7 @@
 rating template title: Nostr Curated List Instance: Generic Rating
 =====
 
-# Skeleton
+## Skeleton
 
 All null fields are expected to be filled out, except that setting regularSliderRating to null is used to erase a rating (e.g. if submitted on accident)
 
@@ -61,9 +61,7 @@ JSON A:
 }
 ```
 
-# Examples
-
-## accept/reject an item to a specific list in Curated Lists (testnet-1)
+## Example 1: accept/reject an item to a specific list in Curated Lists (testnet-1)
 
 JSON B:
 
@@ -123,7 +121,7 @@ Note that in the below, the `nostrParentCuratedListData` fields (eventID, slug, 
 }
 ```
 
-## accept/reject a topic to the list of nostr topics in Curated Channels (testnet-2)
+## Example 2: accept/reject a topic to the list of nostr topics in Curated Channels (testnet-2)
 
 JSON C:
 

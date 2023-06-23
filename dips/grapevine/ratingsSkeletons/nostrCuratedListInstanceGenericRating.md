@@ -5,6 +5,8 @@ rating template title: Nostr Curated List Instance: Generic Rating
 
 All null fields are expected to be filled out, except that setting regularSliderRating to null is used to erase a rating (e.g. if submitted on accident)
 
+JSON A:
+
 ```json
 {
     "ratingData": {
@@ -63,6 +65,8 @@ All null fields are expected to be filled out, except that setting regularSlider
 
 ## accept/reject an item to a specific list in Curated Lists (testnet-1)
 
+JSON B:
+
 ```json
 {
     "ratingData": {
@@ -118,6 +122,8 @@ All null fields are expected to be filled out, except that setting regularSlider
 ```
 
 ## accept/reject a topic to the list of nostr topics in Curated Channels (testnet-2)
+
+JSON C:
 
 ```json
 {

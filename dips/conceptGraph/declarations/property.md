@@ -71,5 +71,5 @@ or
 
 ## References
 
-- `` is introduced in [DIP-10](../10.md).
-- glossary entry: [](../../../glossary/property.md), [word type](../../../glossary/wordType.md)
+- `property` is introduced in [DIP-??](../??.md).
+- glossary entry: [property](../../../glossary/property.md), [word type](../../../glossary/wordType.md)

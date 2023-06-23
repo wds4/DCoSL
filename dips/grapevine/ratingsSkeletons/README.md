@@ -2,8 +2,10 @@ This section contains ratings, the structures of which are being used but still 
 
 # used in the Curated Lists app:
 
-- [accept/reject an item to a list](nostrCuratedListInstanceGenericRating.md)
-- [endorse/reject a user as curator of a list](nostrCuratedListsCuratorEndorsement.md)
+- 1. [accept/reject an item to a specific list](nostrCuratedListInstanceGenericRating.md)
+- 2. [endorse/reject a user as curator of a list](nostrCuratedListsCuratorEndorsement.md)
 
+# used in the Curated Nostr Channels app:
 
+- accept/reject a topic to the list of items - use 1 (above)
 

@@ -46,8 +46,8 @@
                     "oSlug",
                     "oName",
                     "oTitle",
-                    "description",
-                    "propertyPath"
+                    "propertyPath",
+                    "description"
                 ],
                 "definitions": {},
                 "properties": {
@@ -60,10 +60,10 @@
                     "oTitle": {
                         "$ref": "#/definitions/unitData"
                     },
-                    "description": {
+                    "propertyPath": {
                         "type": "string"
                     },
-                    "propertyPath": {
+                    "description": {
                         "type": "string"
                     }
                 }

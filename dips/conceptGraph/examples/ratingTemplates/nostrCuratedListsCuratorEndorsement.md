@@ -1,0 +1,3 @@
+nostrCuratedListsCuratorEndorsement
+
+Nostr Curated Lists Curator Endorsement

@@ -1,4 +1,4 @@
-nostrCuratedListInstanceGenericRating
+rating template title: Nostr Curated List Instance: Generic Rating
 =====
 
 

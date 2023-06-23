@@ -70,7 +70,7 @@ JSON A:
 }
 ```
 
-## Example: 
+## Example: usage in Curated Lists app (testnet-1) to endorse/reject a user as curator of a list
 
 JSON B:
 

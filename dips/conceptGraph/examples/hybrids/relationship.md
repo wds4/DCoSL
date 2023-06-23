@@ -27,6 +27,7 @@
       "singular": "Relationship",
       "plural": "Relationships"
     },
+    "propertyPath": "relationshipData",
     "description": "A edge bewtween two nodes in a graph, as specified according to the DCoSL protocol."
   },
   "jsonSchemaData": {

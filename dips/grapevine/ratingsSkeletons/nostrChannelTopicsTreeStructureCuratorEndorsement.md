@@ -15,6 +15,10 @@ transitive: yes
 
 referenceData: required (presumed for now to be the same as the rater)
 
+## default scoring system
+
+
+
 ## JSON
 
 ```json

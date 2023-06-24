@@ -5,6 +5,8 @@ nostrChannelTopicsTreeStructureCuratorEndorsement
 
 endorse a user as being a trusted (or not) curator of the nostr topic tree. This includes adding/removing topics from the list of topics and adding/removing topic relationships (topicA-isASubcategoryOf-topicB) to the list of relationships.
 
+## characteristics 
+
 rateeType: nostrProfile
 
 contextData: none (other than transitivity); selector not required in UX

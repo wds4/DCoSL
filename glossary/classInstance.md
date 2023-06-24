@@ -6,7 +6,4 @@ A `class instance` (a.k.a a `specific instance` or simply an `instance`) is the 
 ### synonyms: 
 class instance (of a class thread), specific instance (of a concept), instance
 
-In the diagram below, the yellow square is a [class node](classNode.md), the green circles are [class instances](classInstance.md), and each path from the yellow square to a green node is a [class thread](classThread.md)
-
-<img src="../images/concept.png" width="100%" />
 

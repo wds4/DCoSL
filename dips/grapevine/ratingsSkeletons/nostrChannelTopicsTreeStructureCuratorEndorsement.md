@@ -15,9 +15,13 @@ transitive: yes
 
 referenceData: required (presumed for now to be the same as the rater)
 
-## default scoring system
+## default scoring system 
 
+"Thumbs UP" by default means that regularSliderRating = 100, confidence = 80.
 
+"Thumbs DOWN" by default means that regularSliderRating = 0, confidence = 80.
+
+The developer has the option to provide a more complex UI to give the user the option to adjust confidence and regularSliderRating scores (between 0 and 100 in each case).
 
 ## JSON
 

@@ -24,6 +24,10 @@ JSON A:
 
 ```json
 {
+    "wordData": {
+        "slug": null,
+        "wordTypes": ["rating"]
+    },
     "ratingData": {
         "raterData": {
             "raterType": "nostrProfile",

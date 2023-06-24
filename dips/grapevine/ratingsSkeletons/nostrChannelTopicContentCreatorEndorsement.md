@@ -13,7 +13,7 @@ Rate a pubkey as being one that provides content relevant to the specified topic
 
 The developer has the option to provide a more complex UI to give the user the option to adjust confidence and regularSliderRating scores (between 0 and 100 in each case).
 
-#3 JSON
+## JSON
 
 JSON A:
 

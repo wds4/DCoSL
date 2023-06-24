@@ -23,6 +23,10 @@ The developer has the option to provide a more complex UI to give the user the o
 
 ```json
 {
+    "wordData": {
+        "slug": null,
+        "wordTypes": ["rating"]
+    },
     "ratingData": {
         "raterData": {
             "raterType": "nostrProfile",

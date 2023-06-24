@@ -19,13 +19,15 @@ This section contains ratings, the structures of which are being used but still 
 In addition to tbe below rating templates, nostrCuratedListInstanceGenericRating is also used in Channels.
 
 ### [nostrChannelTopicsCuratorEndorsement](nostrChannelTopicsCuratorEndorsement.md)
--> context/transitive: nostrTopics/yes
+-> contextData/transitive: nostrTopics/yes
 - (JSON A) empty backbone
 
 ### [nostrChannelTopicContentCreatorEndorsement](nostrChannelTopicContentCreatorEndorsement.md)
+-> contextData/transitive: 
 - (JSON A) empty backbone
 
 ### [nostrChannelTopicsTreeStructureCuratorEndorsement](nostrChannelTopicsTreeStructureCuratorEndorsement.md)
+-> contextData/transitive: 
 - (JSON A) empty backbone
 
 

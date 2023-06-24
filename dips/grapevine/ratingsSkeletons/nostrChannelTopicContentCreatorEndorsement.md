@@ -7,6 +7,8 @@ Rate a pubkey as being one that provides content relevant to the specified topic
 
 ## characteristics
 - rateeType: nostr profile
+- contextData: nostrTopic; selector required in UX
+- transitive: no
 
 ## default scoring system 
 

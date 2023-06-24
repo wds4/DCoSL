@@ -2,7 +2,7 @@
 
 STATUS OF THIS DOCUMENT: much has been added, but still much to add, and much to edit of what you currently see here.
 
-DIP-0: In DCoSL, data is represented as a [graph](../../glossary/graph.md), with [nodes](../../glossary/node.md) and [edges](../../glossary/relationship.md). A concept graph is a graph with additional structure, as described though this series of DIPs.
+DIP-00: In DCoSL, data is represented as a [graph](../../glossary/graph.md), with [nodes](../../glossary/node.md) and [edges](../../glossary/relationship.md). A concept graph is a graph with additional structure, as described though this series of DIPs.
 
 A [simple list](../../glossary/simpleList.md) (the SL in DCoSL) will be defined (in [DIP-106](106.md)) as a node with particular characteristics. The idea of a simple list will then mature into the notion of a [concept](../../glossary/concept.md) ([DIP-111](111.md)).
 

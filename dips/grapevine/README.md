@@ -1,7 +1,7 @@
 The Grapevine
 =====
 
-STATUS OF THIS SECTION: barely been started. However, you can look at Curated Lists to see the grapevine in action.
+STATUS OF THIS DOCUMENT: barely been started. However, you can look at Curated Lists to see the grapevine in action.
 
 See the list of [important concepts](importantConcepts.md).
 

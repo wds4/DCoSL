@@ -55,7 +55,6 @@ JSON A:
             },
             "nostrChannelTopicContentCreatorEndorsementFieldset": {
                 "regularSliderRating": null,
-                "referenceRegularSliderRating": 100,
                 "contextData": {
                     "transitivity": false,
                     "nostrTopicData": {

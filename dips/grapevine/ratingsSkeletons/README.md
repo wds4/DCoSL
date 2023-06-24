@@ -2,6 +2,8 @@ This section contains ratings, the structures of which are being used but still 
 
 # arrange by rating templates
 
+## Curated Lists
+
 ### [nostrCuratedListInstanceGenericRating](nostrCuratedListInstanceGenericRating.md) (testnet-1)
 - (JSON A) empty backbone
 - (JSON B) usage in Curated Lists app (testnet-1) to accept/reject an item to a specific simple list
@@ -11,6 +13,10 @@ This section contains ratings, the structures of which are being used but still 
 ### [nostrCuratedListsCuratorEndorsement](nostrCuratedListsCuratorEndorsement.md)
 - (JSON A) empty backbone
 - (JSON B) usage in Curated Lists app (testnet-1) to endorse/reject a user as curator of a list
+
+## Channels
+
+In addition to tbe below rating templates, nostrCuratedListInstanceGenericRating is also used in Channels.
 
 ### [nostrChannelTopicsCuratorEndorsement](nostrChannelTopicsCuratorEndorsement.md)
 - (JSON A) empty backbone

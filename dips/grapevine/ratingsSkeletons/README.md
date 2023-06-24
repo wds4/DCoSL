@@ -27,7 +27,7 @@ In addition to tbe below rating templates, nostrCuratedListInstanceGenericRating
 - (JSON A) empty backbone
 
 ### [nostrChannelTopicsTreeStructureCuratorEndorsement](nostrChannelTopicsTreeStructureCuratorEndorsement.md)
--> contextData/transitive: 
+-> contextData/transitive: none/yes
 - (JSON A) empty backbone
 
 

@@ -1,3 +1,83 @@
-
-nostrChannelTopicEndorsement
+nostrChannelTopicInstanceEndorsement
 =====
+
+## description
+
+Accept or reject a nostr topic as being on the list
+
+## characteristics
+- rateeType: an instance of the concept: nostrTopic
+- contextData: parent concept is fixed: nostrTopic, event id: ec9af0fa71b2f6c1e3556816ad7c06e6623069c04a6e486fc9312b0273697779
+- transitive: no
+
+## default scoring system 
+
+"Thumbs UP" by default means that regularSliderRating = 100, confidence = 80.
+
+"Thumbs DOWN" by default means that regularSliderRating = 0, confidence = 80.
+
+The developer has the option to provide a more complex UI to give the user the option to adjust confidence and regularSliderRating scores (between 0 and 100 in each case).
+
+## JSON
+
+JSON A: (new)
+
+```json
+{
+    "wordData": {
+        "slug": null,
+        "wordTypes": [
+            "rating"
+        ]
+    },
+    "ratingData": {
+        "raterData": {
+            "raterType": "nostrProfile",
+            "nostrProfileData": {
+                "pubkey": null,
+                "name": null,
+                "display_name": null
+            }
+        },
+        "rateeData": {
+            "rateeType": "nostrChannelTopicInstance",
+            "nostrChannelTopicInstanceData": {
+                "eventID": null,
+                "name": null,
+                "slug": null
+            }
+        },
+        "ratingTemplateData": {
+            "ratingTemplateSlug": "nostrChannelTopicInstanceEndorsement",
+            "ratingTemplateTitle": "Nostr Channel Topic Instance Endorsement"
+        },
+        "ratingFieldsetData": {
+            "ratingFieldsetSlugs": [
+                "nostrCuratedListInstanceRatingFieldset",
+                "confidenceFieldset"
+            ],
+            "confidenceFieldsetData": {
+                "confidence": 80
+            },
+            "nostrCuratedListInstanceRatingFieldsetData": {
+                "regularSliderRating": 100,
+                "contextData": {
+                    "transitivity": false,
+                    "contextDAG": {
+                        "slug": "genericRating"
+                    },
+                    "nostrParentCuratedListData": {
+                        "eventID": "ec9af0fa71b2f6c1e3556816ad7c06e6623069c04a6e486fc9312b0273697779",
+                        "slug": {
+                            "singular": "nostrTopic"
+                        },
+                        "name": {
+                            "singular": "nostr topic"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+```

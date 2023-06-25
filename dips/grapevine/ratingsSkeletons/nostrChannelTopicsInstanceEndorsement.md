@@ -1,4 +1,4 @@
-nostrChannelTopicInstanceEndorsement
+nostrChannelTopicsInstanceEndorsement
 =====
 
 ## description
@@ -48,18 +48,18 @@ JSON A: (new)
             }
         },
         "ratingTemplateData": {
-            "ratingTemplateSlug": "nostrChannelTopicInstanceEndorsement",
+            "ratingTemplateSlug": "nostrChannelTopicsInstanceEndorsement",
             "ratingTemplateTitle": "Nostr Channel Topic Instance Endorsement"
         },
         "ratingFieldsetData": {
             "ratingFieldsetSlugs": [
-                "nostrChannelTopicInstanceEndorsementFieldset",
+                "nostrChannelTopicsInstanceEndorsementFieldset",
                 "confidenceFieldset"
             ],
             "confidenceFieldsetData": {
                 "confidence": 80
             },
-            "nostrChannelTopicInstanceEndorsementFieldset": {
+            "nostrChannelTopicsInstanceEndorsementFieldset": {
                 "regularSliderRating": 100,
                 "contextData": {
                     "transitivity": false,

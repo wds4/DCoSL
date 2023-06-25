@@ -53,18 +53,18 @@ JSON A: (new)
         },
         "ratingFieldsetData": {
             "ratingFieldsetSlugs": [
-                "nostrCuratedListInstanceRatingFieldset",
+                "nostrChannelTopicInstanceEndorsementFieldset",
                 "confidenceFieldset"
             ],
             "confidenceFieldsetData": {
                 "confidence": 80
             },
-            "nostrCuratedListInstanceRatingFieldsetData": {
+            "nostrChannelTopicInstanceEndorsementFieldset": {
                 "regularSliderRating": 100,
                 "contextData": {
                     "transitivity": false,
                     "contextDAG": {
-                        "slug": "genericRating"
+                        "slug": null
                     },
                     "nostrParentCuratedListData": {
                         "eventID": "ec9af0fa71b2f6c1e3556816ad7c06e6623069c04a6e486fc9312b0273697779",

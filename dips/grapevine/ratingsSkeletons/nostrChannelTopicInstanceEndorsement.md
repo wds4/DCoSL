@@ -3,7 +3,7 @@ nostrChannelTopicInstanceEndorsement
 
 ## description
 
-Accept or reject a nostr topic as being on the list
+Accept or reject a proposed nostr topic as being an instance on the list of nostr channel topics, parent event id: ec9af0fa71b2f6c1e3556816ad7c06e6623069c04a6e486fc9312b0273697779 (event might be updated)
 
 ## characteristics
 - rateeType: an instance of the concept: nostrTopic

@@ -11,6 +11,7 @@ See the list of [important concepts](importantConcepts.md).
 
 For publication of attestations, ratings, etc over nostr, see the networking section on [nostr](https://github.com/wds4/DCoSL/tree/main/dips/networking/nostr)
 
+- DIP 200: averages are weighted averages 
 - [DIP-201](201.md): general format of a user 'trust' rating
 
 # UNDER CONSTRUCTION

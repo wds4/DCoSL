@@ -8,8 +8,6 @@ nostrChannelTopicsRelationshipInstanceEndorsement
 
 ## default scoring system 
 
-
-
 ## JSON
 
 ```json

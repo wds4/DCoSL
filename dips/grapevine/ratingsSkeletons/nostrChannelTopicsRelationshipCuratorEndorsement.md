@@ -3,7 +3,9 @@ nostrChannelTopicsRelationshipCuratorEndorsement
 
 # THIS RATING TEMPLATE IS BEING DEPRECATED
 
-because nostrChannelTopicsTreeStructureEndorsement covers this use case
+because nostrChannelTopicsTreeStructureCuratorEndorsement covers this use case
+
+Should nostrChannelTopicsCuratorEndorsement also be deprecated?
 
 ## Description
 

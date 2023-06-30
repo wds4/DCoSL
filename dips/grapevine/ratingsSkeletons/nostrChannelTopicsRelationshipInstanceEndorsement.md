@@ -5,12 +5,15 @@ nostrChannelTopicsRelationshipInstanceEndorsement
 
 ## characteristics 
 - rateeType: 
+- contextData: 
+- transitive:
+- referenceData:
+
 
 ## default scoring system 
 
 ## JSON
 
 ```json
-{
 
 ```

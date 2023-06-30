@@ -1,6 +1,10 @@
 nostrChannelTopicsRelationshipCuratorEndorsement
 =====
 
+# THIS RATING TEMPLATE IS BEING DEPRECATED
+
+because nostrChannelTopicsTreeStructureEndorsement covers this use case
+
 ## Description
 
 ## characteristics 

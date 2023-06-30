@@ -5,6 +5,8 @@ nostrChannelTopicsCuratorEndorsement
 
 endorse a user as being a trusted (or not) curator of a given nostr topic. Curation here means: deciding which pubkeys to associate with which nostr topics.
 
+To avoid confusion: nostrChannelTopicsCuratorEndorsement is relevant for a user to curate the content to a specific topic, NOT to determine whether a specific topic is a valid topic (which is the purvue of nostrChannelTopicsTreeStructureCuratorEndorsement).
+
 ## characteristics
 
 - rateeType: nostrProfile

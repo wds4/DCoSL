@@ -28,7 +28,13 @@ Achieve curation of a graph via curation of a few simple lists.
 
 ## Under construction
 
-## DIP-??
+## DIP-??: Trust
+
+means different things to different people. in dcosl, the definition of the wors trust is ultimately determined by how trust scores are used. In many cases this will not coincide with how others use the word; therefore, wherever possible, we will try to use more deacriptive terminology, eg instead of Alice trusts Bob" we will say "Alice endorses Bob as worthy of influence over anyone's content feed in context X."
+
+## DIP-??: Transitivity
+
+## DIP-??: Loose Consensus 
 
 Loose consensus as one of the goals
 

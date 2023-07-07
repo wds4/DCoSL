@@ -30,7 +30,7 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-12](12.md) inheritance
 
-## [DIP-13](13.md): loose consensus 
+## [DIP-13](13.md) loose consensus 
 
 ## [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 

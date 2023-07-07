@@ -1,6 +1,6 @@
 # the Grapevine: Important Concepts
 
-`The grapevine` is the term used for a web of trust that follows [DIP-01](../coreProtocol/01.md).
+`The grapevine` is the term used for a web of trust that follows [DIP-01](../coreProtocol/01.md) and [DIP-02](../coreProtocol/02.md).
 
 ### Context trees and inheritance of trust scores
 

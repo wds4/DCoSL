@@ -10,11 +10,7 @@ Data is represented as graphs: collections of nodes and edges
 
 ## [DIP-01](01.md) global scores vs personal scores
 
-Data curation using the [Principle of Relativity for the Web of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/Principle-of-Relativity-for-WoT.md).
-
 ## [DIP-02](02.md) raw data
-
-Rely on explicit statements rather than inferences from scraped data.
 
 ## [DIP-03](03.md) identifiers
 

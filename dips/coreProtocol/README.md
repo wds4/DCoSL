@@ -6,9 +6,9 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-00](00.md) graphs
 
-## [DIP-01](01.md) global scores vs personal scores
+## [DIP-01](01.md) personal vs global scores
 
-## [DIP-02](02.md) raw data
+## [DIP-02](02.md) explicit statements vs scraped data
 
 ## [DIP-03](03.md) data identifiers
 

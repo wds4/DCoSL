@@ -14,8 +14,6 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-04](04.md) lists
 
-Graphs can be represented as simple lists.
-
 ## [DIP-05](05.md) average scores
 
 Averages are weighted averages.

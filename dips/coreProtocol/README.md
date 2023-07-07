@@ -32,8 +32,6 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-13](13.md): loose consensus 
 
-Loose consensus as one of the goals
-
 ## [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 
 

@@ -1,7 +1,7 @@
 The Grapevine
 =====
 
-STATUS OF THIS DOCUMENT: barely been started. However, you can look at Curated Lists within [Pretty Good Apps](https://github.com/wds4/pretty-good) to see the grapevine in action (or see example with screenshots [here](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md)).
+STATUS OF THIS DOCUMENT: barely been started. However, you can download and play with Curated Lists within [Pretty Good Apps](https://github.com/wds4/pretty-good) to see the grapevine in action (or see example with screenshots [here](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md)).
 
 See the list of [important concepts](importantConcepts.md).
 

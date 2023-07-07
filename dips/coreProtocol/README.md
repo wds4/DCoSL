@@ -16,23 +16,23 @@ Data curation using the [Principle of Relativity for the Web of Trust](https://g
 
 Rely on explicit statements rather than inferences from scraped data.
 
-## [DIP-03](03.md) data identifiers
+## [DIP-03](03.md) identifiers
 
-This is how we avoid domain squatting
+Classification of data identifiers by domain
 
-## [DIP-04](04.md) Everything is a collection of simple lists.
+## [DIP-04](04.md) lists
 
-Achieve curation of a graph via curation of a few simple lists.
+Graphs can be represented as simple lists.
 
-## [DIP-05](05.md) Weighted averages
+## [DIP-05](05.md) average scores
 
 Averages are weighted averages.
 
-## [DIP-06](06.md) confidence
+## [DIP-06](06.md) influence
+
+## [DIP-07](07.md) confidence
 
 confidence
-
-## [DIP-07](07.md) influence
 
 ## [DIP-08](08.md) context
 

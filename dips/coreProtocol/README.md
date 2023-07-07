@@ -10,9 +10,7 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-02](02.md) raw data
 
-## [DIP-03](03.md) identifiers
-
-Classification of data identifiers by domain
+## [DIP-03](03.md) data identifiers
 
 ## [DIP-04](04.md) lists
 

@@ -16,23 +16,15 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-05](05.md) average scores
 
-Averages are weighted averages.
-
 ## [DIP-06](06.md) influence
 
 ## [DIP-07](07.md) confidence
-
-confidence
 
 ## [DIP-08](08.md) context
 
 ## [DIP-09](09.md) trust
 
-
-
 ## [DIP-10](10.md) transitivity
-
-Trust is transitive.
 
 ## [DIP-11](11.md) default settings
 

@@ -48,7 +48,7 @@ Trust is transitive.
 
 ## [DIP-12](12.md) inheritance
 
-## DIP-13: Loose Consensus 
+## [DIP-13](13.md): Loose Consensus 
 
 Loose consensus as one of the goals
 

@@ -4,7 +4,7 @@ DCoSL is the first step towards implementation of the threaded tapestry model of
 
 Note: numbering of DIPs is subject to change.
 
-## [DIP-00](00.md) the use of graphs to represent data
+## [DIP-00](00.md) graphs
 
 Data is represented as graphs: collections of nodes and edges
 

@@ -38,7 +38,7 @@ confidence
 
 ## [DIP-09](09.md) trust
 
-means different things to different people. in dcosl, the definition of the wors trust is ultimately determined by how trust scores are used. In many cases this will not coincide with how others use the word; therefore, wherever possible, we will try to use more deacriptive terminology, eg instead of Alice trusts Bob" we will say "Alice endorses Bob as worthy of influence over anyone's content feed in context X."
+
 
 ## [DIP-10](10.md) transitivity
 

@@ -6,8 +6,6 @@ Note: numbering of DIPs is subject to change.
 
 ## [DIP-00](00.md) graphs
 
-Data is represented as graphs: collections of nodes and edges
-
 ## [DIP-01](01.md) global scores vs personal scores
 
 ## [DIP-02](02.md) raw data

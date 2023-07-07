@@ -24,13 +24,17 @@ This is how we avoid domain squatting
 
 Achieve curation of a graph via curation of a few simple lists.
 
+## [DIP-05](05.md) Weighted averages
+
+Averages are weighted averages.
+
+## [DIP-06](06.md) confidence
+
+confidence
+
 ## [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 
 ## Under construction
-
-## DIP-05 Weighted averages
-
-Averages are weighted averages.
 
 ## DIP-??: Trust
 
@@ -51,7 +55,6 @@ Influence is the quantity to focus on. Introduction to the Grapevine-related cor
 Probably going to remove any reference to the word "trust" anywhere in this repo. May or may not delve into why. But basically, the word means too many things to too many people. True to a lesser extent to several other words and phrases. e.g. "influence score" screams "black mirror dystopia" to some. Whatever we call the scores, how they are used is what defines what they mean. Not what we call them.
 
 Grapevine-related core principles:
-- 05 averages are weighted averages
 - 06 confidence
 - 07 influence
 - 08 context

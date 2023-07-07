@@ -32,39 +32,27 @@ Averages are weighted averages.
 
 confidence
 
-## [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
+## [DIP-07](07.md) influence
 
-## Under construction
+## [DIP-08](08.md) context
 
-## DIP-??: Trust
+## [DIP-09](09.md) trust
 
 means different things to different people. in dcosl, the definition of the wors trust is ultimately determined by how trust scores are used. In many cases this will not coincide with how others use the word; therefore, wherever possible, we will try to use more deacriptive terminology, eg instead of Alice trusts Bob" we will say "Alice endorses Bob as worthy of influence over anyone's content feed in context X."
 
-## DIP-??: Transitivity
+## [DIP-10](10.md) transitivity
 
 Trust is transitive.
 
-## DIP-??: Loose Consensus 
+## [DIP-11](11.md) default settings
+
+## [DIP-12](12.md) inheritance
+
+## DIP-13: Loose Consensus 
 
 Loose consensus as one of the goals
 
-## DIP-?? Context-based influence
+## [DIP-infinity](infinity.md) All DIPs are crowdsourced using the DCoSL method.
 
-Influence is the quantity to focus on. Introduction to the Grapevine-related core principles. Might add either before or after DIP-04. 
-
-Probably going to remove any reference to the word "trust" anywhere in this repo. May or may not delve into why. But basically, the word means too many things to too many people. True to a lesser extent to several other words and phrases. e.g. "influence score" screams "black mirror dystopia" to some. Whatever we call the scores, how they are used is what defines what they mean. Not what we call them.
-
-Grapevine-related core principles:
-- 06 confidence
-- 07 influence
-- 08 context
-- 09 definition of trust
-- 10 transitivity 
-- 11 trees 
-- 12 default scores
-
-Maybe categorize "core protocol" DIPs as more general principles, less protocol per se:
-- networks and universally unique identifiers (move from 100b?)
-- perhaps the basic idea of a "word" should be moved here? (currently DIP-100)
 
 

@@ -2,6 +2,8 @@
 
 `The grapevine` is the term used for a web of trust that follows [DIP-01](../coreProtocol/01.md) and [DIP-02](../coreProtocol/02.md).
 
+STATUS OF THIS DOCUMENT: need to reorganize.
+
 ### Context trees and inheritance of trust scores
 
 Trust is contextual. Who manages the list of contexts? Your WoT, via DCoSL.

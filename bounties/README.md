@@ -15,7 +15,9 @@ Broken down into phases:
 
 # [Curated Graphs](./curatedGraphs)
 
-A prototype is under contstruction in Pretty Good Apps, under the name: Curated Channels. Once Curated Lists bounties are complete, bounties will be offered to refactor Curated Graphs as a web app. Other proposals will also be entertained.
+A prototype for Curated Graphs is under construction in Pretty Good Apps, currently under the name: Curated Channels. The basic idea is that a graph is composed of two lists: one list for nodes, one for edges. The basic tools for list curation can therefore be leveraged for curation of graphs.
+
+Once Curated Lists bounties are complete, bounties will be offered to refactor Curated Graphs as a web app.
 
 # Proposals
 

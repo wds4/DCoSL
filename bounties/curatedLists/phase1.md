@@ -11,7 +11,7 @@ Two options:
 
 ## Functionality
 
-Users will be given two basic actions:
+Users will be presented with two options:
 - select an existing list
 - select a "seed" user
 

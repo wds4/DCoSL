@@ -11,7 +11,7 @@ Currently Phase 1 is the only bounty that has been finalized. Bounties for subse
 
 # [Phase 1: Curated Lists explorer](./phase1.md)
 
-Create a website where users can browse existing Curated Lists and observe the results of list curation using different seed users. Compare to [listr.lol](https://listr.lol) (plus the list curation calculations, minus the log in).
+Create a website where users can browse existing Curated Lists and observe the results of list curation using different seed users.
 
 ## Bounty: 10,000,000 sats -- or make an offer!
 

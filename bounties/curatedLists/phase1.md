@@ -1,7 +1,7 @@
 Phase 1: Curated Lists explorer
 =====
 
-Create a website where users can browse existing Curated Lists and observe the results of list curation using different seed users. Compare to [listr.lol](https://listr.lol) (except that listr.lol).
+Create a website where users can browse existing Curated Lists and observe the results of list curation using different seed users.
 
 ## Bounty: 10,000,000 sats
 

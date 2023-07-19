@@ -3,9 +3,9 @@ Refactor Curated Lists as a website with better UX
 
 ## Background
 
-Curated Lists, the app in Pretty Good Apps, is the first implementation of the DCoSL procotol and arguably the first ever implementation of decentralized knowledge. 
+Curated Lists, one of the apps in the Pretty Good Apps desktop nostr client, is a proof of concept implementation of the DCoSL procotol and arguably the first ever implementation of decentralized knowledge curation.
 
-In its current form, Curated Lists is functional but needs better UX to attract users. This series of bounties is to refactor the existing functionality of Curated Lists as a website. (Possibly to add additional functionality, such as an API.)
+In its current form, Curated Lists is functional but needs better UX to attract users. This series of bounties is to refactor the existing functionality of Curated Lists as a website. (Possibly later to add additional functionality, such as an API.)
 
 # [Phase 1: Curated Lists explorer](./phase1.md)
 
@@ -55,4 +55,8 @@ There are a number of adjustable constants that are used when calculating. For P
 
 # Phase 4: visualization of the grapevine
 
+Graphical representation of the web of trust with the ability to review calculations
+
 # Phase 5: API
+
+Create an API for the website so that clients can query the site with an existing list + seed user and have returned a list of items arranged into categories: accepted, rejected, or pending. This service could potentially be monetized, x sats per query, to support the website and further development of the DCoSL protocol.

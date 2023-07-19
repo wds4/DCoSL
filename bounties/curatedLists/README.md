@@ -16,10 +16,10 @@ Create a website where users can browse existing Curated Lists and observe the r
 # [Phase 2: User sign-in and data submission](./phase2.md)
 
 Allow users to sign in (standard nostr tools such as getalby) to that they can:
-- make new lists
-- add items to existing lists
-- endorse/reject items
-- endorse/reject curators
+- make new lists (kind: 9901)
+- add items to existing lists (kind: 9901)
+- endorse/reject items (kind: 39901)
+- endorse/reject list curators (kind: 39901)
 
 ## Bounty: to be determined
 

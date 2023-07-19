@@ -6,8 +6,10 @@ Create a website where users can browse existing Curated Lists and observe the r
 ## Bounty: 10,000,000 sats
 
 Two options:
-- you create your own repo / website. Bounty paid once site fully functional.
-- For additional 2,000,000 sats bonus: Build on my repository (AGPL-3.0) and I will host website on dcosl.com. Bounty (including bonus) paid once PR is accepted. 
+- you create your own repo, run your own website. Bounty paid once site fully functional.
+- For additional 2,000,000 sats bonus: Build on my repository (AGPL-3.0) and I will host the website (perhaps on dcosl.com). Bounty (including bonus) paid once PR is accepted. 
+
+If you like, we can pick someone we both know in the community to be the judge for when the bounty has been met.
 
 ## Functionality
 

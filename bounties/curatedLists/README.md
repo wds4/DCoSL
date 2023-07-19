@@ -1,4 +1,4 @@
-Refactor the app: Curated Lists as a website.
+Refactor Curated Lists as a website with better UX
 =====
 
 ## Background

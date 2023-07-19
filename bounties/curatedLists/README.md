@@ -9,7 +9,7 @@ In its current form, Curated Lists is functional but needs better UX to attract 
 
 # [Phase 1: Curated Lists explorer](./phase1.md)
 
-Create a website where users can explore existing lists and list items. Comparable to lists.lol.
+Create a website where users can explore existing Curated Lists. Compare to [listr.lol](https://listr.lol).
 
 ## Bounty: 10,000,000 sats
 

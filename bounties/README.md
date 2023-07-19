@@ -7,6 +7,10 @@ This is a list of bounties related to DCoSL and Pretty Good Apps. They will be s
 
 Refactor Curated Lists (which is currently functional in Pretty Good Apps desktop client) as a website (perhaps a progressive web app?) and with better UX.
 
+Phase 1 - Explorer: 10,000,000 sats
+
+(additional phases, to be determined)
+
 # [Curated Graphs](./curatedGraphs)
 
-A prototype has not yet been built in Pretty Good Apps, but work is in progress.
+A prototype is under contstruction in Pretty Good Apps, under the name: Curated Channels.

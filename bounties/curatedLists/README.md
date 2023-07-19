@@ -17,7 +17,7 @@ Create a website where users can browse existing Curated Lists and observe the r
 
 Allow users to sign in (standard nostr tools such as getalby) to that they can:
 - make new lists
-- add list items
+- add items to existing lists
 - endorse/reject items
 - endorse/reject curators
 

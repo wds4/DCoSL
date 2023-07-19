@@ -1,7 +1,7 @@
 Bounties
 =====
 
-This is a list of bounties related to DCoSL and Pretty Good Apps.
+This is a list of bounties related to DCoSL and Pretty Good Apps. They will be submitted to [nostr bounties](https://nostrbounties.com).
 
 # [Curated Lists](./curatedLists)
 

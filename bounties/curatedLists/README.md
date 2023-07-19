@@ -11,7 +11,7 @@ In its current form, Curated Lists is functional but needs better UX to attract 
 
 Create a website where users can browse existing Curated Lists and observe the results of curation using different seed users. Compare to [listr.lol](https://listr.lol) (plus the list curation calculations, minus the log in).
 
-## Bounty: 10,000,000 sats
+## Bounty: 10,000,000 sats -- or make an offer!
 
 # [Phase 2: User sign-in and data submission](./phase2.md)
 

@@ -31,7 +31,7 @@ There are a number of adjustable constants that are used when calculating. For P
 
 # [Phase 4: visualization of the grapevine](./phase4.md)
 
-Graphical representation of the web of trust with the ability to review calculations
+Graphical representation of the web of trust with the ability to review the calculations of weighted averages for individual List Curators and List Items
 
 ## Bounty: to be determined
 

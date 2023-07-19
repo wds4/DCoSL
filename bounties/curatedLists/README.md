@@ -7,7 +7,7 @@ Curated Lists, the app in Pretty Good Apps, is the first implementation of the D
 
 In its current form, Curated Lists is functional but needs better UX to attract users. This series of bounties is to refactor the existing functionality of Curated Lists as a website. (Possibly to add additional functionality, such as an API.)
 
-# Phase 1: read-only
+# [Phase 1: read-only](./phase1.md)
 
 Create a website where users can explore existing lists. Comparable to lists.lol.
 

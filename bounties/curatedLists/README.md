@@ -23,7 +23,7 @@ Allow users to sign in (standard nostr tools such as getalby) to that they can:
 
 ## Bounty: to be determined
 
-# [Phase 3: add Control Panel for the grapevine](./phase3.md)
+# [Phase 3: add the grapevine Control Panel](./phase3.md)
 
 There are a number of adjustable constants that are used when calculating. For Phase 1, default values will be used for all constants. For this phase, a control panel will be added which allows the user to adjust constants and observe the change in real time on list curation.
 

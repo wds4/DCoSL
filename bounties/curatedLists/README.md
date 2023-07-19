@@ -13,10 +13,6 @@ Create a website where users can explore existing lists and list items. Comparab
 
 ## Bounty: 10,000,000 sats
 
-<hr />
-
-The following phases may be restructured following the succussful completion of phase 1, and their bounties are to be determined.
-
 # Phase 2: User sign-in and data submission
 
 Allow users to sign in (getalby or some similar method) to that they can:

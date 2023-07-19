@@ -11,6 +11,8 @@ Refactor Curated Lists (which is currently functional as an app in the Pretty Go
 
 ## Phases 2-5 bounties: to be determined
 
+Basically, this thing is already built and working. All you have to do is copy it and give it a great UX.
+
 # [Curated Graphs](./curatedGraphs)
 
 A prototype is under contstruction in Pretty Good Apps, under the name: Curated Channels. Once Curated Lists bounties are complete, bounties will be offered to refactor Curated Graphs as a web app. Other proposals will also be entertained.

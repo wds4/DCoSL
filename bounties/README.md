@@ -11,7 +11,7 @@ Refactor Curated Lists (which is currently functional as an app in the Pretty Go
 
 ## Phases 2-5 bounties: to be determined
 
-Basically, this thing is already built and working. All you have to do is copy it and give it a great UX.
+Basically, this thing is already built as a desktop app. All you have to do is rebuild it as a wb app and give it a great UX.
 
 # [Curated Graphs](./curatedGraphs)
 

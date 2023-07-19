@@ -33,7 +33,7 @@ There are a number of parameters that are used when calculating weighted average
 
 # [Phase 4: visualization of the grapevine](./phase4.md)
 
-Graphical representation of the web of trust with the ability to review the calculations of weighted averages for individual List Curators and List Items
+Graphical representation of the web of trust with the ability to review the calculations of weighted averages for individual List Curators and List Items. Currently, the visjs javascript library is used by Pretty Good Apps for visualization. This or some other method may be used for this bounty.
 
 ## Bounty: to be determined
 

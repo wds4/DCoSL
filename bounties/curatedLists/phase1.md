@@ -1,6 +1,6 @@
-Phase 1:
+Phase 1: Curated Lists explorer
 =====
-Create a website where users can explore existing lists. Comparable to lists.lol.
+Create a website where users can explore existing lists and list items. Comparable to lists.lol.
 
 ## Bounty: 10,000,000 sats
 

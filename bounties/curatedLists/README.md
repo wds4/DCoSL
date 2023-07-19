@@ -1,4 +1,4 @@
-Refactor Curated Lists as a website with better UX
+Refactor Curated Lists as a website
 =====
 
 ## Background

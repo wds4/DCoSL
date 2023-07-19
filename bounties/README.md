@@ -13,4 +13,8 @@ Phases 2-5 bounties: to be determined
 
 # [Curated Graphs](./curatedGraphs)
 
-A prototype is under contstruction in Pretty Good Apps, under the name: Curated Channels.
+A prototype is under contstruction in Pretty Good Apps, under the name: Curated Channels. Once Curated Lists bounties are complete, bounties will be offered to refactor Curated Graphs as a web app. Other proposals will also be entertained.
+
+# Proposals
+
+Have your own proposal for how you can implement DCoSL as a project? Contact me with your ideas! A limited amount of funding may be available for awesome ideas. Feel free to spitball if you're not sure!

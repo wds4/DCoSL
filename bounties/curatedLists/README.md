@@ -15,7 +15,7 @@ Create a website where users can browse existing Curated Lists and observe the r
 
 # [Phase 2: User sign-in and data submission](./phase2.md)
 
-Allow users to sign in (getalby or some similar method) to that they can:
+Allow users to sign in (standard nostr tools such as getalby) to that they can:
 - make new lists
 - add list items
 - endorse/reject items

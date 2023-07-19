@@ -19,11 +19,13 @@ An example would be:
 
 Relevant DIPs are in progress.
 
+Phases will mirror the phases of Curated Lists.
+
 # Phase 1: Curated Graph explorer
 
 Users can explore existing Curated Graphs and view curation using different seed users but cannot sign in or add new data. Sample data will need to be created by the developers for this phase.
 
-# Phase 2: 
+# Phase 2: user sign-in and data submission
 
 - create new Curated Graph
 - add items to the associated Curated List

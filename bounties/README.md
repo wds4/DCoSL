@@ -9,7 +9,7 @@ Refactor Curated Lists (which is currently functional as an app in the Pretty Go
 
 Basically, this thing is already built as a desktop app. All you have to do is rebuild it as a web app and give it a great UX.
 
-## Phase 1 (Curated Lists explorer, very basid) bounty: 10,000,000 sats, or make me an offer
+## Phase 1 (basic Curated Lists explorer) bounty: 10,000,000 sats, or make me an offer
 
 ## Phases 2-5 bounties: to be determined
 

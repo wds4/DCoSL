@@ -15,20 +15,21 @@ Users will be presented with two options:
 - select an existing list
 - select a "seed" user
 
-Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. Upon selecting a list, the website will display list data: description, who submitted the list, and when. In addition, there will be a list of all items that have been submitted to the list.
+Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, there will be a list of all items that have been submitted to the list.
 
 Upon selecting a list and a seed user, the website will sort submitted items into three categories: ACCEPTED, REJECTED, and PENDING. The user will discover that changing seed user results in items being sorted differently. This will showcase DIP-01, which is one of the foundational principles of DCoSL.
 
 ## tech details
 
-Data will be acquired via DCoSL testnet-1, with lists and list items kind 9901 and curator and item endorsements kind 39901 events. Currently, these notes can only be created using the Pretty Good Apps desktop client.
+Data will be acquired via DCoSL testnet-1, with lists and list items kind 9901 and curator and item endorsements kind 39901 events. Currently, these notes can only be created using the Pretty Good Apps desktop client. Relays that support NIPs (?) are suggested (-- currently included in default relays in PGA).
 
-Probably the most challenging aspect of this will be the calculations that go into curation. 
+Probably the most challenging aspect of this bounty will be the calculations that support list curation. Calculations consist primarily of calculating trust scores for curators and item scores for submitted items, each score being a weighted average. A display of how these calculations are performed can be found on the Pretty Good Apps desktop client. For reference, see also (link to files in PGA repo).
+
+## assistance
+
+I will be available to bouty hunters to clarify how Curated Lists currently works. Currently I am in the process of fleshing out these details into the DCoSL protocol. Your questions will help me to make the protocol more clear and more thorough.
 
 ## bonus
 
 allow users to explore structures of notes -- useful for developers (+ 1,000,000 sats)
 
-<hr />
-
-The following phases may be restructured following the succussful completion of phase 1, and their bounties are to be determined.

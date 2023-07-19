@@ -27,7 +27,7 @@ Allow users to sign in to the website (using standard nostr tools such as getalb
 
 # [Phase 3: add the grapevine Control Panel](./phase3.md)
 
-There are a number of adjustable constants that are used when calculating. For Phase 1, default values will be used for all constants. For this phase, a control panel will be added which allows the user to adjust constants and observe the change in real time on list curation.
+There are a number of parameters that are used when calculating weighted averages. For Phase 1, default values will be used for all constants. For this phase, a control panel will be added which allows the user to adjust constants and observe the change in real time on list curation. This can be modeled after the control panel currently in use in Pretty Good Apps.
 
 ## Bounty: to be determined
 

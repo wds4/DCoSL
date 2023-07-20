@@ -4,7 +4,7 @@
 
 Duplicate the existing functionality of the Curated Lists desktop app (part of [Pretty Good Apps](https://github.com/wds4/pretty-good) nostr desktop client) as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer, to see what lists and list items have been submitted to the network (currently can only do submissions using the PGA client), but without full functionality. The actual curation of the lists (determining which items are accepted or rejected by the reference user's web of trust) is more complex but will not be required to collect the Phase 1 bounty.
 
-Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good UX skllls. For those inexperienced, this project could be a chance to learn some nostr basics while stacking a few sats!
+Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good UX skllls. For those newer to nostr, this project could be a chance to learn some nostr basics while stacking a few sats!
 
 ## Bounties: 
 - [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 10,000,000 sats (+ optional 2,000,000 sats bonus; see below)

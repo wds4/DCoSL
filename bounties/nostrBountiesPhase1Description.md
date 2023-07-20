@@ -7,7 +7,7 @@ Duplicate the existing functionality of the Curated Lists desktop app (part of [
 Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good UX skllls. For those newer to nostr, this project could be a chance to learn some nostr basics while stacking a few sats!
 
 ## Bounties: 
-- [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 10,000,000 sats (+ optional 2,000,000 sats bonus; see below)
+- [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 10,000,000 sats (+ up to 4,000,000 sats in bonuses; see below)
 - [additional phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists): to be determined
 
 ## Background
@@ -20,11 +20,38 @@ Rather than improve the UX of the existing desktop client (UX not being my stron
 
 ## Functionality for Phase 1
 
-Sign-in with a nostr key will not be required for Phase 1 (probably not until Phase 3). Visitors to the site will be presented with two options:
-- select an existing list
+The web app will download 4 types of events (Pretty Good Apps client makes it easy for you to see in detail how these events are formatted) 
+- lists: kind: 9901, `s` tag: `nostrCuratedList`
+- list items: kind 9901, `e` tag which corresponds to the event ID of the parent lis
+- endorsement of list item: kind 39901,
+- endorsement of user as a curator of a given list: kind 39901,
+
+## User experience
+
+UX is not my forte so I will be looking for someone with good design instincts.
+
+Sign-in with a nostr key will not be required for Phase 1 (probably not until Phase 3).
+
+Visitors to the site will be presented with two options:
+- select an existing list 
 - select a reference ("seed") user
-  
-Existing lists are events that have been posted as kind: 9901 and with `s` tag: `nostrCuratedList`. (Pretty Good Apps client makes it easy for you to see in detail how these events are formatted.) 
+
+### list selection
+
+All valid lists should be selectable. 
+
+For initial rollout, with only a small number of lists to choose from, a simple drop-down menu would suffice. But once the number of lists increases, it will likely be desirable to make lists searchable by list name, list decription, author, date of submission, list event ID, and number of items. 
+
+Once phase 2 is implemented, several other curation-related parameters could also be useful for search (e.g. to select for lists depending on how many ratings from trusted users have been received).
+
+Once a list is selected, the viewer should be able to see list details, including:
+- list name
+- list description
+- list author, with concise author details (icon, name, etc)
+- date of list submission
+- optional: Bonus #2 list information
+
+### seed user selection
 
 After making selections for list and seed user, the site will display:
 - basic list information, including list name, list description, the author of the list, and when it was created

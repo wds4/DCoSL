@@ -17,7 +17,7 @@ Unlike NIP-51, there is no concept of a list owner. You do not have to be the au
 
 Lists and list items are submitted using kind 9901 (regular events). Attestations are submitted using kind 39901 (parameterized replaceable events).
 
-Each event packages a json object called a `word` in the `ccontent` field. The notion of a `word` is central to the concept graph section of the DCoSL protocol and is explained in the draft version for [DIP-100](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/100.md). 
+Each event packages a json object called a `word` in the event's `content` field. The notion of a `word` is foundational to the concept graph section of the DCoSL protocol and is explained in the draft version for [DIP-100](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/100.md). 
 
 Examples of words for each of the 4 event types are provided below.
 

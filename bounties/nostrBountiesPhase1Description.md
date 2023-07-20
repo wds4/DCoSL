@@ -1,5 +1,16 @@
-# Refactor the desktop app, Curated Lists, as a web app
+Refactor the desktop app, Curated Lists, as a web app
+=====
+Implement the [phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for curated lists. Follow the link for details.
+-----
 
+## Overview
+
+Currently Curated Lists exists as a functioning app in the Pretty Good Apps nostr desktop client. Phase 1 will be the first in a series of bounties to refactor this app as a web app with superior UX.
+
+## Bounties: 
+- [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 15,000,000 sats (+ up to 3,000,000 sats in bonuses; see below)
+- [additional phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists): to be determined
+- 
 ## Background
 
 Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an exploratory proof of concept implementation of the first steps of the protocol for [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/dcosl).
@@ -12,9 +23,7 @@ Duplicate the existing functionality of the Curated Lists desktop app, currently
 
 Needs to be great UX for the full bounty. Including with thought given to future dev of the site. We will pick someone to judge.
 
-## Bounties: 
-- [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 15,000,000 sats (+ up to 3,000,000 sats in bonuses; see below)
-- [additional phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists): to be determined
+
 
 ## what I'm looking for
 

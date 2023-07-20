@@ -14,7 +14,7 @@ Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4
 
 In its current form, Curated Lists is functional but needs better UX to attract users and gain visibility. A series of bounties is envisioned to refactor the existing functionality of Curated Lists as a website (and maybe eventually to add some additional functionality, such as an API).
 
-Rather than improve the UX of the existing desktop client (UX not being my strong suit), I would like to focus on fleshing out the repo for the DCoSL protocol itself, which is woefully incomplete. I would also like to author and submit a NIP that might act as a bridge between nostr and dcosl. For now, the best record of the dcosl protocol is its implementation the desktop client.
+Rather than improve the UX of the existing desktop client (UX not being my strong suit), I would like to focus on fleshing out the repo for the DCoSL protocol itself, which is woefully incomplete. I would also like to author and submit a NIP that might act as a bridge between nostr and dcosl. For now, the best record of the dcosl protocol is its implementation in the Pretty Good Apps desktop client.
 
 This 10 mil sat bounty refers to [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md), a basic Curated Lists explorer. Visitors to the site should be able to view existing Curated Lists and list items that have been broadcast as kind: 9901 and 39901 using the DCoSL protocol [DIP 1101](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1101.md), somewhat analogous to [listr.lol](listr.lol) for NIP-51 lists. Follow the [link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for additional details.
 

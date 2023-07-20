@@ -1,13 +1,13 @@
 # Refactor the desktop app, Curated Lists, as a web app
 
-## Bounties: 
-- Phase 1 only: 10,000,000 sats
-- additional phases: to be determined
-
 ## Overview
 
 Duplicate the existing functionality of the Curated Lists desktop app as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer without full functionality. The actual curation of the lists (determining which items are accepted or rejected by your web of trust) will not be required to get the Phase 1 bounty.
 
+## Bounties: 
+- Phase 1 only: 10,000,000 sats
+- additional phases: to be determined
+- 
 ## Background
 
 Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an initial proof of concept implementation of the [DCoSL](https://github.com/wds4/dcosl) procotol, the ultimate goal of which is a general framework for the decentralized representation and curation of knowledge.

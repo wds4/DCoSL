@@ -13,8 +13,6 @@ Currently Phase 1 is the only bounty that has been finalized. Bounties for subse
 
 Create a website where users can browse existing lists, list items, and relevant attestations. Phase 1 implementation will be relatively straightforward and will not require detailed understanding of the complex aspects of the DCoSL protocol. Just download kind 9901 and 39901 events and display them with a good UX! The actual curation itself (segregation of items into bins according to whether they have been accepted or rejected by the reference user's web of trust) will not be implemented until Phase 2. 
 
-## Bounty: 10,000,000 sats -- or make an offer!
-
 # [Phase 2: Curation](./phase2.md)
 
 After selecting a list and a seed user, visitors to the site will observe the results of list curation. This will require a deep dive into the grapevine section of the DCoSL protocol. Although the protocol repo is still a work in progress, the Pretty Good Apps client provides a working example to see how exactly these calculations are made.

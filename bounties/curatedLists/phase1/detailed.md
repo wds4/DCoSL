@@ -8,15 +8,7 @@ STATUS OF THIS DOCUMENT: under construction
 
 I'd be happy to designate a prearranged mutual acquaintance within the nostr community as arbiter to determine when bounty requirements have been met.
 
-## Bonuese
 
-### Bonues 1: repo; + 2 mil sats
-
-(see above)
-
-### Bonus 2: additional detail for nostr nerds; + 2 mil sats
-
-Only if you can figure out how to do this without detracting from the overall UX. Make it so that users who are devs can explore the events and words. See pic of how I do this in Pretty Good Apps.
 
 ## More info
 

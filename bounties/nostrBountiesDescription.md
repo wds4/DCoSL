@@ -6,7 +6,7 @@ Duplicate the existing functionality of the Curated Lists desktop app as a web a
 
 ## Bounties: 
 - Phase 1 only: 10,000,000 sats
-- additional phases: to be determined
+- [additional phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists): to be determined
 
 ## Background
 

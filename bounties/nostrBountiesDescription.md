@@ -20,11 +20,20 @@ This 10 mil sat bounty refers to [Phase 1](https://github.com/wds4/DCoSL/blob/ma
 
 ## Functionality for Phase 1
 
-Users will be presented with two options:
+Visitors to the site will be presented with two options:
 - select an existing list
 - select a "seed" user
   
 Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, there will be a list of all items that have been submitted to the list.
 
+The options for seed user will consist of all users who have received attestations as Curators of that particulat list (kind: 39901 events). In addition, the visitor should have the ability to add any arbitrary npub as seed user.
+
+After making selections for list and seed user, the site will display:
+- basic list information, including list name, list description, the author of the list, and when it was created
+- all items that have been submitted to that list, with the ability to view the item name, item description, author of the item, and date of submission
+
+In addition, the viewer should be able to review all attestations relevant to the selected list.
+
+The above should have an easy to navigate UX. Notably, the actual curation of list items (segregation into accepted, rejected, and pending) does not need to be implemented until Phase 2. However, the UX of Phase 1 should be designed with Phase 2 in mind.
 
 See the [overview](https://github.com/wds4/DCoSL/tree/main/bounties) of DCoSL and Pretty Good Apps bounties (including a roadmap for future bounties beyond this one).

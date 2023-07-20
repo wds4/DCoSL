@@ -10,8 +10,16 @@ In its current form, Curated Lists is functional but needs better UX to attract 
 
 Rather than improve the UX of the existing desktop client (UX being not my strong suit), I would like to focus on fleshing out the repo for the DCoSL protocol itself, which is woefully incomplete. For now, the best record of the protocol is its implementation the desktop client.
 
-This 10 mil sat bounty refers to [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md), a basic Curated Lists explorer. Users will be able to view existing Curated Lists that have been broadcast using the DCoSL protocol [DIP 1101](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1101.md), somewhat analogous to [listr.lol](listr.lol) for NIP-51 lists. Follow the [link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for additional details.
+This 10 mil sat bounty refers to [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md), a basic Curated Lists explorer. Visitors to the site should be able to view existing Curated Lists and list items that have been broadcast as kind: 9901 and 39901 using the DCoSL protocol [DIP 1101](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1101.md), somewhat analogous to [listr.lol](listr.lol) for NIP-51 lists. Follow the [link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for additional details.
 
-The primary challenge will probably be 
+## Functionality
+
+Users will be presented with two options:
+- select an existing list
+- select a "seed" user
+  
+Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, there will be a list of all items that have been submitted to the list.
+
+Probably the most challenging aspect of this bounty will be the calculations that support list curation. Calculations consist primarily of calculating trust scores for curators and item scores for submitted items, each score being a weighted average. A display of how these calculations are performed can be found on the Pretty Good Apps desktop client. For reference, see also (link to files in PGA repo).
 
 See the [overview](https://github.com/wds4/DCoSL/tree/main/bounties) of DCoSL and Pretty Good Apps bounties (including a roadmap for future bounties beyond this one).

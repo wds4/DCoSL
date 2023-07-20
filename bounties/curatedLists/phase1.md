@@ -1,6 +1,8 @@
 Phase 1: Curated Lists explorer
 =====
 
+STATUS OF THIS DOCUMENT: under construction
+
 ## Overview
 
 Duplicate the existing functionality of the Curated Lists desktop app (part of [Pretty Good Apps](https://github.com/wds4/pretty-good) nostr desktop client) as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer, to see what lists, list items, and attestations have been submitted to the network (via the PGA client), but without the full functionality of Curated Lists. The actual curation of the lists (determining which items are accepted or rejected by the reference user's web of trust) is more complex and will not be required to collect the Phase 1 bounty (but will probably be the core of Phase 2).

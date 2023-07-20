@@ -3,7 +3,7 @@ Phase 1: Curated Lists explorer
 
 STATUS OF THIS DOCUMENT: under construction
 
-See ([Phase 1 overview](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md)).
+See [Phase 1 overview](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md).
 
 ## Pretty Good Apps functionality relevant to Phase 1
 

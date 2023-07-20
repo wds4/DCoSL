@@ -15,13 +15,11 @@ Currently Curated Lists exists as a functioning app in the [Pretty Good Apps nos
 
 ## Background
 
-Curated Lists, one of the apps in the [Pretty Good Apps nostr desktop client](https://github.com/wds4/pretty-good), is an exploratory proof of concept implementation of the first steps of the protocol for [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/dcosl).
+Curated Lists, one of the apps in the [Pretty Good Apps nostr desktop client](https://github.com/wds4/pretty-good), is a basic proof of concept implementation of the protocol for [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/dcosl).
 
 The ultimate goal of DCoSL is to establish a roadmap to build tools for users to crowdsource knowledge by delegating the curation of information to one's web of trust. To do this well is a complex problem, but one that I have put a lot of thought into over the years, and I believe that I have a tractable roadmap. The purpose of building this webapp is to generate feedback and discussion of some of these ideas by putting them into production.
 
-In its current form, Curated Lists is functional but needs significantly improved UX to attract users and gain visibility. A series of bounties is envisioned to refactor the existing functionality of Curated Lists as a website (and maybe eventually to add some additional functionality, such as an API).
-
-Duplicate the existing functionality of the Curated Lists desktop app, currently part of the [Pretty Good Apps](https://github.com/wds4/pretty-good) nostr desktop client, as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer, to see what lists, list items, and attestations have been submitted to the network (via the PGA client), but without the full functionality of Curated Lists. The actual curation of the lists (determining which items are accepted or rejected by the reference user's web of trust) is more complex and will not be required to collect the Phase 1 bounty (but will probably be the core of Phase 2).
+In its current form, Curated Lists is functional but needs significantly improved UX to attract users and gain visibility. I will be rolling out a series of bounties to refactor the existing functionality of Curated Lists as a website (and maybe eventually to add some additional functionality, such as an API). Phase 1 bounty will be a simple Lists explorer that will allow visitors to browse existing lists, list items, and attestations that have been submitted to the nostr network (via the PGA client), but without the full functionality of Curated Lists. The actual curation of the lists (determining which items are accepted or rejected by the reference user's web of trust) is more complex and will not be required to collect the Phase 1 bounty (but will probably be the core of Phase 2).
 
 Needs to be great UX for the full bounty. Including with thought given to future dev of the site. We will pick someone to judge.
 

@@ -9,7 +9,7 @@ In its current form, Curated Lists is functional but needs better UX to attract 
 
 Currently Phase 1 is the only bounty that has been finalized. Bounties for subsequent phases will be finalized upon the successful completion of Phase 1.
 
-# [Phase 1: a basic Lists explorer](./phase1.md)
+# [Phase 1: a basic explorer for lists, list items, and attestations](./phase1.md)
 
 Create a website where users can browse existing lists, list items, and relevant attestations. Phase 1 implementation will be relatively straightforward and will not require detailed understanding of the complex aspects of the DCoSL protocol. Just download kind 9901 and 39901 events and display them with a good UX! The actual curation itself (segregation of items into bins according to whether they have been accepted or rejected by the reference user's web of trust) will not be implemented until Phase 2. 
 

@@ -23,7 +23,9 @@ Duplicate the existing functionality of the Curated Lists desktop app, currently
 
 Needs to be great UX for the full bounty. Including with thought given to future dev of the site. We will pick someone to judge.
 
+## Why DCoSL?
 
+A heck of a lot of information can be represented using graphs. Any individual graph can be specified in full using nothing more than two lists: one list for nodes and one list for edges. If we can figure a way to crowdsource a simple list in a genuinely decentralized fashion, then we can crowdsource a graph. And if we can crowdsource a graph, we can crowdsource just about anything.
 
 ## what I'm looking for
 

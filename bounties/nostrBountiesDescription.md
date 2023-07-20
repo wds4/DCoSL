@@ -1,10 +1,10 @@
 # Refactor the desktop app, Curated Lists, as a web app
 
-## Bounty (Phase 1): 10,000,000 sats
+## Bounty (Phase 1 only): 10,000,000 sats
 
 ## Overview
 
-Duplicate the existing functionality of the Curated Lists desktop app as a web app. Phase 1 will be a simple Curated Lists explorer without full functionality.
+Duplicate the existing functionality of the Curated Lists desktop app as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer without full functionality. The actual curation of the lists (determining which items are accepted or rejected by your web of trust) will not be required to get the Phase 1 bounty.
 
 ## Background
 
@@ -16,7 +16,7 @@ Rather than improve the UX of the existing desktop client (UX being not my stron
 
 This 10 mil sat bounty refers to [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md), a basic Curated Lists explorer. Visitors to the site should be able to view existing Curated Lists and list items that have been broadcast as kind: 9901 and 39901 using the DCoSL protocol [DIP 1101](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1101.md), somewhat analogous to [listr.lol](listr.lol) for NIP-51 lists. Follow the [link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for additional details.
 
-## Functionality
+## Functionality for Phase 1
 
 Users will be presented with two options:
 - select an existing list
@@ -24,6 +24,5 @@ Users will be presented with two options:
   
 Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, there will be a list of all items that have been submitted to the list.
 
-Probably the most challenging aspect of this bounty will be the calculations that support list curation. Calculations consist primarily of calculating trust scores for curators and item scores for submitted items, each score being a weighted average. A display of how these calculations are performed can be found on the Pretty Good Apps desktop client. For reference, see also (link to files in PGA repo).
 
 See the [overview](https://github.com/wds4/DCoSL/tree/main/bounties) of DCoSL and Pretty Good Apps bounties (including a roadmap for future bounties beyond this one).

@@ -7,7 +7,7 @@ See Phase 1 overview (link).
 
 ## Pretty Good Apps functionality relevant to Phase 1
 
-Follow [this link](pgaFunctionality.md).
+Follow [this link](pgaFunctionality.md) to see how lists, list items, and attestations are formatted and stored in nostr. These will be the core of the data displayed in Phase 1. They can be downloaded by filtering for kinds 9901 (lists and list items) and 39901 (attestations).
 
 ## User experience
 

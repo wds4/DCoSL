@@ -12,19 +12,9 @@ Needs to be great UX for the full bounty. Including with thought given to future
 
 ## what I'm looking for
 
-I'm looking for someone who is adept at web apps, react, and **most importantly: excellent at design and UX** (which are my weak points!)
+I'm looking for someone who is adept at web apps, react, and **most importantly: excellent at design and UX**.
 
-Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good UX skllls. For those newer to nostr, this project could be a chance to learn some nostr basics while stacking a few sats!
-
-I have provided lots of detail. If you're an experienced nostr dev, you could probably whip this out pretty quickly. If you're an experienced dev but new to nostr and looking to learn, this could be a good way to become familiar while stacking a few sats!
-
-## Background
-
-Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an exploratory proof of concept implementation of the [DCoSL](https://github.com/wds4/dcosl) procotol, the ultimate goal of which is to build tools for users to crowdsource data by delegating the curation of information to one's web of trust. To do this well is a complex problem, but one that I have put a lot of thought into over the years.
-
-In its current form, Curated Lists is functional but needs better UX to attract users and gain visibility. A series of bounties is envisioned to refactor the existing functionality of Curated Lists as a website (and maybe eventually to add some additional functionality, such as an API).
-
-Rather than improve the UX of the existing desktop client (UX not being my strong suit), I would like to focus on fleshing out the repo for the DCoSL protocol itself, which is woefully incomplete. I would also like to author and submit a NIP that might act as a bridge between nostr and dcosl. For now, the best reference for the dcosl protocol is its implementation in the Pretty Good Apps desktop client.
+Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good UX skllls. To make it easy for you to bang this out quickly, I provide a [detailed overview](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md). If you're an experienced dev but new to nostr and looking to learn, this could be a good way to become familiar while stacking a few sats!
 
 ## More info
 

@@ -22,15 +22,17 @@ Sign-in with a nostr key will not be required for Phase 1 (probably not until Ph
 - select an existing list
 - select a "seed" user
   
-Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. (Pretty Good Apps will make it easy for you to see how these events are formatted.) Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, visitors should see a list of all items that have been submitted to the list, and should be able to view for each item the item name, item description, item author, and date of item submission.
-
-The options for seed user will consist of all users who have received attestations as Curators of that particulat list (kind: 39901 events). In addition, the visitor should have the ability to add any arbitrary npub as seed user.
+Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. (Pretty Good Apps will make it easy for you to see how these events are formatted.) 
 
 After making selections for list and seed user, the site will display:
 - basic list information, including list name, list description, the author of the list, and when it was created
-- all items that have been submitted to that list, with the ability to view the item name, item description, author of the item, and date of submission
+- all items that have been submitted to that list, with the ability to view each item name, item description, author of the item, and date of submission
 
-In addition, the viewer should be able to review all attestations relevant to the selected list.
+In addition, the viewer should be able to review all attestations relevant to the selected list. Attestations are submitted as kind: 39901 events. (Pretty Good Apps will make it easy for you to see how these events are formatted.) There are two types of attestations:
+- endorse (or reject) an item as "belonging" or not belonging on the list to which it is submitted
+- endorse (or reject) a user as being a trusted (or not) curator of that particular list
+
+The options for seed user will consist of all users who have received attestations as Curators of that particulat list. In addition, the visitor should have the ability to add any arbitrary npub as seed user.
 
 The above should have an easy to navigate UX. Notably, the actual curation of list items (segregation into accepted, rejected, and pending) does not need to be implemented until Phase 2. However, the UX of Phase 1 should be designed with Phase 2 in mind.
 

@@ -7,7 +7,7 @@ Duplicate the existing functionality of the Curated Lists desktop app as a web a
 ## Bounties: 
 - Phase 1 only: 10,000,000 sats
 - additional phases: to be determined
-- 
+
 ## Background
 
 Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an initial proof of concept implementation of the [DCoSL](https://github.com/wds4/dcosl) procotol, the ultimate goal of which is a general framework for the decentralized representation and curation of knowledge.

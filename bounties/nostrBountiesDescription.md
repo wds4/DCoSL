@@ -1,6 +1,10 @@
 # Refactor the desktop app, Curated Lists, as a web app
 
-## Bounty: 10,000,000 sats
+## Bounty (Phase 1): 10,000,000 sats
+
+## Overview
+
+Duplicate the existing functionality of the Curated Lists desktop app as a web app. Phase 1 will be a simple Curated Lists explorer without full functionality.
 
 ## Background
 

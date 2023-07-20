@@ -11,7 +11,7 @@ Currently Phase 1 is the only bounty that has been finalized. Bounties for subse
 
 # [Phase 1: Curated Lists explorer](./phase1.md)
 
-Create a website where users can browse existing Lists. Phase 1 implementation will be relatively straightforward and will not require detailed understanding of the complex aspects of the DCoSL protocol. Just download kind 9901 and 39901 events and display them with a good UX! The actual curation will not be implemented until Phase 2. 
+Create a website where users can browse existing lists, list items, and relevant attestations. Phase 1 implementation will be relatively straightforward and will not require detailed understanding of the complex aspects of the DCoSL protocol. Just download kind 9901 and 39901 events and display them with a good UX! The actual curation itself will not be implemented until Phase 2. 
 
 ## Bounty: 10,000,000 sats -- or make an offer!
 

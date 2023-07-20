@@ -43,7 +43,7 @@ Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists
 
 ## User experience
 
-Follow [this link](phase1/userExperience.md).
+Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/userExperience.md) for the expected user experience.
 
 ## More info
 

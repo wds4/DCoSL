@@ -2,7 +2,7 @@
 
 ## Overview
 
-Duplicate the existing functionality of the Curated Lists desktop app as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer without full functionality. The actual curation of the lists (determining which items are accepted or rejected by your web of trust) will not be required to get the Phase 1 bounty.
+Duplicate the existing functionality of the Curated Lists desktop app as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer without full functionality. The actual curation of the lists (determining which items are accepted or rejected by the reference user's web of trust) will not be required to collect the Phase 1 bounty.
 
 ## Bounties: 
 - Phase 1 only: 10,000,000 sats

@@ -16,7 +16,7 @@ Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4
 
 In its current form, Curated Lists is functional but needs better UX to attract users and gain visibility. A series of bounties is envisioned to refactor the existing functionality of Curated Lists as a website (and maybe eventually to add some additional functionality, such as an API).
 
-Rather than improve the UX of the existing desktop client (UX not being my strong suit), I would like to focus on fleshing out the repo for the DCoSL protocol itself, which is woefully incomplete. I would also like to author and submit a NIP that might act as a bridge between nostr and dcosl. For now, the best record of the dcosl protocol is its implementation in the Pretty Good Apps desktop client.
+Rather than improve the UX of the existing desktop client (UX not being my strong suit), I would like to focus on fleshing out the repo for the DCoSL protocol itself, which is woefully incomplete. I would also like to author and submit a NIP that might act as a bridge between nostr and dcosl. For now, the best reference for the dcosl protocol is its implementation in the Pretty Good Apps desktop client.
 
 ## Functionality for Phase 1
 

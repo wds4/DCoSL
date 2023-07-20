@@ -10,6 +10,12 @@ Phase 1 should be relatively straightforward to implement for an experienced nos
 - [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 10,000,000 sats (+ up to 4,000,000 sats in bonuses; see below)
 - [additional phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists): to be determined
 
+## what I'm looking for
+
+I'm looking for someone who is adept at web apps, react, and **most importantly: excellent at design and UX** (which are my weak points!)
+
+I have provided lots of detail. If you're an experienced nostr dev, you could probably whip this out pretty quickly. If you're an experienced dev but new to nostr and looking to learn, this could be a good way to become familiar while stacking a few sats!
+
 ## Background
 
 Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an exploratory proof of concept implementation of the [DCoSL](https://github.com/wds4/dcosl) procotol, the ultimate goal of which is to build tools for users to crowdsource data by delegating the curation of information to one's web of trust. To do this well is a complex problem, but one that I have put a lot of thought into over the years.
@@ -76,6 +82,16 @@ Two options:
 - For additional 2,000,000 sats bonus: Build on one of my repositories (with AGPL-3.0) and I will host the website (perhaps on dcosl.com). Bounty (including bonus) paid once PR is accepted.
 
 I'd be happy to designate a prearranged mutual acquaintance within the nostr community as arbiter to determine when bounty requirements have been met.
+
+## Bonuese
+
+### Bonues 1: repo; + 2 mil sats
+
+(see above)
+
+### Bonus 2: additional detail for nostr nerds; + 2 mil sats
+
+Only if you can figure out how to do this without detracting from the overall UX. Make it so that users who are devs can explore the events and words. See pic of how I do this in Pretty Good Apps.
 
 ## More info
 

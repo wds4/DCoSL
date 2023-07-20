@@ -37,6 +37,14 @@ Good design will be required for the full bounty. I'd be happy to consider selec
 
 If phase 1 goes well, there will be many more phases to come!
 
+## Pretty Good Apps functionality relevant to Phase 1
+
+Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md) to see how lists, list items, and attestations are formatted and stored in nostr. These will be the core of the data displayed in Phase 1. They can be downloaded by filtering for kinds 9901 (lists and list items) and 39901 (attestations).
+
+## User experience
+
+Follow [this link](phase1/userExperience.md).
+
 ## More info
 
 Please DM me npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3 with questions, ideas, or words of encouragement! :-)

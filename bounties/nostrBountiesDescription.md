@@ -20,7 +20,7 @@ This 10 mil sat bounty refers to [Phase 1](https://github.com/wds4/DCoSL/blob/ma
 
 ## Functionality for Phase 1
 
-Visitors to the site will be presented with two options:
+Sign-in with a nostr key will not be required for Phase 1 (probably not until Phase 3). Visitors to the site will be presented with two options:
 - select an existing list
 - select a "seed" user
   

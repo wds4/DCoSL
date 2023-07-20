@@ -22,7 +22,7 @@ Rather than improve the UX of the existing desktop client (UX not being my stron
 
 Sign-in with a nostr key will not be required for Phase 1 (probably not until Phase 3). Visitors to the site will be presented with two options:
 - select an existing list
-- select a "seed" user
+- select a reference ("seed") user
   
 Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. (Pretty Good Apps will make it easy for you to see how these events are formatted.) 
 

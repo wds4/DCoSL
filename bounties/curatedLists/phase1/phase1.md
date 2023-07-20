@@ -51,6 +51,16 @@ Two options:
 - you create your own repo, run your own website. Bounty paid once site fully functional.
 - For additional 2,000,000 sats bonus: Build on one of my repositories (with AGPL-3.0) and I will host the website (perhaps on dcosl.com). Bounty (including bonus) paid once PR is accepted.
 
+## Bonuses
+
+### Bonues 1: repo; + 2 mil sats
+
+(see section on Repo, above)
+
+### Bonus 2: additional detail for nostr nerds; + 1 mil sats
+
+Make it so that users who are devs can click a button and see the raw json data for `words` (formatted as per DCoSL) and `events` (words wrapped as nostr events). Purpose: make it easier for other devs to get up to speed. Only do this if you can figure out how to do it without detracting from the overall UX. See how I currently do this in Pretty Good Apps for reference.
+
 ## More info
 
 Please DM me npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3 with questions, ideas, or words of encouragement! :-)

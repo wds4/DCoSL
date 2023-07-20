@@ -41,9 +41,15 @@ If phase 1 goes well, there will be many more phases to come!
 
 Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md) to see how lists, list items, and attestations are formatted and stored in nostr. These will be the core of the data displayed in Phase 1. They can be downloaded by filtering for kinds 9901 (lists and list items) and 39901 (attestations).
 
-## User experience
+## Details of the expected user experience
 
 Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/userExperience.md) for the expected user experience.
+
+## Repo
+
+Two options:
+- you create your own repo, run your own website. Bounty paid once site fully functional.
+- For additional 2,000,000 sats bonus: Build on one of my repositories (with AGPL-3.0) and I will host the website (perhaps on dcosl.com). Bounty (including bonus) paid once PR is accepted.
 
 ## More info
 

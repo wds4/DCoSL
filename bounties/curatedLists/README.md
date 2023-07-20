@@ -17,7 +17,7 @@ Create a website where users can browse existing lists, list items, and relevant
 
 # [Phase 2: Curation](./phase2.md)
 
-After selecting a list and a seed user, visitors to the site will observe the results of list curation. This will require a deep dive into the grapevine section of the DCoSL protocol. Fortunately, you'll have a working example to refer to.
+After selecting a list and a seed user, visitors to the site will observe the results of list curation. This will require a deep dive into the grapevine section of the DCoSL protocol. Although the protocol repo is still a work in progress, the Pretty Good Apps client provides a working example to see how exactly these calculations are made.
 
 # [Phase 3: User sign-in and data submission](./phase3.md)
 

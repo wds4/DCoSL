@@ -1,8 +1,8 @@
 # Refactor the desktop app, Curated Lists, as a web app
 
-## Bounty (Phase 1 only): 10,000,000 sats
-
-## Bounties (additional phases): to be determined
+## Bounties: 
+- Phase 1 only: 10,000,000 sats
+- additional phases: to be determined
 
 ## Overview
 

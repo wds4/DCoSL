@@ -6,7 +6,7 @@ Duplicate the existing functionality of the Curated Lists desktop app (part of [
 
 Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good UX skllls. For those newer to nostr, this project could be a chance to learn some nostr basics while stacking a few sats!
 
-Needs to be great UX for the full bounty. We will pick someone to judge.
+Needs to be great UX for the full bounty. Including with thought given to future dev of the site. We will pick someone to judge.
 
 ## Bounties: 
 - [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md): 20,000,000 sats (+ up to 4,000,000 sats in bonuses; see below)

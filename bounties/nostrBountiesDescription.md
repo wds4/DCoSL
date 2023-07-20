@@ -5,7 +5,7 @@
 Duplicate the existing functionality of the Curated Lists desktop app as a web app. This will be broken down into multiple phases. Phase 1 will be a simple Lists explorer without full functionality. This should be relatively straightforward to implement for a talented developer. The actual curation of the lists (determining which items are accepted or rejected by the reference user's web of trust) is more complex but will not be required to collect the Phase 1 bounty.
 
 ## Bounties: 
-- Phase 1 only: 10,000,000 sats
+- [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) only: 10,000,000 sats
 - [additional phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists): to be determined
 
 ## Background

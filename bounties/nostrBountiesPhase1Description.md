@@ -12,7 +12,7 @@ Phase 1 should be relatively straightforward to implement for an experienced nos
 
 ## Background
 
-Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an exploratory proof of concept implementation of the [DCoSL](https://github.com/wds4/dcosl) procotol, the ultimate goal of which is to build tools for users to crowdsource data by delegating the curation of information to one's web of trust. This is a complex problem, but one that I have put a lot of thought into over the years.
+Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an exploratory proof of concept implementation of the [DCoSL](https://github.com/wds4/dcosl) procotol, the ultimate goal of which is to build tools for users to crowdsource data by delegating the curation of information to one's web of trust. To do this well is a complex problem, but one that I have put a lot of thought into over the years.
 
 In its current form, Curated Lists is functional but needs better UX to attract users and gain visibility. A series of bounties is envisioned to refactor the existing functionality of Curated Lists as a website (and maybe eventually to add some additional functionality, such as an API).
 

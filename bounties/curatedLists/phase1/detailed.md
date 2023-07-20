@@ -3,21 +3,8 @@ Phase 1: Curated Lists explorer
 
 STATUS OF THIS DOCUMENT: under construction
 
-See [Phase 1 overview](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md).
 
-## Pretty Good Apps functionality relevant to Phase 1
 
-Follow [this link](pgaFunctionality.md) to see how lists, list items, and attestations are formatted and stored in nostr. These will be the core of the data displayed in Phase 1. They can be downloaded by filtering for kinds 9901 (lists and list items) and 39901 (attestations).
-
-## User experience
-
-Follow [this link](phase1/userExperience.md).
-
-## Repo
-
-Two options:
-- you create your own repo, run your own website. Bounty paid once site fully functional.
-- For additional 2,000,000 sats bonus: Build on one of my repositories (with AGPL-3.0) and I will host the website (perhaps on dcosl.com). Bounty (including bonus) paid once PR is accepted.
 
 I'd be happy to designate a prearranged mutual acquaintance within the nostr community as arbiter to determine when bounty requirements have been met.
 

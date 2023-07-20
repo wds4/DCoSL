@@ -24,7 +24,7 @@ Sign-in with a nostr key will not be required for Phase 1 (probably not until Ph
 - select an existing list
 - select a reference ("seed") user
   
-Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. (Pretty Good Apps will make it easy for you to see how these events are formatted.) 
+Existing lists are events that have been posted as kind: 9901 and with `s` tag: `nostrCuratedList`. (Pretty Good Apps client makes it easy for you to see in detail how these events are formatted.) 
 
 After making selections for list and seed user, the site will display:
 - basic list information, including list name, list description, the author of the list, and when it was created

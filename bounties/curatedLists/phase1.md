@@ -203,6 +203,16 @@ Example of the `word` for one user's attestation that the user known as 'joker4'
 
 Note that the `ratingTemplateSlug` must be: `nostrCuratedListsCuratorEndorsement`.
 
+As is the case above, always rely upon the `eventID` field under `nostrParentCuratedListData` rather than the list `name` or `slug` fields. Likewise, always rely upon pubkey rather than name or display_name for the rater and ratee.
+
+For our purposes, the following can be ignored:
+- `confidence` will always be 80%
+- `referenceRegularSliderRating` will always be 100
+- `transitivity` will always be true
+- `contextDAG.slug` will always be `genericRating`
+- `referenceData` should always match the `raterData`
+(These fields are anticipated to have their uses in future applications!)
+
 ## User experience
 
 UX is not my forte so I will be looking for someone with good design instincts.

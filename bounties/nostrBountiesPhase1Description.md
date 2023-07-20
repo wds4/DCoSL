@@ -27,11 +27,13 @@ Phase 1 will not be a full implementation of curated lists, but will simply allo
 
 A graph is a versatile mathematical object that can be used to format and represent just about any type of data. Any individual graph can be specified in full using nothing more than two simple lists: one list for nodes and one list for edges. If we can figure a way to crowdsource a simple list in a genuinely decentralized fashion, then we can crowdsource a graph. And if we can crowdsource a graph, we can crowdsource just about any piece of data, including the symbols used in its representation.
 
-## what I'm looking for
+## What I'm looking for
 
-I'm looking for an individual (or a team) who is adept at web apps, react, and **most importantly: excellent at design and UX**.
+I'm looking for an individual (or a team) who is adept at web apps and **most importantly: excellent at design and UX**. Ideally you'll be interested in subsequent phases, but no need to commit to that upfront.
 
-Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good design skllls. To make it easy for you to bang this out quickly, I provide relevant [details](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md). If you're an experienced dev but new to nostr and looking to learn, this could be a good way to become familiar with nostr while stacking a few sats!
+Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good design skllls. To make it easy for you to bang this out quickly, I provide an [overview](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) of curated lists. If you're an experienced dev but new to nostr and looking to learn, this could be a good way to become familiar with nostr while stacking a few sats!
+
+I'd prefer this and subsequent phases to be built using the tools that I used for Pretty Good Apps -- most notably react -- but let me know if you'd like to use something else and we can talk. I will certainly be open to suggestions!
 
 The whole point of this is to create a better UX than I could do myself, so good UX will be required for the full bounty. I'd be happy to consider prearrange one or a few respected members of the nostr community to judge when the bounty has been met.
 

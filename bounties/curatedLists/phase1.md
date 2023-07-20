@@ -7,6 +7,8 @@ See Phase 1 overview (link).
 
 ## Pretty Good Apps functionality relevant to Phase 1
 
+Follow [this link](pgaFunctionality.md).
+
 In the Pretty Good Apps desktop client, users can submit to the nostr network the following four types of events:
 - a list
 - an item for any list

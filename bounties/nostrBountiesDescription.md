@@ -22,7 +22,7 @@ Sign-in with a nostr key will not be required for Phase 1 (probably not until Ph
 - select an existing list
 - select a "seed" user
   
-Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. (Pretty Good Apps will make it easy for you to see how these events are formatted.) Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, there will be a list of all items that have been submitted to the list.
+Existing lists will be those that have been posted as kind: 9901 events using the DCoSL protocol. (Pretty Good Apps will make it easy for you to see how these events are formatted.) Upon selecting a list, the website will display list data, including the list name, list description, who submitted the list, and when it was submitted. In addition, visitors should see a list of all items that have been submitted to the list, and should be able to view for each item the item name, item description, item author, and date of item submission.
 
 The options for seed user will consist of all users who have received attestations as Curators of that particulat list (kind: 39901 events). In addition, the visitor should have the ability to add any arbitrary npub as seed user.
 

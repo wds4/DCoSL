@@ -3,6 +3,8 @@ Bounties
 
 This is a list of bounties related to DCoSL and Pretty Good Apps. They will be submitted to [nostr bounties](https://nostrbounties.com).
 
+Message me on nostr: npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3 if you're interested!
+
 # [Curated Lists](./curatedLists)
 
 Refactor Curated Lists, which is already built and currently functional as an app in the Pretty Good Apps desktop client, as a website with a stellar UX.

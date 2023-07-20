@@ -3,8 +3,6 @@ Bounties
 
 This is a list of bounties related to DCoSL and Pretty Good Apps. They will be submitted to [nostr bounties](https://nostrbounties.com).
 
-Message me on nostr: npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3 if you're interested!
-
 # [Curated Lists](./curatedLists)
 
 Refactor Curated Lists, which is already built and currently functional as an app in the Pretty Good Apps desktop client, as a website with a stellar UX.
@@ -24,3 +22,7 @@ Once Curated Lists bounties are complete, bounties will be offered to refactor C
 # Proposals
 
 Have your own proposal for how you can implement DCoSL as a project? Contact me with your ideas! A limited amount of funding may be available for awesome ideas. Feel free to spitball if you're not sure!
+
+# Contact me
+
+Message me on nostr: npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3

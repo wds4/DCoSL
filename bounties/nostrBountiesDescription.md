@@ -36,4 +36,12 @@ In addition, the viewer should be able to review all attestations relevant to th
 
 The above should have an easy to navigate UX. Notably, the actual curation of list items (segregation into accepted, rejected, and pending) does not need to be implemented until Phase 2. However, the UX of Phase 1 should be designed with Phase 2 in mind.
 
+## Repo
+
+Two options:
+- you create your own repo, run your own website. Bounty paid once site fully functional.
+- For additional 2,000,000 sats bonus: Build on my repository (AGPL-3.0) and I will host the website (perhaps on dcosl.com). Bounty (including bonus) paid once PR is accepted.
+
+## More info
+
 See the [overview](https://github.com/wds4/DCoSL/tree/main/bounties) of DCoSL and Pretty Good Apps bounties (including a roadmap for future bounties beyond this one).

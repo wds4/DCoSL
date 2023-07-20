@@ -22,9 +22,11 @@ Rather than improve the UX of the existing desktop client (UX not being my stron
 
 The web app will download 4 types of events (Pretty Good Apps client makes it easy for you to see in detail how these events are formatted) 
 - lists: kind: 9901, `s` tag: `nostrCuratedList`
-- list items: kind 9901, `e` tag which corresponds to the event ID of the parent lis
+- list items: kind 9901, `e` tag which corresponds to the event ID of the parent list
 - endorsement of list item: kind 39901, `r` tag: `7e92c80fb7d3fa7bec453c8b3c6db306bdde50f7eee34e76a880fe0ab770d485-genericContext`
 - endorsement of user as a curator of a given list: kind 39901, `r` tag: `7e92c80fb7d3fa7bec453c8b3c6db306bdde50f7eee34e76a880fe0ab770d485-nostrCuratedListsCuratorEndorsement-genericContext`
+
+Filter for kinds: 9901 and 39901 will get all relevant events for Curated Lists. The rating itself is stored in the `ccontent` field and can be extracted as a json object, which contains information to determine what is being rated.
 
 See [DIP-1104](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1104.md): publication of attestation over nostr
 

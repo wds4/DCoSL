@@ -11,11 +11,15 @@ Currently Phase 1 is the only bounty that has been finalized. Bounties for subse
 
 # [Phase 1: Curated Lists explorer](./phase1.md)
 
-Create a website where users can browse existing Curated Lists and observe the results of list curation using different seed users.
+Create a website where users can browse existing Lists. Phase 1 implementation will be relatively straightforward and will not require detailed understanding of the complex aspects of the DCoSL protocol. Just download kind 9901 and 39901 events and display them with a good UX! The actual curation will not be implemented until Phase 2. 
 
 ## Bounty: 10,000,000 sats -- or make an offer!
 
-# [Phase 2: User sign-in and data submission](./phase2.md)
+# [Phase 2: Curation](./phase2.md)
+
+After selecting a list and a seed user, visitors to the site will observe the results of list curation. This will require a deep dive into the grapevine section of the DCoSL protocol. Fortunately, you'll have a working example to refer to.
+
+# [Phase 3: User sign-in and data submission](./phase3.md)
 
 Allow users to sign in to the website (using standard nostr tools such as getalby) to that they can:
 - make new lists (kind: 9901)
@@ -25,19 +29,19 @@ Allow users to sign in to the website (using standard nostr tools such as getalb
 
 ## Bounty: to be determined
 
-# [Phase 3: add the grapevine Control Panel](./phase3.md)
+# [Phase 4: add the grapevine Control Panel](./phase4.md)
 
 There are a number of parameters that are used when calculating weighted averages. For Phase 1, default values will be used for all constants. For this phase, a control panel will be added which allows the user to adjust constants and observe the change in real time on list curation. This can be modeled after the control panel currently in use in Pretty Good Apps.
 
 ## Bounty: to be determined
 
-# [Phase 4: visualization of the grapevine](./phase4.md)
+# [Phase 5: visualization of the grapevine](./phase5.md)
 
 Graphical representation of the web of trust with the ability to review the calculations of weighted averages for individual List Curators and List Items. Currently, the visjs javascript library is used by Pretty Good Apps for visualization. This or some other method may be used for this bounty.
 
 ## Bounty: to be determined
 
-# [Phase 5: API](./phase5.md)
+# [Phase 6: API](./phase6.md)
 
 Create an API for the website so that clients can query the site with an existing list + seed user and have returned a list of items arranged into categories: accepted, rejected, or pending. This service could potentially be monetized, x sats per query, to support the website and further development of the DCoSL protocol.
 

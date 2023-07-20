@@ -1,7 +1,9 @@
 Refactor the desktop app, Curated Lists, as a web app
 =====
-Implement the [phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for curated lists. Follow the link for details.
+Implement the [phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for curated lists. 
 -----
+
+Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) for details.
 
 ## Overview
 

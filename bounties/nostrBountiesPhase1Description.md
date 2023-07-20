@@ -13,7 +13,7 @@ Currently Curated Lists exists as a functioning app in the [Pretty Good Apps nos
 
 ## Background
 
-Curated Lists, one of the apps in the [Pretty Good Apps](https://github.com/wds4/pretty-good) desktop nostr client, is an exploratory proof of concept implementation of the first steps of the protocol for [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/dcosl).
+Curated Lists, one of the apps in the [Pretty Good Apps nostr desktop client](https://github.com/wds4/pretty-good), is an exploratory proof of concept implementation of the first steps of the protocol for [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/dcosl).
 
 The ultimate goal of DCoSL is to establish a roadmap to build tools for users to crowdsource knowledge by delegating the curation of information to one's web of trust. To do this well is a complex problem, but one that I have put a lot of thought into over the years, and I believe that I have a tractable roadmap. The purpose of building this webapp is to generate feedback and discussion of some of these ideas by putting them into production.
 

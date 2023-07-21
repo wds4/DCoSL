@@ -69,7 +69,7 @@ Make it so that users who are devs can easily view the raw json data for `words`
 
 Please DM me npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3 with questions, ideas, or words of encouragement! :-)
 
-If you are interested in this bounty, take a look at how the Curated Lists app works on the Pretty Good Apps desktop client and tell me how you would improve the design. Perhaps the page is too cluttered? idk, design is not my forte! (I'd suggest running it in dev mode, as I am not yet publishing releases on a routine basis.)
+If you are interested in this bounty, take a look at how the Curated Lists app works on the Pretty Good Apps desktop client and tell me how you would improve the design. See these [screenshots](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/screenshots.md) or download and run the app -- I'd suggest deve mode, as I am not yet publishing releases on a routine basis. Perhaps the page is too cluttered? idk, design is not my forte!
 
 Links:
 - [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/DCoSL) protocol repository on github

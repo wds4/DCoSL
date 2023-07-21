@@ -22,7 +22,7 @@ Once phase 2 is implemented, several other curation-related parameters could als
 Once a list is selected, the viewer should be able to see list details, including:
 - list name
 - list description
-- list author, with concise author details (icon, name, etc)
+- list author, with author details (icon, name, etc)
 - date of list submission
 - optional: raw json corresponding to the `word` and nostr event (relevant to Bonus #2)
 

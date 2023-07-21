@@ -22,7 +22,7 @@ Once a list is selected, the viewer should be able to see list details, includin
 - list description
 - list author, with concise author details (icon, name, etc)
 - date of list submission
-- optional: Bonus #2 list information
+- optional: raw json corresponding to the `word` and nostr event (relevant to Bonus #2)
 
 ### seed user selection
 

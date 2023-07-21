@@ -1,7 +1,7 @@
 Phase 1: User Experience
 =====
 
-The site will download all available kind: 9901 and 39901 events and display them in an easy to navigate fashion.
+Upon completion of Phase 1, the website will download all available kind: 9901 and 39901 events from the nostr network and display them in an easy to navigate fashion. Analysis of the attestations is not required for Phase 1.
 
 UX is not my forte so I will be looking for someone with good design instincts.
 

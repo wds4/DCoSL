@@ -45,7 +45,7 @@ Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists
 
 ## Details of the expected user experience
 
-Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/userExperience.md) for the expected user experience.
+Follow [this link](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/userExperience.md) for details of the expected user experience for Phase 1 of this project.
 
 ## Repo
 

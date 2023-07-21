@@ -35,7 +35,7 @@ In addition, the viewer should be able to review all attestations relevant to th
 
 The list of seed users will depend upon which list is selected.
 
-The options for seed user will consist of all users who have received attestations (whether for or against) as Curators of that particulat list. In addition, the visitor should have the ability to add any arbitrary npub as seed user.
+The options for seed user will consist of all users who have either authored (rater), or are the subject of (ratee), endorsements (whether for or against) as Curators of that particulat list. (kind 39901 event, with `ratingTemplateSlug`: `nostrCuratedListsCuratorEndorsement`, as per [this explainer](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md)) In addition, the visitor should have the ability to add any arbitrary npub as seed user.
 
 An idea to consider to make the UX cleaner is to make the seed user panel invisible if a list has not yet been selected. This will help direct attention of the website visitor to the first task, which is list selection.
 

@@ -1,7 +1,7 @@
 Bounties
 =====
 
-This is the first in a series of bounties related to DCoSL and Pretty Good Apps. They will be submitted to [nostr bounties](https://nostrbounties.com).
+This is the first in a series of bounties related to DCoSL and Pretty Good Apps. When ready, they will be submitted to [nostr bounties](https://nostrbounties.com).
 
 The culmination of this series of bounties will be Curated Feeds.
 

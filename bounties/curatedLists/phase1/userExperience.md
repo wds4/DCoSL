@@ -3,7 +3,7 @@ Phase 1: User Experience
 
 Upon completion of Phase 1, the website will download all available kind: 9901 and 39901 events from the nostr network (`wss://nostr.fmt.wiz.biz`, `wss://nostr.zebedee.cloud`, and `wss://nostr.oxtr.dev` ought to have all of them) and display them in an easy to navigate fashion. 
 
-Analysis of the attestations and the sorting of list items (accepted vs rejected) is not required for Phase 1. However, the website design should take into account, as appropriate, the upcoming features that will be anticipated in [subsequent phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists).
+Analysis of the attestations and the sorting of list items (into the accepted, rejected, and pending/undecided bins) is not required for Phase 1. However, the website design should take into account, as appropriate, the upcoming features that will be anticipated in [subsequent phases](https://github.com/wds4/DCoSL/tree/main/bounties/curatedLists).
 
 Sign-in with a nostr key will not be required for Phase 1 (probably not until Phase 3).
 

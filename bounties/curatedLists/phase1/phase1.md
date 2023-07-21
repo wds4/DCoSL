@@ -3,7 +3,7 @@ Refactor the desktop app, Curated Lists, as a web app: Phase 1
 
 ## Overview
 
-Curated Lists currently exists as a functioning app in the [Pretty Good Apps nostr desktop client](https://github.com/wds4/pretty-good). This [phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) will be the first in a series of bounties to refactor this app as a web app with an improved desng and user experience. The requirements of phase 1 are to create a simple explorer for all kind: 9901 and 39901 events (lists, list items, and the attestations used to curate which proposed items should be accepted vs rejected onto any given list) and should be relatively straightforward for an experienced dev. The actual curation itself (based on an analysis of the relevant attestations) is not necessary for Phase 1.
+Curated Lists currently exists as a functioning app in the [Pretty Good Apps nostr desktop client](https://github.com/wds4/pretty-good). This [phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) will be the first in a series of bounties to refactor this app as a web app with an improved desng and user experience. The requirements of phase 1 are simply to create an explorer for all kind: 9901 and 39901 events (lists, list items, and the attestations used to curate which proposed items should be accepted vs rejected onto any given list) and should be relatively straightforward for an experienced dev. The actual curation itself (based on an analysis of the relevant attestations) is not necessary for Phase 1.
 
 ## Bounties: 
 - [Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md): 20,000,000 sats (+ up to 3,000,000 sats in bonuses - see below)

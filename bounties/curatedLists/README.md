@@ -13,7 +13,7 @@ Currently Phase 1 is the only bounty that has been finalized. Bounties for subse
 
 Create a website where users can browse existing lists, list items, and relevant attestations. Phase 1 implementation will be relatively straightforward and will not require detailed understanding of the complex aspects of the DCoSL protocol. Just download kind 9901 and 39901 events and display them with a good UX! The actual curation itself (segregation of items into bins according to whether they have been accepted or rejected by the reference user's web of trust) will not be implemented until Phase 2. 
 
-# [Phase 2: Curation](./phase2.md)
+# [Phase 2: list curation](./phase2.md)
 
 After selecting a list and a seed user, visitors to the site will observe the results of list curation. Submitted list items will be divided into 3 bins: ACCEPTED, REJECTED, and PENDING. It will be especially important for visitors to the site to understand that different reference users see different curation results, as per [this example from Pretty Good Apps](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md) and according to the dictates of [DIP-01](https://github.com/wds4/DCoSL/blob/336027ab4935c80804a381e05fb5181ea5bfd22c/dips/coreProtocol/01.md), one of the core principles of DCoSL.
 
@@ -21,7 +21,7 @@ Implementation of this phase will require a deep dive into the grapevine section
 
 One of the challenges of this phase will be that the weighted average calculations are iterative and in principle repeat indefinitely. Therefore, they can be energy hungry. Probably the best way to address this problem is to stop iterations once stable results have been obtained, and to start them back up only if there is some change to the input data (such as a change in the selection of the reference user).
 
-# [Phase 3: User sign-in and data submission](./phase3.md)
+# [Phase 3: user sign-in and submission of new lists, list items, and attestations](./phase3.md)
 
 Allow users to sign in to the website (using standard nostr tools such as getalby) to that they can:
 - make new lists (kind: 9901)

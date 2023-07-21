@@ -33,6 +33,8 @@ In addition, the viewer should be able to review all attestations relevant to th
 
 ## seed user selection
 
+The list of seed users will depend upon which list is selected. An idea to consider to make the UX cleaner is to make the seed user panel invisible if a list has not yet been selected. This will help direct attention of the website visitor to the first task, which is list selection.
+
 The options for seed user will consist of all users who have received attestations (whether for or against) as Curators of that particulat list. In addition, the visitor should have the ability to add any arbitrary npub as seed user.
 
 ## Future phases

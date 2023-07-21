@@ -1,6 +1,8 @@
 Phase 1: User Experience
 =====
 
+The site will download all available kind: 9901 and 39901 events and display them in an easy to navigate fashion.
+
 UX is not my forte so I will be looking for someone with good design instincts.
 
 Sign-in with a nostr key will not be required for Phase 1 (probably not until Phase 3).

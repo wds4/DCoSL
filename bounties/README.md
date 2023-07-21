@@ -13,6 +13,10 @@ A prototype for Curated Graphs is under construction in Pretty Good Apps, curren
 
 Once Curated Lists bounties are complete, bounties will be offered to refactor Curated Graphs as a web app.
 
+# [Channels: Curated Feeds](./curatedFeeds)
+
+This bounty will involve incorporation of the tools created in previous bounties by an existing nost client. 
+
 # Proposals
 
 Have your own proposal for how you can implement DCoSL as a project? Contact me with your ideas! A limited amount of funding may be available for awesome ideas. Feel free to spitball if you're not sure!

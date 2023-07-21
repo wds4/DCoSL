@@ -29,7 +29,7 @@ If we can crowdsource simple lists, we can crowdsource the very tools and symbol
 
 ## What I'm looking for
 
-I'm looking for an individual (or a team) who is adept at web apps and **most importantly: excellent at design and UX**. Ideally you'll be interested in subsequent phases, but obviously there's no need to commit to that upfront.
+I'm looking for an individual (or a team) who is adept at web apps and **most importantly: excellent at design and UX**. Ideally you'll be interested in subsequent phases for this project, but obviously there's no need to commit to that upfront.
 
 Phase 1 should be relatively straightforward to implement for an experienced nostr developer with good design skllls. To make it easy for you to bang this out quickly, see this [overview](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md) of how lists, list items, and attestations are currently formatted in the Curated Lists app. If you're an experienced dev but new to nostr and looking to learn, this could be a good way to become familiar with nostr while stacking a few sats!
 

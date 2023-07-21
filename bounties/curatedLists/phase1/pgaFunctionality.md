@@ -11,7 +11,7 @@ Event IDs are used to reference lists, list items, and attestations.
 
 Unlike NIP-51, there is no concept of a list owner. You do not have to be the author/creator of a list to submit an item to that list.
 
-Lists and list items are submitted using kind 9901 (regular events). Attestations are submitted using kind 39901 (parameterized replaceable events). See [DIP-1101](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1101.md): publication of a word over nostr, and [DIP-1104](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1104.md): publication of an attestation over nostr. Default relays in the Pretty Good Apps client include several that support NIPs 16 and 33: 'wss://nostr.fmt.wiz.biz', 'wss://nostr.zebedee.cloud', 'wss://nostr.oxtr.dev'.
+Lists and list items are submitted using kind 9901 (regular events). Attestations are submitted using kind 39901 (parameterized replaceable events). See [DIP-1101](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1101.md): publication of a word over nostr, and [DIP-1104](https://github.com/wds4/DCoSL/blob/main/dips/networking/nostr/1104.md): publication of an attestation over nostr. Default relays in the Pretty Good Apps client include several that support NIPs 16 and 33, including: `wss://nostr.fmt.wiz.biz`, `wss://nostr.zebedee.cloud`, and `wss://nostr.oxtr.dev`.
 
 Each event packages a json object called a `word` in the event's `content` field. The notion of a `word` is foundational to the concept graph section of the DCoSL protocol and is explained in the draft version for [DIP-100](https://github.com/wds4/DCoSL/blob/main/dips/conceptGraph/100.md). 
 

@@ -29,7 +29,7 @@ Once a list is selected, the viewer should be able to explore list details, incl
 
 In addition, the viewer should be able to review all attestations relevant to the selected list. Attestations are submitted as kind: 39901 events. There are two types of attestations:
 - endorse (or reject) an item as "belonging" or not belonging on the list to which it is submitted
-- endorse (or reject) a user as being a trusted (or not) curator of that particular list
+- endorse (or reject) a user as being a trusted (or not trusted) curator of that particular list
 
 ### seed user selection
 

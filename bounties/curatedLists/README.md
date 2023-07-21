@@ -15,7 +15,11 @@ Create a website where users can browse existing lists, list items, and relevant
 
 # [Phase 2: Curation](./phase2.md)
 
-After selecting a list and a seed user, visitors to the site will observe the results of list curation. This will require a deep dive into the grapevine section of the DCoSL protocol. Although the protocol repo is still a work in progress, the Pretty Good Apps client provides a working example to see how exactly these calculations are made.
+After selecting a list and a seed user, visitors to the site will observe the results of list curation. Submitted list items will be divided into 3 bins: ACCEPTED, REJECTED, and PENDING. It will be especially important for visitors to the site to understand that different reference users see different curation results, as per [this example from Pretty Good Apps](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md) and according to the dictates of [DIP-01](https://github.com/wds4/DCoSL/blob/336027ab4935c80804a381e05fb5181ea5bfd22c/dips/coreProtocol/01.md), one of the core principles of DCoSL.
+
+Implementation of this phase will require a deep dive into the grapevine section of the DCoSL protocol. Although the protocol repo is still a work in progress, the [Pretty Good Apps client](https://github.com/wds4/pretty-good/tree/main) provides a working example to see how exactly these calculations are made.
+
+One of the challenges of this phase will be that the weighted average calculations are iterative and in principle repeat indefinitely. Therefore, they can be energy hungry. Probably the best way to address this problem is to stop iterations once stable results have been obtained, and to start them back up only if there is some change to the input data (such as a change in the selection of the reference user).
 
 # [Phase 3: User sign-in and data submission](./phase3.md)
 
@@ -29,7 +33,7 @@ Allow users to sign in to the website (using standard nostr tools such as getalb
 
 # [Phase 4: add the grapevine Control Panel](./phase4.md)
 
-There are a number of parameters that are used when calculating weighted averages. For Phase 1, default values will be used for all constants. For this phase, a control panel will be added which allows the user to adjust constants and observe the change in real time on list curation. This can be modeled after the control panel currently in use in Pretty Good Apps.
+There are a number of parameters that are used when calculating weighted averages and sorting list items into bins. Parameters include the default Curator Trust scores for unvetted users. For prior phases, default values will be used for all parameters. For this phase 4, a control panel will be added which allows the user to adjust these parameters and observe the change in real time on list curation, the goal being to give users an intuitive feel for how these parameters work. This can be modeled after the control panel currently in use in Pretty Good Apps.
 
 ## Bounty: to be determined
 

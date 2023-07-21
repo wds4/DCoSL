@@ -61,7 +61,7 @@ Two options:
 
 ### Bonus 2: additional detail for nostr nerds; + 1 mil sats
 
-Make it so that users who are devs can easily view the raw json data for `words` (json data, formatted as per DCoSL protocol as per [these examples](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md)) and `events` (words wrapped as nostr events). Purpose: make it easier for other devs to get up to speed. Only do this if you can figure out how to do it without detracting from the overall UX. See how I currently do this in Pretty Good Apps for reference.
+Make it so that users who are devs can easily view the raw json data for `words` (blocks of json data, formatted using the DCoSL protocol as per [these examples](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md)) and `events` (words wrapped as nostr events). Purpose: make it easier for other devs to get up to speed. Only do this if you can figure out how to do it without detracting from the overall UX. See how I currently do this in Pretty Good Apps for reference.
 
 ## More info
 

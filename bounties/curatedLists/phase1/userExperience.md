@@ -11,7 +11,7 @@ Visitors to the site will be presented with two options:
 - select an existing list 
 - select a reference ("seed") user
 
-### list selection
+## list selection
 
 All valid lists should be selectable. 
 
@@ -31,7 +31,7 @@ In addition, the viewer should be able to review all attestations relevant to th
 - endorse (or reject) an item as "belonging" or not belonging on the list to which it is submitted
 - endorse (or reject) a user as being a trusted (or not trusted) curator of that particular list
 
-### seed user selection
+## seed user selection
 
 The options for seed user will consist of all users who have received attestations as Curators of that particulat list. In addition, the visitor should have the ability to add any arbitrary npub as seed user.
 

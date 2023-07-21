@@ -33,6 +33,21 @@ In addition, the viewer should be able to review all attestations relevant to th
 
 ## seed user selection
 
-The options for seed user will consist of all users who have received attestations as Curators of that particulat list. In addition, the visitor should have the ability to add any arbitrary npub as seed user.
+The options for seed user will consist of all users who have received attestations (whether for or against) as Curators of that particulat list. In addition, the visitor should have the ability to add any arbitrary npub as seed user.
 
-The above should have an easy to navigate UX. Notably, the actual curation of list items (segregation into accepted, rejected, and pending) does not need to be implemented until Phase 2. However, the UX of Phase 1 should be designed with Phase 2 in mind.
+## Future phases
+
+When designing the UX, bear in mind the features of upcoming phases:
+
+Phase 2 (anticipated):
+- list items will be segreated into 3 bins: ACCEPTED, REJECTED, and PENDING, as per screenshots from Pretty Good Apps desktop client [here](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md)
+- graphical representation of the web of trust, as per screenshots [here](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCurationGrapevine.md) (I used visjs for the graphs)
+- a penel that shows how weighted averages are calculated for any given list item or curator
+
+Phase 3: Users can sign in and submit:
+- new lists
+- items for any list
+- endorsements of list items
+- endorsements of users as curators 
+
+Phase 4: the grapevine Control Panel 

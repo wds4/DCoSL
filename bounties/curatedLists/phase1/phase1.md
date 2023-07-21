@@ -23,7 +23,9 @@ Phase 1 will not be a full implementation of curated lists, but will simply allo
 
 ## Why DCoSL?
 
-A graph is a versatile mathematical object that can be used to format and represent just about any type of data. Any individual graph can be specified in full using nothing more than two simple lists: one list for nodes and one list for edges. If we can figure a way to crowdsource a simple list in a genuinely decentralized fashion, then we can crowdsource a graph. And if we can crowdsource a graph, we can crowdsource just about any piece of data, including the symbols used in the representation of that data.
+A graph is a versatile mathematical object that can be used to format and represent just about any type of data. Any individual graph can be specified in full using nothing more than two simple lists: one list for nodes and one list for edges. If we can figure a way to crowdsource a simple list *in a genuinely decentralized fashion*, then we can crowdsource a graph. And if we can crowdsource a graph, we can crowdsource just about any piece of data, including the symbols used in the representation of that data. If we can curate simple lists, we can curate the very tools that we use for communication.
+
+The trick, then, is to curate simple lists in a manner that is worthy of the *decentralized* moniker.
 
 ## What I'm looking for
 

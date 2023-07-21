@@ -70,5 +70,5 @@ Please DM me npub1u5njm6g5h5cpw4wy8xugu62e5s7f6fnysv0sj0z3a8rengt2zqhsxrldq3 wit
 Links:
 - [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/DCoSL) protocol repository on github
 - [Pretty Good Apps](https://github.com/wds4/pretty-good) repository on github
-- [details of Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md)
+- [details of Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md)
 - the [overview](https://github.com/wds4/DCoSL/tree/main/bounties) of DCoSL and Pretty Good Apps bounties (including a roadmap for future bounties beyond this one).

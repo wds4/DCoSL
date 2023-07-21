@@ -72,5 +72,7 @@ If you are interested in this bounty, take a look at how the Curated Lists app w
 Links:
 - [DCoSL: Decentralized Curation of Simple Lists](https://github.com/wds4/DCoSL) protocol repository on github
 - [Pretty Good Apps](https://github.com/wds4/pretty-good) repository on github
-- [details of Phase 1](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md)
+- [examples](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/pgaFunctionality.md) illustrating how lists, list items, and attestations are structured using json
+- [details of Phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1/phase1.md)
+- [Screenshots](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md) from Pretty Good Apps, showing existing UI
 - the [overview](https://github.com/wds4/DCoSL/tree/main/bounties) of DCoSL and Pretty Good Apps bounties (including a roadmap for future bounties beyond this one).

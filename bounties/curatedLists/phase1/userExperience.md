@@ -15,7 +15,7 @@ Visitors to the site will be presented with two options:
 
 All valid lists should be selectable. 
 
-For initial rollout, with only a small number of lists to choose from, a simple drop-down menu would suffice. But we should anticipate the number of lists to increases; it will therefore likely be desirable to create a UI that makes lists searchable by list name, list decription, author, date of submission, list event ID, and/or number of proposed items. 
+For initial rollout, with only a small number of lists to choose from, a simple drop-down menu would suffice. But we should anticipate the number of lists to increase; it will therefore likely be desirable to create a UI that allows the user to narrow the selection of lists by list name, list decription, author, date of submission, list event ID, and/or number of proposed items.
 
 Once phase 2 is implemented, several other curation-related parameters could also be useful for search, e.g. number of accepted items, number of rejected items, number of curators, etc.
 

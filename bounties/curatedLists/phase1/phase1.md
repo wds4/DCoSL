@@ -1,6 +1,8 @@
 Refactor the desktop app, Curated Lists, as a web app: Phase 1
 =====
 
+STATUS OF THIS DOCUMENT: Once I've gotten a little feedback I'll likely post it to https://nostrbounties.com
+
 ## Overview
 
 Curated Lists currently exists as a functioning app in the [Pretty Good Apps nostr desktop client](https://github.com/wds4/pretty-good). The proposed [phase 1 bounty](https://github.com/wds4/DCoSL/blob/main/bounties/curatedLists/phase1.md) will be the first in a series of bounties to refactor this app as a web app with an improved design and user experience. For the existing UX, see [these screenshots](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/screenshots.md) from the desktop app in its present incarnation.

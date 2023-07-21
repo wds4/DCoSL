@@ -25,7 +25,7 @@ Once a list is selected, the viewer should be able to explore list details, incl
 - list author, with author details (icon, name, etc)
 - date of list submission
 - all items that have been submitted to that list, with the ability to view data for each item including item name, item description, author of the item, and date of submission
-- optional: raw json corresponding to all relevant `words` and nostr events (if implementing Bonus #2)
+- optional (if implementing Bonus #2): raw json corresponding to the `words` and nostr events for each piece of data
 
 In addition, the viewer should be able to review all attestations relevant to the selected list. Attestations are submitted as kind: 39901 events. There are two types of attestations:
 - endorse (or reject) an item as "belonging" or not belonging on the list to which it is submitted

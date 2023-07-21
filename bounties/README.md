@@ -15,7 +15,7 @@ Once Curated Lists bounties are complete, bounties will be offered to refactor C
 
 A prototype for Curated Graphs is under construction in Pretty Good Apps, currently under the name: Curated Channels. The basic idea is that a graph is composed of two lists: one list for nodes, one for edges. The basic tools for list curation can therefore be leveraged for curation of graphs.
 
-# [Channels: Curated Feeds](./curatedFeeds) 
+# [Channels: Curated Feeds](./curatedFeeds) (feature added to existing nostr clients)
 
 This bounty will culminate in the incorporation of the tools created in previous bounties by one or more existing nost clients and will allow users to curate their nostr feeds by topic. One or more phases will be to add this functionality to existing clients. Before that can happen, one or more initial phases may be required for the creation of libraries that can be used by clients wishing to incorporate this feature.
 

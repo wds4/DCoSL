@@ -15,9 +15,8 @@ There will be a natural progression from simple lists, to complex lists, to conc
 Note: the numeric designation of these DIPs is subject to change.
 
 GRAPH BASICS: words, relationships (100-109)
-WORDS:
-- (100) [DIP-100](100.md): words
-- (101) [DIP-102](102.md): word types
+- [DIP-100](100.md): words
+- [DIP-101](101.md): word types
 - (102) [DIP-102b](102b.md): local identifiers: slug, name, title
 RELATIONSHIPS
 - (103) [DIP-103](103.md): relationships

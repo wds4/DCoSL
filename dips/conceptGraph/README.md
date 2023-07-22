@@ -14,34 +14,30 @@ There will be a natural progression from simple lists, to complex lists, to conc
 
 Note: the numeric designation of these DIPs is subject to change.
 
-WORDS: (100-109)
+GRAPH BASICS: words, relationships (100-109)
+WORDS:
 - (100) [DIP-100](100.md): words
 - (101) [DIP-102](102.md): word types
+- (102) [DIP-102b](102b.md): local identifiers: slug, name, title
+RELATIONSHIPS
+- (103) [DIP-103](103.md): relationships
+- (104) [DIP-104](104.md): relationship types
+- (105) [DIP-106](106.md): lists
 
-RELATIONSHIPS (and rel types): 
-- (110) [DIP-103](103.md): relationships
-- (111) [DIP-104](104.md): relationship types
-
-- (102) [DIP-102b](102b.md): local identifiers: slug, name, title 
 - (103) maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)
-
-- (113) [DIP-106](106.md): lists
 
 might deprecate these
 - [DIP-100b](100b.md): unique word identifiers
 - [DIP-100c](100c.md): unique word identifier types
 
 
-maybe start here at 110
-- (114) [DIP-107](107.md): json schemas
-- (115) [DIP-108](108.md): sets
-- (116) [DIP-109](109.md): supersets
-
-CLASS THREADS
-- [DIP-130](130.md): class threads
-
+The nodes that make up CLASS THREADS (110-119)
+- (110) [DIP-107](107.md): json schemas
+- (111) [DIP-108](108.md): sets
+- (112) [DIP-109](109.md): supersets
+- (113) [DIP-130](130.md): class threads
   
-CONTAINERS, ORGANIZERS (start with 120?)
+CONTAINERS, ORGANIZERS (start with 120-130) including CONCEPT GRAPH and rules
 - (112) [DIP-105](105.md): graphs
 - (117) [DIP-111](111.md): concepts
 - (118) [DIP-112](112.md): concept graphs

@@ -1,13 +1,15 @@
 Bounties
 =====
 
-This is the first in a series of bounties related to DCoSL and Pretty Good Apps. When ready, they will be submitted to [nostr bounties](https://nostrbounties.com).
+The following are a series of bounties to demonstrate the DCoSL protocol, culminating in the Nostr Channels app which will allow the decentralized curation of nostr feeds based on topic. 
 
-The culmination of this series of bounties will be Curated Feeds.
+When ready, they will be submitted to [nostr bounties](https://nostrbounties.com).
 
 # [Curated Lists](./curatedLists) (web app)
 
 Refactor Curated Lists, which is already built and currently functional as an app in the Pretty Good Apps desktop client, as a website with a stellar UX.
+
+Milestone: 
 
 # [Curated Graphs](./curatedGraphs) (web app)
 

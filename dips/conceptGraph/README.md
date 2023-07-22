@@ -39,8 +39,8 @@ CONTAINERS, ORGANIZERS (start with 120-130) including CONCEPT GRAPH and rules
 - (121) [DIP-111](111.md): concepts
 - (122) [DIP-112](112.md): concept graphs
 - (123) [DIP-113](113.md): properties
-- (124) [DIP-120](120.md): graph types (may not need this?)
-- (125) [DIP-121](121.md): item directory
+- [DIP-124](124.md): graph types (may not need this?)
+- [DIP-125](125.md): item directory
 - [DIP-126](126.md): property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 
   

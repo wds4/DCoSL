@@ -22,18 +22,13 @@ GRAPH BASICS: words, relationships (100-109)
 - [DIP-104](104.md): relationship types
 - [DIP-105](105.md): graphs
 - [DIP-106](106.md): lists
-- (103) maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)
-
-might deprecate these
-- [DIP-100b](100b.md): unique word identifiers
-- [DIP-100c](100c.md): unique word identifier types
-
 
 The nodes that make up CLASS THREADS (110-119)
 - [DIP-110](110.md): json schemas
 - [DIP-111](111.md): sets
 - [DIP-112](112.md): supersets
 - [DIP-113](113.md): class threads
+- [DIP-114](114.md): hybrids
   
 CONTAINERS, ORGANIZERS (start with 120-130) including CONCEPT GRAPH and rules
 
@@ -71,4 +66,7 @@ publish in grapevine:
 - 202 new wordType: rating
 - 203 publication of an attestation, endorsement, rating over nostr
 
-
+# May be deprecated
+- [DIP-100b](100b.md): unique word identifiers
+- [DIP-100c](100c.md): unique word identifier types
+- (107) maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)

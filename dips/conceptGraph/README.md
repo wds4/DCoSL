@@ -1,6 +1,6 @@
 # The Concept Graph
 
-STATUS OF THIS DOCUMENT: much has been added, but still much to add, and much to edit of what you currently see here.
+STATUS OF THIS DOCUMENT: under construction
 
 DIP-00: In DCoSL, data is represented as a [graph](../../glossary/graph.md), with [nodes](../../glossary/node.md) and [edges](../../glossary/relationship.md). A concept graph is a graph with additional structure, as described though this series of DIPs.
 

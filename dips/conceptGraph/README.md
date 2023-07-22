@@ -39,12 +39,10 @@ CONTAINERS, ORGANIZERS (start with 120-130) including CONCEPT GRAPH and rules
 - [DIP-125](125.md): item directory
 - [DIP-126](126.md): property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 
-  
 # under construction
 
 drafts in progress
-- [DIP-190](190.md): concept graph nostr publication tasks (may not need this?)
-
+- [DIP-190](190.md): concept graph nostr publication tasks -- move this to the 1100 block of DIPs
 
 drafts not yet made
 - declaration of a new concept

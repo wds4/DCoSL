@@ -1,7 +1,7 @@
 Bounties
 =====
 
-The following are a series of bounties to demonstrate the DCoSL protocol, culminating in the Nostr Channels app which will allow the decentralized curation of nostr feeds based on topic. 
+The following are a series of bounties to implement the DCoSL protocol, culminating in the Nostr Channels app which will allow the decentralized curation of nostr feeds based on topic. 
 
 When ready, they will be submitted to [nostr bounties](https://nostrbounties.com).
 

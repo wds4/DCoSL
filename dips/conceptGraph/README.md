@@ -38,13 +38,13 @@ The nodes that make up CLASS THREADS (110-119)
 - (113) [DIP-130](130.md): class threads
   
 CONTAINERS, ORGANIZERS (start with 120-130) including CONCEPT GRAPH and rules
-- (112) [DIP-105](105.md): graphs
-- (117) [DIP-111](111.md): concepts
-- (118) [DIP-112](112.md): concept graphs
-- (119) [DIP-113](113.md): properties
-- (120) [DIP-120](120.md): graph types (may not need this?)
-- (121) [DIP-121](121.md): item directory
-- (122) [DIP-122](122.md): property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
+- (120) [DIP-105](105.md): graphs
+- (121) [DIP-111](111.md): concepts
+- (122) [DIP-112](112.md): concept graphs
+- (123) [DIP-113](113.md): properties
+- (124) [DIP-120](120.md): graph types (may not need this?)
+- (125) [DIP-121](121.md): item directory
+- (126) [DIP-122](122.md): property directory - a type of graph with all relevant properties for a given concept (what I used to call a propertySchema)
 
   
 # under construction

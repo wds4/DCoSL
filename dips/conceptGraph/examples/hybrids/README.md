@@ -1,7 +1,7 @@
 hybrids
 =====
 
-Hybrids are words that are a mixture of several words together. 
+Hybrids are words that are a mixture of several word types together. Typically the word types that are node components of a class thread.
 
 ## augmented lists: hybrid `wordType` and `jsonSchema`
 

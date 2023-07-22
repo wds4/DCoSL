@@ -17,12 +17,10 @@ Note: the numeric designation of these DIPs is subject to change.
 GRAPH BASICS: words, relationships (100-109)
 - [DIP-100](100.md): words
 - [DIP-101](101.md): word types
-- (102) [DIP-102b](102b.md): local identifiers: slug, name, title
-RELATIONSHIPS
+- [DIP-102](102.md): local identifiers: slug, name, title
 - (103) [DIP-103](103.md): relationships
 - (104) [DIP-104](104.md): relationship types
 - (105) [DIP-106](106.md): lists
-
 - (103) maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)
 
 might deprecate these

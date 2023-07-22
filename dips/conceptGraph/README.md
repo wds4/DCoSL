@@ -20,7 +20,8 @@ GRAPH BASICS: words, relationships (100-109)
 - [DIP-102](102.md): local identifiers: slug, name, title
 - [DIP-103](103.md): relationships
 - [DIP-104](104.md): relationship types
-- (105) [DIP-106](106.md): lists
+- [DIP-105](105.md): graphs
+- [DIP-106](106.md): lists
 - (103) maybe combine 100b and 100c into: networks, universal identifiers, and metaData. (link to network/nostr and network/ipfs)
 
 might deprecate these
@@ -29,13 +30,13 @@ might deprecate these
 
 
 The nodes that make up CLASS THREADS (110-119)
-- (110) [DIP-107](107.md): json schemas
-- (111) [DIP-108](108.md): sets
-- (112) [DIP-109](109.md): supersets
-- (113) [DIP-130](130.md): class threads
+- [DIP-110](110.md): json schemas
+- [DIP-111](111.md): sets
+- [DIP-112](112.md): supersets
+- [DIP-113](113.md): class threads
   
 CONTAINERS, ORGANIZERS (start with 120-130) including CONCEPT GRAPH and rules
-- (120) [DIP-105](105.md): graphs
+
 - [DIP-121](121.md): concepts
 - [DIP-122](122.md): concept graphs
 - [DIP-123](123.md): properties

@@ -15,6 +15,7 @@ For publication of attestations, ratings, etc over nostr, see the networking sec
 # UNDER CONSTRUCTION
 - [DIP-200](200.md): averages are weighted averages 
 - [DIP-201](201.md): general format of a user 'trust' rating
+- [DIP-299](299.md): draft use of NIP-32 to encode ratings
 
 ## calculation and usage of USER INFLUENCE
 

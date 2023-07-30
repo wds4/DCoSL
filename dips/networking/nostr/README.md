@@ -17,6 +17,7 @@ Move all NIPs that are nostr related to this folder. Want to make it clear that 
 ## Grapevine-specific
 
 - [DIP-1104](1104.md): publication of an attestation over nostr
+- [DIP-1105](1105.md): alternate formatting and publication over nostr using [NIP-32](https://github.com/staab/nips/blob/nip-32-labeling/32.md)
 
 ## Work in progress
 

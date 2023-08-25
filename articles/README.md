@@ -1,4 +1,4 @@
-This is a series of articles designed to present the rational for DCoSL.
+This is a series of articles designed to provide an overview of the rational for DCoSL.
 
 My plan is to write and edit these articles using this repo, taking advantage of the glossary, and once complete, to publish articles in one or more other formats: substack, habla (the nostr version of substack), etc. Or just publish links to the versions kept in this repo.
 

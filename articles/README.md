@@ -4,9 +4,9 @@ This is a series of papers designed to present the rational for DCoSL.
 
 Start with the goal and work backwards.
 
-## The destination: Imagine
+## Imagine
 
-Illustrations from the user perepective of a world where knowledge is curated in a decentralized fashion.
+Companion to the Destination article. Illustrations from the user perepective of a world where knowledge is curated in a decentralized fashion.
   
 ## Roadmap: Major Milestones
 

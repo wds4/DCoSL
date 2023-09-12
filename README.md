@@ -2,7 +2,7 @@
 
 ## Preamble
 
-This repo is a work in progress. It is being implemented in the desktop app, [Pretty Good Apps](https://github.com/wds4/pretty-good), which is also a work in progress.
+This repo is a work in progress. It is being implemented in the desktop app, [Pretty Good Apps](https://github.com/wds4/pretty-good), which is also a work in progress. If you want an example from my app to illustrate what I mean when I talk about using your web of trust to curate a list, see [this example](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md).
 
 ## Intro
 

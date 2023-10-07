@@ -63,4 +63,4 @@ From GENERATION to IMPORTATION to CURATION is the KEY HURDLE that we have not ye
 
 The above is my roadmap. My vision. But there are other people, other visions, some of which nobody has YET heard of.
 
-Permissionless innovation ftw!
+So here we are. Bring them on! Permissionless innovation ftw!

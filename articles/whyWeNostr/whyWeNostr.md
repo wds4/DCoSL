@@ -3,7 +3,7 @@ Why We Nostr: Nostr, Decentralized Reputation and Web of Trust
 
 Proposal for short presentation, rough draft
 
-Show note from Guy Swann 7 Oct 23: "Have you ever stopped to really think about how astronomical the power to control information is?"
+Start with screenshot of note from Guy Swann from 7 Oct 23: "Have you ever stopped to really think about how astronomical the power to control information is?"
 
 Three categories of power:
 - physical violence

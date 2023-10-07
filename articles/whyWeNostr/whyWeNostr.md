@@ -42,7 +42,7 @@ To be part of an online community requires technical buy-in. Commnities, ranked 
 - a cathedral (bluesky)
 - a few NIPs (nostr).
 
-Can we whittle it down more? Maybe! Who's going to do it? US! (nostriches!)
+Can we whittle it down more? Maybe! Who's going to do it? No one if not us! (nostriches!)
 
 ## Proposed Roadmap: past, present, and future
 

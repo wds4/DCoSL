@@ -54,7 +54,7 @@ Can we whittle it down more? Maybe! Who's going to figure out how? Who indeed, i
 ☑️ decentralized IMPORTATION of lists: NIP-51 with naddr list importation (technically possible ... but is anyone using this yet???)<br/>
 🔲 decentralized CURATION of lists (DCoSL)<br/>
 🔲 ... of graphs (2 lists ==> 1 graph)<br/>
-🔲 ... of ontologies<br/>
+🔲 ... of ontologies (use of graphs to represent ontologies)<br/>
 🔲 ... of standards<br/>
 🔲 ... of repositories<br/>
 🔲 ... of platforms<br/>

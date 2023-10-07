@@ -1,7 +1,7 @@
 Why We Nostr: Nostr, Decentralized Reputation and Web of Trust
 =====
 
-Outline of proposed presentation
+Proposal for short presentation, rough draft
 
 Show note from Guy Swann 7 Oct 23: "Have you ever stopped to really think about how astronomical the power to control information is?"
 

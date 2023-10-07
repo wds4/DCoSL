@@ -19,15 +19,14 @@ We live on a planet with billions of people, free (one would hope) to associate 
 But here's the challenge: 
 
 ``
-Our mandate is to build tools -- sophisticated, powerful, dynamic -- that, once built, will never again require leadership of any single, centralizd team, or company, or person, or developer, or entity to manage. 
+Our mandate is to build tools -- sophisticated, powerful, dynamic -- none of which, once built, shall ever fall under the leadership of any single, centralizd team, or company, or person, or developer, or committee, or entity.
 ``
-
-We want network tools to be crowdsourced. Who's in contol, if ther's no leader? Your web of trust, of course!
-
-Imagine a network with NO LEADERSHIP. An integrated network, that does NOT revolve around any single:
-- mo single tech companies, like twitter
+NO LEADERSHIP means:
+- no single tech companies (like twitter)
 - no standards committees (like w3c)
-- no dev teams; no repositories
+- no dev teams (like repo managers)
+
+We need network tools that are crowdsourced. Who does the work, if there's no leader? Your web of trust, of course!
 
 Have we succeeded? We're making progress, but we're not there yet.
 

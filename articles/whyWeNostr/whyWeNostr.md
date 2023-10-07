@@ -46,7 +46,7 @@ To belong to any online community requires technical buy-in. Communities, ranked
 
 Can we whittle it down more? Maybe! Who's going to figure out how? Who indeed, if not us! (nostriches!)
 
-## Proposed Roadmap: past, present, and future
+## My Proposed Roadmap: past, present, and future
 
 ✅ decentralized identity and messaging: PGP, 1991, Phil Zimmermann<br/>
 ✅ decentralized platforms: nostr<br/>

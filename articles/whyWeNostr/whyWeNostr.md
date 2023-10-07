@@ -39,7 +39,7 @@ WE NEED NEW IDEAS. PERMISSIONLESS INNOVATION. TINKERING AROUND THE EDGES.
 
 Towards the goal of no leaders: Nostr has progressed farther than any other open-source platform. Nostr's structure using NIPs makes it much easier for new devs to get started than an open-sourced "cathedral", like bluesky, which requires tremendous technical buy-in, allegiance to a large protocol and its associated team, before a new developer can even pass go. With nostr, a new dev needs to adopt NIP-1 (and maybe a few other NIPs) and that's it!
 
-To belong to any online community requires technical buy-in. Communities, ranked by amount of technical buy-in from large to small:
+To belong to any online community requires some minimum amount of technical buy-in. Communities, ranked by amount of technical buy-in from large to small:
 - a tech company (twitter)
 - a cathedral (bluesky)
 - a few NIPs (nostr).

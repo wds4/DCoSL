@@ -44,7 +44,7 @@ To belong to any online community requires technical buy-in. Communities, ranked
 - a cathedral (bluesky)
 - a few NIPs (nostr).
 
-Can we whittle it down more? Maybe! Who's going to figure out how? No one if not us! (nostriches!)
+Can we whittle it down more? Maybe! Who's going to figure out how? Who indeed, if not us! (nostriches!)
 
 ## Proposed Roadmap: past, present, and future
 

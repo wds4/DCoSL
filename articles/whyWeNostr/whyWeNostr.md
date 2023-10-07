@@ -18,7 +18,7 @@ We live on a planet with billions of people, free (one would hope) to associate 
 
 But here's the challenge: 
 
-``Our mandate is to build tools -- sophisticated, powerful, dynamic -- none of which, once built, shall ever fall under the leadership of any single, centralizd team, or company, or person, or developer, or committee, or entity.``
+``Our mandate is to build tools -- sophisticated, powerful, dynamic -- none of which, once built, shall ever fall under the leadership of any single, centralized team, or company, or person, or developer, or committee, or entity.``
 
 NO LEADERSHIP means:
 - no single tech companies (like twitter)

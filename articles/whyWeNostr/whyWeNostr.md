@@ -10,7 +10,7 @@ Three categories of power:
 - control over flow of value
 - control over flow of information
 
-Bitcoin addresses flow of value. We are still working on flow of information!
+Each one of the above can be leveraged to attain the others. Bitcoin addresses flow of value. We are still working on flow of information!
 
 ## What exactly are we trying to achieve?
 

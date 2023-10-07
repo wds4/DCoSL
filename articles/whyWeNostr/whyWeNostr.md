@@ -18,14 +18,16 @@ We live on a planet with billions of people, free (one would hope) to associate 
 
 But here's the challenge: 
 
-``Our mandate is to build tools -- sophisticated, powerful, dynamic -- none of which, once built, shall ever fall under the leadership of any single, centralized team, or company, or person, or developer, or committee, or entity.``
+``We require tools that are sophisticated, powerful, dynamic, nimble, and yet, LEADERLESS.``
+
+Once we build them, they shall never require or fall under the leadership of any single, centralized team, or company, or person, or developer, or committee, or entity.
 
 NO LEADERSHIP means:
 - no single tech companies (like twitter)
 - no standards committees (like w3c)
 - no dev teams (like repo managers)
 
-We need network tools that are crowdsourced. Who does the work, if there's no leader? Your web of trust, of course!
+Who does the work, if there's no leader? Your web of trust, of course! We need network tools to be crowdsourced. 
 
 Have we succeeded? We're making progress, but we're not there yet.
 
@@ -33,14 +35,14 @@ Have we succeeded? We're making progress, but we're not there yet.
 
 WE NEED NEW IDEAS. PERMISSIONLESS INNOVATION. TINKERING AROUND THE EDGES.
 
-Towards the goal of no leaders: Nostr has progressed farther than any other open-source platform. Nostr's structure using NIPs makes it much easier for new devs to get started than a "cathedral", like bluesky, which requires tremendous technical buy-in, allegiance to a large protocol and its associated team, before a new developer can even pass go. A new deve needs to adopt NIP-1 (and maybe a few other NIPs) and that's it!
+Towards the goal of no leaders: Nostr has progressed farther than any other open-source platform. Nostr's structure using NIPs makes it much easier for new devs to get started than an open-sourced "cathedral", like bluesky, which requires tremendous technical buy-in, allegiance to a large protocol and its associated team, before a new developer can even pass go. With nostr, a new dev needs to adopt NIP-1 (and maybe a few other NIPs) and that's it!
 
 To be part of an online community requires technical buy-in. Commnities, ranked by amount of technical buy-in from large to small:
 - a tech company (twitter)
 - a cathedral (bluesky)
 - a few NIPs (nostr).
 
-Can we whittle it down more? Maybe!
+Can we whittle it down more? Maybe! Who's going to do it? US! (nostriches!)
 
 ## Proposed Roadmap: past, present, and future
 

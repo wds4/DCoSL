@@ -54,6 +54,6 @@ Can we whittle it down more? Maybe!
 🔲 ... of standards<br/>
 🔲 ... of repositories<br/>
 
-From GENERATION to CURATION is the barrier that we have not yet crossed. Once we do, all of the dominoes will fall!
+From GENERATION to IMPORTATION to CURATION is the KEY HURDLE that we have not yet crossed. Once we do, the rest of the dominoes will fall!
 
 Permissionless innovation ftw!

@@ -14,7 +14,13 @@ Bitcoin addresses flow of value. We are still working on flow of information!
 
 ## What exactly are we trying to achieve?
 
-We live on a planet with billions of people, free (one would hope) to associate and interact as they wish. What does that mean? It means: the spontaneous, dynamic organization of individuals into networks (a.k.a. communities, tribes) both large and small, sometimes overlapping, each one of which is capable of highly sophisticated intra-network communication and coordinated action. As cypherpunks we strive to build the tools to serve those needs. Tools that can be customized to the specific, changing, frequently unforseen (by devs) needs of each network. But there's a catch: we strive to build tools that do not require any one person, developer, team, or entity to manage those tools or to be in charge of the network. Have we succeeded? We're making progress, but we're not there yet.
+We live on a planet with billions of people, free (one would hope) to associate and interact as they wish. What does that mean? It means: the spontaneous, dynamic organization of individuals into networks (a.k.a. communities, tribes) both large and small, sometimes overlapping, each one of which is capable of highly sophisticated intra-network communication and coordinated action. As cypherpunks we strive to build the tools to serve those needs. Tools like platforms, protocols, standards, ontologies. Tools that can be customized to the specific, changing, frequently unforseen (by devs) needs of each network. But here's the challenge: 
+
+``
+Our mandate is to build tools -- sophisticated, powerful, dynamic, tailored to YOUR NEEDS -- that, once built, will never again require any single person, developer, team, or entity to manage. They will be crowdsourced. By whom? Your web of trust, of course!
+``
+
+Have we succeeded? We're making progress, but we're not there yet.
 
 ## Why is nostr ideally suited
 

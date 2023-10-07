@@ -61,6 +61,6 @@ Can we whittle it down more? Maybe! Who's going to figure out how? Who indeed, i
 
 From GENERATION to IMPORTATION to CURATION is the KEY HURDLE that we have not yet crossed. Once we do, the rest of the dominoes will fall!
 
-The above is my roadmap. My vision. But there are other people, other visions, some of which nobody has YET heard of.
+The above is my roadmap. My vision. But there are other people, other visions, some of which nobody has YET heard of or discussed or debated or attempted to build.
 
 So here we are. Bring them on! Permissionless innovation ftw!

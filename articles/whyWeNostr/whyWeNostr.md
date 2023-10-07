@@ -1,4 +1,4 @@
-Why We Nostr: Nostr and the Decentralized Reputation and Web of Trust
+Why We Nostr: Nostr, Decentralized Reputation and Web of Trust
 =====
 
 Outline of proposed presentation

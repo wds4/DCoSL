@@ -14,7 +14,9 @@ Bitcoin addresses flow of value. We are still working on flow of information!
 
 ## What exactly are we trying to achieve?
 
-We live on a planet with billions of people, free (one would hope) to associate and interact as we wish. What does that mean? It means: the spontaneous, dynamic organization of individuals into networks (a.k.a. communities, tribes) both large and small, sometimes overlapping, frequently changing, each one of which requires highly sophisticated intra-network communication and coordinated action. As cypherpunks we strive to build the tools to serve those needs. Tools like platforms, protocols, standards, ontologies. Tools that can be customized to the specific, changing, frequently unforseen (by devs) needs of each network. But here's the challenge: 
+We live on a planet with billions of people, free (one would hope) to associate and interact as we wish. What does that mean? It means: the spontaneous, dynamic organization of individuals into networks (a.k.a. communities, tribes) both large and small, sometimes overlapping, frequently changing, each one of which requires highly sophisticated tools for intra-network communication and coordinated action. As cypherpunks we strive to build the tools to serve those needs. Tools like platforms, protocols, standards, ontologies, languages. Tools that can be customized to the specific, changing, frequently unforseen (by devs) needs of each network. 
+
+But here's the challenge: 
 
 ``
 Our mandate is to build tools -- sophisticated, powerful, dynamic -- that, once built, will never again require leadership of any single, centralizd team, or company, or person, or developer, or entity to manage. 

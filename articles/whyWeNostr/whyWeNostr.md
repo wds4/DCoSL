@@ -27,6 +27,8 @@ NO LEADERSHIP means:
 - no standards committees (like w3c)
 - no dev teams (like repo managers)
 
+I'm not saying we don't need devs or standards or repos or committes. We need them desperately! I'm saying we want never to revolve around any of them. We need NONE of them to be indispensible, neither in theory, nor in practice.
+
 Who does the work, if there's no leader? Your web of trust, of course! We need network tools to be crowdsourced. 
 
 Have we succeeded? We're making progress, but we're not there yet.

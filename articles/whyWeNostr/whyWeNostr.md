@@ -17,8 +17,10 @@ Bitcoin addresses flow of value. We are still working on flow of information!
 We live on a planet with billions of people, free (one would hope) to associate and interact as we wish. What does that mean? It means: the spontaneous, dynamic organization of individuals into networks (a.k.a. communities, tribes) both large and small, sometimes overlapping, frequently changing, each one of which requires highly sophisticated intra-network communication and coordinated action. As cypherpunks we strive to build the tools to serve those needs. Tools like platforms, protocols, standards, ontologies. Tools that can be customized to the specific, changing, frequently unforseen (by devs) needs of each network. But here's the challenge: 
 
 ``
-Our mandate is to build tools -- sophisticated, powerful, dynamic, tailored to YOUR NEEDS -- that, once built, will never again require leadership of any single person, developer, team, or entity to manage. They will be crowdsourced. By whom? Your web of trust, of course!
+Our mandate is to build tools -- sophisticated, powerful, dynamic -- that, once built, will never again require leadership of any single, centralizd team, or company, or person, or developer, or entity to manage. 
 ``
+
+We want network tools to be crowdsourced. Who's in contol, if ther's no leader? Your web of trust, of course!
 
 Imagine a network with NO LEADERSHIP. An integrated network, that does NOT revolve around any single:
 - mo single tech companies, like twitter
@@ -31,13 +33,21 @@ Have we succeeded? We're making progress, but we're not there yet.
 
 WE NEED NEW IDEAS. PERMISSIONLESS INNOVATION. TINKERING AROUND THE EDGES.
 
-Nostr's structure using NIPs makes it much easier for new devs to get started than a "cathedral", like bluesky, which requires tremendous technical buy-in before a new developer can even pass go.
+Towards the goal of no leaders: Nostr has progressed farther than any other open-source platform. Nostr's structure using NIPs makes it much easier for new devs to get started than a "cathedral", like bluesky, which requires tremendous technical buy-in, allegiance to a large protocol and its associated team, before a new developer can even pass go. A new deve needs to adopt NIP-1 (and maybe a few other NIPs) and that's it!
+
+To be part of an online community requires technical buy-in. Commnities, ranked by amount of technical buy-in from large to small:
+- a tech company (twitter)
+- a cathedral (bluesky)
+- a few NIPs (nostr).
+
+Can we whittle it down more? Maybe!
 
 ## Proposed Roadmap: past, present, and future
 
 ✅ decentralized identity and messaging: PGP, 1991, Phil Zimmermann<br/>
 ✅ decentralized platforms: nostr<br/>
 ✅ decentralized GENERATION of lists: NIP-51<br/>
+☑️ decentralized IMPORTATION of lists: NIP-51 with naddr list importation (possible ... is anyone using this yet?)<br/>
 🔲 decentralized CURATION of lists<br/>
 🔲 ... of graphs<br/>
 🔲 ... of ontologies<br/>

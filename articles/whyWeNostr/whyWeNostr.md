@@ -47,9 +47,9 @@ Can we whittle it down more? Maybe!
 ✅ decentralized identity and messaging: PGP, 1991, Phil Zimmermann<br/>
 ✅ decentralized platforms: nostr<br/>
 ✅ decentralized GENERATION of lists: NIP-51<br/>
-☑️ decentralized IMPORTATION of lists: NIP-51 with naddr list importation (possible ... is anyone using this yet?)<br/>
-🔲 decentralized CURATION of lists<br/>
-🔲 ... of graphs<br/>
+☑️ decentralized IMPORTATION of lists: NIP-51 with naddr list importation (technically possible ... but is anyone using this yet???)<br/>
+🔲 decentralized CURATION of lists (DCoSL)<br/>
+🔲 ... of graphs (2 lists ==> 1 graph)<br/>
 🔲 ... of ontologies<br/>
 🔲 ... of standards<br/>
 🔲 ... of repositories<br/>

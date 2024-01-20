@@ -9,10 +9,10 @@ The *tapestry method* is predicated on the notion that principles should be as i
 
 The first and second principles of organization are:
 
-The class thread principle. This principle provides a method to group nodes into sets.
+- The *class thread principle*. This principle provides a method to group nodes into sets.
 
-The class object principle. (Rename this?) This principle is to maximize horizontal integration of the tapestry by breaking down constraints into as many smaller pieces as possible, called properties, and then to organize them into a tree structure.
+- the *class object principle*. (will probably rename this something. ??? the deconstruct-constraints-into-proerties-to-maximize-horizontal-integration set of principles???) This principle is to maximize horizontal integration of the tapestry by breaking down constraints into as many smaller pieces as possible, called *properties*, to organize them into a tree structure, and to identify the set of allowed values of a property with an external concept.
 
 -----
 
-The *tribal tapestry method* is predication on the notion that one way to demonstrate allegiance to a tribe is to prove disloyalty to a competing tribe.
+The *tribal tapestry method* is predication on the notion that one way to demonstrate allegiance to a tribe is to prove disloyalty to a competing tribe. This is achieved through *virtue signaling*.

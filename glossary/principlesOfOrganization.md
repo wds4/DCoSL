@@ -5,6 +5,8 @@ According to the *tapestry method*, the *principles of organization* of the tape
 
 -----
 
+## inclusive principles
+
 The *tapestry method* is predicated on the notion that principles should be as inclusive as possible, because the purpose of language is to communicate with others, and principles will not be useful if other entities do not adopt them. Inclusive principles should be as simple and as powerful as possible and should avoid adoption of any attributes that are arbitrary and / or lack a Schelling point.
 
 The first and second principles of organization are:
@@ -15,4 +17,6 @@ The first and second principles of organization are:
 
 -----
 
-The *tribal tapestry method* is predication on the notion that one way to demonstrate allegiance to a tribe is to prove disloyalty to a competing tribe. This is achieved through *virtue signaling*.
+## exclusive principles
+
+The *tribal tapestry method* is predication on the notion that one way to demonstrate allegiance to a tribe is to prove disloyalty to a competing tribe. This is achieved through *virtue signaling*. Virtue signals are designed to antagonize non tribal members by through the promotion, advocacy, or endorsement of tribe-specific *toxic threads*.

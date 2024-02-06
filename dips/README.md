@@ -22,7 +22,9 @@ how data is curated
 
 publication and retrieval of data to/from the nostr network
 
-## [DIP infinity, aka Circular DCoSL](conceptGraph/infinity.md)
+## [DIP infinity, aka Circular DCoSL]([https://github.com/wds4/DCoSL/blob/main/dips/coreProtocol/infinity.md])
+
+
 
 a state of enlightenment where the implementation of DCoSL is itself crowdsourced using DCoSL.
 

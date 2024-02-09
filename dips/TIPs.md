@@ -47,7 +47,6 @@ TIPs: proposed protocol to replace DCoSL. Suggestion to revise the TIP numbering
 - scoring systems
 - 5-star
 - 0-100 scale
-  
 - 2.0.0.4.x - context basics
 - 2.0.0.4.1 - context: two dimensions
 - 2.1.x - algorithms and equations

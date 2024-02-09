@@ -65,6 +65,14 @@ For IPFS we have: ipfs hash (immutable), ipns name (mutable); peerID is responsi
 
 work in progress 
 
+## slashtags, hyperdrive
+
+Potential alternative to nostr / IPFS. Haven't investigated this in depth yet. See [slashtags technicals](https://slashtags.to/technicals).
+
+## GUN
+
+Potential alternative to nostr / IPFS. Haven't investigated this in depth yet. See [GUN website](https://gun.eco).
+
 ## comparison of nostr to ipfs
 
 A single peerID can handle any number of concept graphs. A single nostr steward pubkey by convention should handle only one concept graph, so that slugs do not collide. 

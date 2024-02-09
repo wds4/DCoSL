@@ -57,6 +57,7 @@ TIPs: proposed protocol to replace DCoSL. Suggestion to revise the TIP numbering
 - trust rating
 - category (dimension of context)
 - action (dimension of context)
+- visualization of the grapevine
 
 3.x Networking
 

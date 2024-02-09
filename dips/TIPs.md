@@ -7,7 +7,6 @@ TIPs: proposed protocol to replace DCoSL. Suggestion to revise the TIP numbering
 - 0.0.x - basics
 - 0.0.0 - adoption of the tapestry model
 - 0.0.1 - principle of relativity
-
 - 0.0.1.x - principles of organization
 - 0.0.1.0 - class thread principle
 
@@ -44,7 +43,6 @@ TIPs: proposed protocol to replace DCoSL. Suggestion to revise the TIP numbering
 - 2.0.0.1.1 - attenuation factor
 - 2.0.0.1.2 - default user trust scores
 - 2.0.0.1.3 -
-
 - non-trust ratings
 - scoring systems
 - 5-star

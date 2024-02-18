@@ -1,4 +1,4 @@
-# Declaration of `relationship`
+# Declaration of `rating template`
 
 ## Declaration
 

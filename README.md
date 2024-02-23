@@ -1,6 +1,6 @@
 # DCoSL: Decentralized Curation of Simple Lists
 
-*This repo is being moved and rewritten as the [tapestry protocol](https://github.com/wds4/tapestry-protocol/blob/main/README.md)*
+*As of Feb 2024, this repo is being moved and rewritten as the [tapestry protocol](https://github.com/wds4/tapestry-protocol/blob/main/README.md)*
 
 ## Preamble
 

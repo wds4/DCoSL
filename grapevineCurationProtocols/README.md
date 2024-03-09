@@ -14,6 +14,7 @@ A Grapevine Curation Protocol (GPC) consists of three major sections:
 ## Abstractions
 - [DCoSL](DCoSL.md)
 - [DCoG](DCoG.md)
+- [cGroups](cGroups.md)
 
 ## Applications
 - [Nostr Apps Directory](nostrAppsDirectory.md)

@@ -27,7 +27,7 @@ Extension of the [DCoG](DCoG.md) protocol library with the following restriction
 create new instances
 - users can submit Nostr Apps
 - users can submit categories of Nostr Apps
-- users can submit relationships: category A is a subcategory of category B (may be redundant given the ability to attest?)
+- ~~users can submit relationships: category A is a subcategory of category B~~ (may be redundant given the ability to attest?)
 
 attestations:
 - that Nostr App X does / does not belong on the list of Nostr Apps

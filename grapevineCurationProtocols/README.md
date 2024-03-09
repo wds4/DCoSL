@@ -12,5 +12,5 @@ A Grapevine Curation Protocol (GPC) consists of three major sections:
 - a specification of what tht Grapevine will calculate and how it will calculate it
 
 ## Applications
-- [EEG Atlas Online](eegAtlasOnline)
-- [Proof of Personhood](proofOfPersonhood)
+- [EEG Atlas Online](eegAtlasOnline.md)
+- [Proof of Personhood](proofOfPersonhood.md)

@@ -11,8 +11,11 @@ A Grapevine Curation Protocol (GPC) consists of three major sections:
 - a list of user actions, e.g. that the user can add instances to a particular list or concept and can make certain types of attestations
 - a specification of what tht Grapevine will calculate and how it will calculate it
 
-## Applications
+## Abstractions
 - [DCoSL](DCoSL.md)
 - [DCoG](DCoG.md)
+
+## Applications
+- [Nostr Apps Directory](nostrAppsDirectory.md)
 - [EEG Atlas Online](eegAtlasOnline.md)
 - [Proof of Personhood](proofOfPersonhood.md)

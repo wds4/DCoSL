@@ -13,6 +13,8 @@ The Pretty Good Wiki (pgWiki) uses the Grapevine to enable you and your communit
 
 ### data model
 
+nodes: wikipedia articles
+
 ### user actions
 - users can submit and edit a new wiki entry (replaceable event)
 

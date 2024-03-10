@@ -18,5 +18,6 @@ A Grapevine Curation Protocol (GPC) consists of three major sections:
 
 ## Applications
 - [Nostr Apps Directory](nostrAppsDirectory.md)
+- [wikipedia](wiki.md)
 - [EEG Atlas Online](eegAtlasOnline.md)
 - [Proof of Personhood](proofOfPersonhood.md)

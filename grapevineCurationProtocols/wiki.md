@@ -16,9 +16,11 @@ The Pretty Good Wiki (pgWiki) uses the Grapevine to enable you and your communit
 nodes: wikipedia articles
 
 ### user actions
+
+#### content submission
 - users can submit and edit a new wiki entry (replaceable event)
 
-attestations
+#### attestations
 - user A can endorse (or block) User B as a curator for the wiki
 
 ### Grapevine calculations
